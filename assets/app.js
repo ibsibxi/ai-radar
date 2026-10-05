@@ -39,7 +39,12 @@ var el = {
   resTemplates: document.getElementById("resTemplates"),
   share: document.getElementById("share"),
   toTop: document.getElementById("toTop"),
-  introStats: document.getElementById("introStats")
+  introStats: document.getElementById("introStats"),
+  guideFirst: document.getElementById("guideFirst"),
+  guidePricing: document.getElementById("guidePricing"),
+  guidePitfalls: document.getElementById("guidePitfalls"),
+  guideRules: document.getElementById("guideRules"),
+  guideFaq: document.getElementById("guideFaq")
 };
 
 function toast(msg){
@@ -499,6 +504,57 @@ function renderResources(){
   }
 }
 
+function renderGuide(){
+  var g = window.__RADAR_GUIDE__ || {};
+
+  clear(el.guideFirst);
+  var st = g.firstOrder || [];
+  for (var i=0;i<st.length;i++){
+    var row = make("div","step-item");
+    row.appendChild(make("div","step-no", st[i].step));
+    var b = make("div");
+    b.appendChild(make("div","step-t", st[i].t));
+    b.appendChild(make("div","step-d", st[i].d));
+    row.appendChild(b);
+    el.guideFirst.appendChild(row);
+  }
+
+  clear(el.guidePricing);
+  var pr = g.pricing || [];
+  for (var j=0;j<pr.length;j++){
+    var m = make("div","mini-item");
+    m.appendChild(make("div","mini-t", pr[j].t));
+    m.appendChild(make("div","mini-d", pr[j].d));
+    el.guidePricing.appendChild(m);
+  }
+
+  clear(el.guidePitfalls);
+  var pf = g.pitfalls || [];
+  for (var k=0;k<pf.length;k++){
+    el.guidePitfalls.appendChild(make("div","signal " + (pf[k].lv || "warn"), "⛔ " + pf[k].t + " —— " + pf[k].d));
+  }
+
+  clear(el.guideRules);
+  var ru = g.rules || [];
+  for (var m2=0;m2<ru.length;m2++){
+    var card = make("div","rule-card");
+    card.appendChild(make("div","rule-p", ru[m2].p));
+    var ul = make("ul","rule-pts");
+    for (var n=0;n<(ru[m2].pts||[]).length;n++) ul.appendChild(make("li","", ru[m2].pts[n]));
+    card.appendChild(ul);
+    el.guideRules.appendChild(card);
+  }
+
+  clear(el.guideFaq);
+  var fq = g.faq || [];
+  for (var q=0;q<fq.length;q++){
+    var item = make("div","faq-item");
+    item.appendChild(make("div","faq-q", "Q：" + fq[q].q));
+    item.appendChild(make("div","faq-a", "A：" + fq[q].a));
+    el.guideFaq.appendChild(item);
+  }
+}
+
 function renderAll(d){
   STATE.news = d.news || [];
   STATE.sources = d.sources || [];
@@ -552,6 +608,7 @@ function copyDigest(){
 renderProjects();
 renderToolbox();
 renderGigs();
+renderGuide();
 renderResources();
 renderTabs();
 el.search.addEventListener("input", function(e){ STATE.query = e.target.value || ""; renderNews(); });
