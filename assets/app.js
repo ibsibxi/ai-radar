@@ -573,17 +573,29 @@ function renderAll(d){
   renderOpp(d);
 }
 
+function loadEmbedded(cb){
+  if (window.__RADAR_DATA__ && window.__RADAR_DATA__.news) { cb(); return; }
+  var s = document.createElement("script");
+  s.src = "data/data.js";
+  s.onload = cb;
+  s.onerror = cb;
+  document.head.appendChild(s);
+}
+
 function boot(){
   var url = "data/data.json?t=" + Date.now();
   fetch(url).then(function(r){ return r.json(); }).then(function(d){
     renderAll(d);
   }).catch(function(){
-    if (window.__RADAR_DATA__ && window.__RADAR_DATA__.news) { renderAll(window.__RADAR_DATA__); return; }
-    clear(el.newsList);
-    el.newsList.appendChild(make("div","empty","读取数据失败，请确认 data/data.json 是否存在。"));
-    el.updated.textContent = "加载失败";
-    el.badge.textContent = "—";
-    el.badge.className = "pill warn";
+    // 本地双击场景：fetch 读不了文件，退回到内嵌数据（按需加载，省 71KB）
+    loadEmbedded(function(){
+      if (window.__RADAR_DATA__ && window.__RADAR_DATA__.news) { renderAll(window.__RADAR_DATA__); return; }
+      clear(el.newsList);
+      el.newsList.appendChild(make("div","empty","读取数据失败，请确认 data/data.json 是否存在。"));
+      el.updated.textContent = "加载失败";
+      el.badge.textContent = "—";
+      el.badge.className = "pill warn";
+    });
   });
 }
 
