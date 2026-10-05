@@ -36,8 +36,51 @@ var el = {
   gigPitfalls: document.getElementById("gigPitfalls"),
   resTools: document.getElementById("resTools"),
   resLearning: document.getElementById("resLearning"),
-  resTemplates: document.getElementById("resTemplates")
+  resTemplates: document.getElementById("resTemplates"),
+  share: document.getElementById("share"),
+  toTop: document.getElementById("toTop"),
+  introStats: document.getElementById("introStats")
 };
+
+function toast(msg){
+  var t = document.querySelector(".toast");
+  if (!t){ t = make("div","toast"); document.body.appendChild(t); }
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(t._timer);
+  t._timer = setTimeout(function(){ t.classList.remove("show"); }, 2200);
+}
+
+function shareSite(){
+  var url = "https://ibsibxi.github.io/ai-radar/";
+  var text = "AI 资讯 · 副业项目 · 接单渠道 · 工具资源，一站式 AI 变现导航，推荐给你";
+  if (navigator.share) {
+    navigator.share({ title: "AI 变现资源中心", text: text, url: url })
+      .catch(function(){ copyText(url, null, ""); toast("链接已复制，去粘贴给朋友吧"); });
+  } else {
+    copyText(url, null, "");
+    toast("链接已复制，去粘贴给朋友吧");
+  }
+}
+
+function renderIntro(d){
+  var s = d.stats || {};
+  var projs = (window.__RADAR_PROJECTS__ || []).length;
+  var svcs = ((window.__RADAR_GIGS__ || {}).services || []).length;
+  var stats = [
+    { v: num(s.articleCount), k: "实时资讯" },
+    { v: projs, k: "副业项目" },
+    { v: svcs, k: "接单服务" },
+    { v: (s.sourcesOk||0) + "/" + (s.sourcesTotal||0), k: "数据源" }
+  ];
+  clear(el.introStats);
+  for (var i=0;i<stats.length;i++){
+    var box = make("div","intro-stat");
+    box.appendChild(make("div","v", stats[i].v));
+    box.appendChild(make("div","k", stats[i].k));
+    el.introStats.appendChild(box);
+  }
+}
 
 function clear(node){ while(node.firstChild) node.removeChild(node.firstChild); }
 function make(tag, cls, text){
@@ -466,6 +509,7 @@ function renderAll(d){
   var total = (d.stats && d.stats.sourcesTotal) || STATE.sources.length || 0;
   el.badge.textContent = "数据源 " + ok + "/" + total;
   el.badge.className = "pill " + (ok === total && total > 0 ? "ok" : "warn");
+  renderIntro(d);
   renderFilters();
   renderNews();
   renderData(d);
@@ -513,4 +557,9 @@ renderTabs();
 el.search.addEventListener("input", function(e){ STATE.query = e.target.value || ""; renderNews(); });
 el.refresh.addEventListener("click", boot);
 el.digest.addEventListener("click", copyDigest);
+el.share.addEventListener("click", shareSite);
+el.toTop.addEventListener("click", function(){ window.scrollTo({ top: 0, behavior: "smooth" }); });
+window.addEventListener("scroll", function(){
+  if (window.scrollY > 400) el.toTop.classList.add("show"); else el.toTop.classList.remove("show");
+});
 boot();
