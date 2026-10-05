@@ -172,6 +172,20 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:10px 20px 34p
 .prompt-body{white-space:pre-wrap;word-break:break-word;font:12.5px/1.7 Consolas,"Microsoft YaHei",monospace;color:#c7d3e6;background:rgba(0,0,0,.25);border-radius:9px;padding:11px 13px;margin-bottom:10px}
 .btn.small{font-size:12px;padding:5px 12px}
 
+/* AI 接单 */
+td.money-mini{color:var(--money);white-space:nowrap;font-variant-numeric:tabular-nums}
+.signal.warn{border-left-color:var(--down);color:#f0b8b8}
+
+/* 资源库 */
+.res-tools{display:grid;gap:16px}
+.res-cat-title{font-size:13px;color:var(--code);margin-bottom:9px;letter-spacing:.3px}
+.res-items{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.res-item{padding:12px 14px;border-radius:12px;background:var(--panel);border:1px solid var(--border)}
+.res-item-head{display:flex;justify-content:space-between;gap:10px;align-items:baseline;margin-bottom:5px}
+.res-name{font-size:14px;font-weight:600}
+.res-cost{font-size:11.5px;color:var(--money);white-space:nowrap}
+.res-use{font-size:12.5px;color:var(--muted);line-height:1.55}
+
 @media(max-width:880px){
   .split{grid-template-columns:1fr}
   .topbar{padding:14px 16px} main{padding:16px}
