@@ -176,6 +176,29 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:10px 20px 34p
 td.money-mini{color:var(--money);white-space:nowrap;font-variant-numeric:tabular-nums}
 .signal.warn{border-left-color:var(--down);color:#f0b8b8}
 
+/* 变现指南 */
+.steps-list{display:grid;gap:10px}
+.step-item{display:flex;gap:13px;align-items:flex-start;padding:13px 16px;border-radius:12px;background:var(--panel);border:1px solid var(--border)}
+.step-no{
+  flex-shrink:0;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;font-size:12.5px;font-weight:700;color:#fff;
+  background:linear-gradient(135deg,var(--accent),var(--accent2))
+}
+.step-t{font-size:14px;font-weight:600;margin-bottom:3px}
+.step-d{font-size:12.5px;color:var(--muted);line-height:1.6}
+.mini-list{display:grid;gap:10px}
+.mini-item{padding:12px 15px;border-radius:12px;background:var(--panel);border:1px solid var(--border)}
+.mini-t{font-size:13.5px;font-weight:600;margin-bottom:3px;color:#cfdaeb}
+.mini-d{font-size:12.5px;color:var(--muted);line-height:1.6}
+.rules-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.rule-card{padding:15px 17px;border-radius:13px;background:var(--panel);border:1px solid var(--border);border-top:3px solid var(--accent)}
+.rule-p{font-size:14.5px;font-weight:600;margin-bottom:9px}
+.rule-pts{margin-left:17px;font-size:12.5px;color:#b9c6d8;line-height:1.8}
+.faq-list{display:grid;gap:10px}
+.faq-item{padding:13px 16px;border-radius:12px;background:var(--panel);border:1px solid var(--border)}
+.faq-q{font-size:13.8px;font-weight:600;margin-bottom:5px;color:#cfdaeb}
+.faq-a{font-size:12.8px;color:var(--muted);line-height:1.7}
+.signal.danger{border-left-color:var(--down);color:#f0b8b8}
+
 /* 资源库 */
 .res-tools{display:grid;gap:16px}
 .res-cat-title{font-size:13px;color:var(--code);margin-bottom:9px;letter-spacing:.3px}
