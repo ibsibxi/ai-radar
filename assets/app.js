@@ -29,7 +29,14 @@ var el = {
   projList: document.getElementById("projList"),
   projFilters: document.getElementById("projFilters"),
   planList: document.getElementById("planList"),
-  promptList: document.getElementById("promptList")
+  promptList: document.getElementById("promptList"),
+  gigPlatforms: document.getElementById("gigPlatforms"),
+  gigServices: document.getElementById("gigServices"),
+  gigScripts: document.getElementById("gigScripts"),
+  gigPitfalls: document.getElementById("gigPitfalls"),
+  resTools: document.getElementById("resTools"),
+  resLearning: document.getElementById("resLearning"),
+  resTemplates: document.getElementById("resTemplates")
 };
 
 function clear(node){ while(node.firstChild) node.removeChild(node.firstChild); }
@@ -162,7 +169,7 @@ function renderData(d){
 
   clear(el.ghTable);
   var gh = (d.data && d.data.github) || [];
-  if (gh.length === 0){ el.ghTable.appendChild(make("div","empty","暂无数据（GitHub API 未返回）")); }
+  if (gh.length === 0){ el.ghTable.appendChild(make("div","empty","本地网络拦截了 GitHub 接口。线上版本数据正常：https://ibsibxi.github.io/ai-radar/")); }
   else {
     var t = make("table");
     var thead = make("thead"); var tr = make("tr");
@@ -182,7 +189,7 @@ function renderData(d){
 
   clear(el.hfTable);
   var hf = (d.data && d.data.huggingface) || [];
-  if (hf.length === 0){ el.hfTable.appendChild(make("div","empty","暂无数据（HuggingFace 未返回）")); }
+  if (hf.length === 0){ el.hfTable.appendChild(make("div","empty","本地网络拦截了 HuggingFace。线上版本数据正常：https://ibsibxi.github.io/ai-radar/")); }
   else {
     var t2 = make("table");
     var th2 = make("thead"); var tr2 = make("tr");
@@ -341,6 +348,114 @@ function renderToolbox(){
   }
 }
 
+function table(headers, rows){
+  var t = make("table");
+  var th = make("thead"); var tr = make("tr");
+  for (var h=0; h<headers.length; h++) tr.appendChild(make("th","",headers[h]));
+  th.appendChild(tr); t.appendChild(th);
+  var tb = make("tbody");
+  for (var i=0;i<rows.length;i++){
+    var row = make("tr");
+    for (var j=0;j<rows[i].length;j++){
+      var cell = rows[i][j];
+      var isObj = cell && typeof cell === "object";
+      var cls = j === 0 ? "name" : (isObj && cell.cls ? cell.cls : "");
+      var txt = isObj ? (cell.text || "") : cell;
+      row.appendChild(make("td", cls, txt));
+    }
+    tb.appendChild(row);
+  }
+  t.appendChild(tb);
+  return t;
+}
+
+function renderGigs(){
+  var g = window.__RADAR_GIGS__ || {};
+
+  clear(el.gigPlatforms);
+  var plats = g.platforms || [];
+  if (!plats.length) el.gigPlatforms.appendChild(make("div","empty","暂无数据"));
+  else {
+    var rows = [];
+    for (var i=0;i<plats.length;i++) rows.push([plats[i].name, plats[i].type, plats[i].how, { text: plats[i].note, cls: "desc" }]);
+    el.gigPlatforms.appendChild(table(["渠道","类型","怎么用","提醒"], rows));
+  }
+
+  clear(el.gigServices);
+  var svcs = g.services || [];
+  if (!svcs.length) el.gigServices.appendChild(make("div","empty","暂无数据"));
+  else {
+    var rows2 = [];
+    for (var j=0;j<svcs.length;j++){
+      var s = svcs[j];
+      rows2.push([s.name, { text: s.price, cls: "money-mini" }, s.time, { text: s.note, cls: "desc" }]);
+    }
+    el.gigServices.appendChild(table(["服务","参考价","交付时间","说明"], rows2));
+  }
+
+  clear(el.gigScripts);
+  var sc = g.scripts || [];
+  for (var k=0;k<sc.length;k++){
+    (function(item){
+      var card = make("div","prompt");
+      card.appendChild(make("div","prompt-title", item.title));
+      card.appendChild(make("pre","prompt-body", item.text));
+      var btn = make("button","btn small", "📋 复制");
+      btn.addEventListener("click", function(){ copyText(item.text, btn, "📋 复制"); });
+      card.appendChild(btn);
+      el.gigScripts.appendChild(card);
+    })(sc[k]);
+  }
+
+  clear(el.gigPitfalls);
+  var pf = g.pitfalls || [];
+  for (var m=0;m<pf.length;m++) el.gigPitfalls.appendChild(make("div","signal warn", "⛔ " + pf[m]));
+}
+
+function renderResources(){
+  var r = window.__RADAR_RESOURCES__ || {};
+
+  clear(el.resTools);
+  var cats = r.tools || [];
+  for (var i=0;i<cats.length;i++){
+    (function(cat){
+      var box = make("div","res-cat");
+      box.appendChild(make("div","res-cat-title", cat.cat));
+      var list = make("div","res-items");
+      for (var j=0;j<(cat.items||[]).length;j++){
+        var it = cat.items[j];
+        var card = make("div","res-item");
+        var head = make("div","res-item-head");
+        head.appendChild(make("span","res-name", it.name));
+        head.appendChild(make("span","res-cost", it.cost));
+        card.appendChild(head);
+        card.appendChild(make("div","res-use", it.use));
+        list.appendChild(card);
+      }
+      box.appendChild(list);
+      el.resTools.appendChild(box);
+    })(cats[i]);
+  }
+
+  clear(el.resLearning);
+  var le = r.learning || [];
+  if (!le.length) el.resLearning.appendChild(make("div","empty","暂无数据"));
+  else {
+    var rows = [];
+    for (var k=0;k<le.length;k++) rows.push([le[k].name, le[k].type, { text: le[k].note, cls: "desc" }]);
+    el.resLearning.appendChild(table(["名称","类型","说明"], rows));
+  }
+
+  clear(el.resTemplates);
+  var tp = r.templates || [];
+  if (!tp.length) el.resTemplates.appendChild(make("div","empty","暂无数据"));
+  else {
+    var rows2 = [];
+    for (var n=0;n<tp.length;n++) rows2.push([tp[n].name, { text: tp[n].note, cls: "desc" }]);
+    el.resTemplates.appendChild(table(["模板","说明"], rows2));
+  }
+}
+
 function renderAll(d){
   STATE.news = d.news || [];
   STATE.sources = d.sources || [];
@@ -392,6 +507,8 @@ function copyDigest(){
 
 renderProjects();
 renderToolbox();
+renderGigs();
+renderResources();
 renderTabs();
 el.search.addEventListener("input", function(e){ STATE.query = e.target.value || ""; renderNews(); });
 el.refresh.addEventListener("click", boot);
