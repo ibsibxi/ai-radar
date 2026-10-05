@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 变现嗅探雷达</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">◈</span>
+    <div>
+      <h1>AI 变现嗅探雷达</h1>
+      <p class="sub">真实数据 · 科技资讯 · 风口探针</p>
+    </div>
+  </div>
+  <div class="meta">
+    <span id="updated" class="pill">加载中…</span>
+    <span id="sourcesBadge" class="pill">—</span>
+    <button id="digest" class="btn">📋 复制简报</button>
+    <button id="refresh" class="btn">↻ 刷新</button>
+  </div>
+</header>
+<nav class="tabs">
+  <button class="tab active" data-tab="news">📰 资讯流</button>
+  <button class="tab" data-tab="projects">🚀 小项目库</button>
+  <button class="tab" data-tab="opp">💰 变现机会</button>
+  <button class="tab" data-tab="toolbox">🧰 工具箱</button>
+  <button class="tab" data-tab="probe">🎯 风口探针</button>
+  <button class="tab" data-tab="data">📊 真实数据</button>
+</nav>
+<main>
+  <section id="tab-news" class="tabpane active">
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="搜索标题或关键词…">
+      <div id="filters" class="chips"></div>
+    </div>
+    <div id="newsList" class="news-list"></div>
+  </section>
+  <section id="tab-data" class="tabpane">
+    <div id="statCards" class="stat-grid"></div>
+    <div class="split">
+      <div class="card">
+        <h2>GitHub 新星榜 · 近 14 天</h2>
+        <div id="ghTable" class="table-wrap"></div>
+      </div>
+      <div class="card">
+        <h2>HuggingFace 热门模型</h2>
+        <div id="hfTable" class="table-wrap"></div>
+      </div>
+    </div>
+  </section>
+  <section id="tab-probe" class="tabpane">
+    <div class="card">
+      <h2>关键词热度 · 近 48 小时</h2>
+      <div id="probeBars" class="bars"></div>
+    </div>
+    <div class="card">
+      <h2>今日信号</h2>
+      <div id="signals" class="signals"></div>
+    </div>
+  </section>
+  <section id="tab-opp" class="tabpane">
+    <div class="card">
+      <h2>💰 变现机会 · 从今日资讯里挖出的可执行动作</h2>
+      <div id="oppList" class="opp-list"></div>
+    </div>
+    <div class="card">
+      <h2>🚀 选题灵感 · 小红书式标题（可直接用）</h2>
+      <div id="ideaList" class="idea-list"></div>
+    </div>
+    <div class="card">
+      <h2>📡 数据源状态</h2>
+      <div id="sourceList" class="source-list"></div>
+    </div>
+  </section>
+  <section id="tab-projects" class="tabpane">
+    <div class="toolbar">
+      <div id="projFilters" class="chips"></div>
+    </div>
+    <div id="projList" class="proj-list"></div>
+  </section>
+  <section id="tab-toolbox" class="tabpane">
+    <div class="card">
+      <h2>✅ 7 天启动计划（勾选会自动保存）</h2>
+      <div id="planList" class="plan-list"></div>
+    </div>
+    <div class="card">
+      <h2>🧰 提示词工具箱 · 复制了就能用</h2>
+      <div id="promptList" class="prompt-list"></div>
+    </div>
+  </section>
+</main>
+<footer>
+  <span id="foot">数据每 3 小时自动更新 · 仅供决策参考</span>
+</footer>
+<script src="data/data.js"></script>
+<script src="data/projects.js"></script>
+<script src="data/toolbox.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
