@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI 变现嗅探雷达</title>
+<title>AI 变现资源中心</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -11,8 +11,8 @@
   <div class="brand">
     <span class="logo">◈</span>
     <div>
-      <h1>AI 变现嗅探雷达</h1>
-      <p class="sub">真实数据 · 科技资讯 · 风口探针</p>
+      <h1>AI 变现资源中心</h1>
+      <p class="sub">资讯 · 变现机会 · 副业项目 · 接单 · 资源</p>
     </div>
   </div>
   <div class="meta">
@@ -23,12 +23,13 @@
   </div>
 </header>
 <nav class="tabs">
-  <button class="tab active" data-tab="news">📰 资讯流</button>
-  <button class="tab" data-tab="projects">🚀 小项目库</button>
+  <button class="tab active" data-tab="news">📰 AI 资讯</button>
   <button class="tab" data-tab="opp">💰 变现机会</button>
-  <button class="tab" data-tab="toolbox">🧰 工具箱</button>
+  <button class="tab" data-tab="projects">🚀 副业项目库</button>
+  <button class="tab" data-tab="gigs">🧾 AI 接单</button>
+  <button class="tab" data-tab="resources">🧰 资源库</button>
   <button class="tab" data-tab="probe">🎯 风口探针</button>
-  <button class="tab" data-tab="data">📊 真实数据</button>
+  <button class="tab" data-tab="data">📊 数据</button>
 </nav>
 <main>
   <section id="tab-news" class="tabpane active">
@@ -75,13 +76,31 @@
       <div id="sourceList" class="source-list"></div>
     </div>
   </section>
+  <section id="tab-gigs" class="tabpane">
+    <div class="card">
+      <h2>🧾 接单渠道 · 去哪里找客户</h2>
+      <div id="gigPlatforms" class="table-wrap"></div>
+    </div>
+    <div class="card">
+      <h2>💰 服务 SKU · 你能卖什么、卖多少钱</h2>
+      <div id="gigServices" class="table-wrap"></div>
+    </div>
+    <div class="card">
+      <h2>💬 接单话术 · 复制了就能用</h2>
+      <div id="gigScripts" class="prompt-list"></div>
+    </div>
+    <div class="card">
+      <h2>⛔ 接单红线 · 别踩</h2>
+      <div id="gigPitfalls" class="signals"></div>
+    </div>
+  </section>
   <section id="tab-projects" class="tabpane">
     <div class="toolbar">
       <div id="projFilters" class="chips"></div>
     </div>
     <div id="projList" class="proj-list"></div>
   </section>
-  <section id="tab-toolbox" class="tabpane">
+  <section id="tab-resources" class="tabpane">
     <div class="card">
       <h2>✅ 7 天启动计划（勾选会自动保存）</h2>
       <div id="planList" class="plan-list"></div>
@@ -89,6 +108,18 @@
     <div class="card">
       <h2>🧰 提示词工具箱 · 复制了就能用</h2>
       <div id="promptList" class="prompt-list"></div>
+    </div>
+    <div class="card">
+      <h2>🛠 AI 工具清单 · 按用途分类</h2>
+      <div id="resTools" class="res-tools"></div>
+    </div>
+    <div class="card">
+      <h2>📖 学习与信息源</h2>
+      <div id="resLearning" class="table-wrap"></div>
+    </div>
+    <div class="card">
+      <h2>📋 常用模板</h2>
+      <div id="resTemplates" class="table-wrap"></div>
     </div>
   </section>
 </main>
@@ -98,6 +129,8 @@
 <script src="data/data.js"></script>
 <script src="data/projects.js"></script>
 <script src="data/toolbox.js"></script>
+<script src="data/gigs.js"></script>
+<script src="data/resources.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>
