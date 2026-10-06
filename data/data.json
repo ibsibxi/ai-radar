@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T12:35:20.321Z",
-  "previousAt": "2026-10-06T04:20:30.669Z",
+  "generatedAt": "2026-10-06T19:56:33.654Z",
+  "previousAt": "2026-10-06T12:35:20.321Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 131,
+    "recent48h": 135,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 106
+    "aiCount": 109
   },
   "sources": [
     {
@@ -78,7 +78,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1247,
+      "count": 1250,
       "error": null
     },
     {
@@ -97,6 +97,349 @@
     }
   ],
   "news": [
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T18:22:45.000Z",
+      "ai": true,
+      "titleZh": "Hark发布专注于隐私的人工智能个人助理"
+    },
+    {
+      "title": "Former German spy chief arrested for attempted treason",
+      "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T16:51:50.000Z",
+      "ai": false,
+      "titleZh": "前德国间谍头目因叛国未遂被捕"
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T16:35:00.000Z",
+      "ai": true,
+      "titleZh": "Mirror Particle正在构建人类行为的“世界模型”"
+    },
+    {
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T16:23:25.000Z",
+      "ai": true,
+      "titleZh": "人工智能现在能够开发自己的推理硬件"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "ai": true,
+      "titleZh": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "lang": "en",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "ai": true,
+      "titleZh": "Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动"
+    },
+    {
+      "title": "LibreOffice says &#8216;no AI&#8217; is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T15:25:00.000Z",
+      "ai": true,
+      "titleZh": "LibreOffice说“没有人工智能”现在是一个软件功能"
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T15:19:57.000Z",
+      "ai": false,
+      "titleZh": "Smalltalk的早期历史（ 1993年）"
+    },
+    {
+      "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
+      "url": "https://www.ithome.com/1/010/124.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T15:06:34.000Z",
+      "ai": false
+    },
+    {
+      "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
+      "url": "https://www.ithome.com/1/010/123.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T14:49:57.000Z",
+      "ai": true
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T14:33:16.000Z",
+      "ai": true,
+      "titleZh": "Mistral的新1T车型旨在超越封闭和公开的竞争对手"
+    },
+    {
+      "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
+      "url": "https://www.ithome.com/1/010/114.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T14:30:54.000Z",
+      "ai": true
+    },
+    {
+      "title": "特斯拉在印度市场交付超一年，仅注册不到 1000 辆汽车",
+      "url": "https://www.ithome.com/1/010/111.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T14:20:44.000Z",
+      "ai": false
+    },
+    {
+      "title": "日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%",
+      "url": "https://www.ithome.com/1/010/110.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T14:18:26.000Z",
+      "ai": false
+    },
+    {
+      "title": "Pinterest&#8217;s AI now turns beauty Pins into action plans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T14:00:49.000Z",
+      "ai": true,
+      "titleZh": "Pinterest的人工智能现在将美容徽章转化为行动计划"
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "ai": true,
+      "titleZh": "在TechCrunch Disrupt 2026上解答您的所有问题：完整的分组会议议程揭晓"
+    },
+    {
+      "title": "距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高",
+      "url": "https://www.ithome.com/1/010/109.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:58:56.000Z",
+      "ai": true
+    },
+    {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T13:58:07.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：我将我的iPhone和$ 20智能插头转换为f-stop计时器"
+    },
+    {
+      "title": "宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重",
+      "url": "https://www.ithome.com/1/010/108.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:56:21.000Z",
+      "ai": true
+    },
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T13:55:37.000Z",
+      "ai": false,
+      "titleZh": "Tapo （ Rust/Python库）现在讲TP-Link的TPAP协议"
+    },
+    {
+      "title": "杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员",
+      "url": "https://www.ithome.com/1/010/107.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:48:19.000Z",
+      "ai": false
+    },
+    {
+      "title": "红魔 12 Pro+ 手机新品开启预约，10 月 15 日发布",
+      "url": "https://www.ithome.com/1/010/105.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:34:27.000Z",
+      "ai": false
+    },
+    {
+      "title": "取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直播权",
+      "url": "https://www.ithome.com/1/010/104.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:32:59.000Z",
+      "ai": false
+    },
+    {
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "url": "https://www.parseable.com",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T13:30:50.000Z",
+      "ai": false,
+      "titleZh": "Show HN ： Parseable ，一个开放的可观测性数据湖，处理100米时间序列/分钟"
+    },
+    {
+      "title": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
+      "url": "https://www.ithome.com/1/010/103.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:24:11.000Z",
+      "ai": false
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T13:15:49.000Z",
+      "ai": false
+    },
+    {
+      "title": "降本增效：宝马将提高通用零部件使用比例，减少定制零部件",
+      "url": "https://www.ithome.com/1/010/102.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:09:15.000Z",
+      "ai": false
+    },
+    {
+      "title": "《战争机器：事变日》游戏开发团队找到提升微软 Xbox Series S 主机性能的新方法：虚拟内存",
+      "url": "https://www.ithome.com/1/010/101.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:08:05.000Z",
+      "ai": false
+    },
+    {
+      "title": "Mathematics of Geothermal Energy",
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T13:05:26.000Z",
+      "ai": false,
+      "titleZh": "地热能数学"
+    },
+    {
+      "title": "英伟达发布 617.42 Game Ready 显卡驱动：优化《使命召唤：现代战争 4》等新作",
+      "url": "https://www.ithome.com/1/010/098.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T13:03:37.000Z",
+      "ai": true
+    },
+    {
+      "title": "优派 VX25G26-2K-10 显示器预售：24.5 英寸 2K 280Hz，999 元起",
+      "url": "https://www.ithome.com/1/010/097.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T12:57:14.000Z",
+      "ai": false
+    },
+    {
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T12:53:58.000Z",
+      "ai": true,
+      "titleZh": "Erdosproblems.com屈服于人工智能的冲击"
+    },
+    {
+      "title": "梅赛德斯-奔驰正式为 EQS 电动轿车提供线控转向选装，套件税前 2500 欧元",
+      "url": "https://www.ithome.com/1/010/096.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-06T12:49:46.000Z",
+      "ai": false
+    },
+    {
+      "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T12:45:49.000Z",
+      "ai": false,
+      "titleZh": "Meta的Muse是一个可爱的隐私和安全垃圾桶火灾"
+    },
+    {
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T12:40:03.000Z",
+      "ai": false,
+      "titleZh": "按质量计算，地球的主要物种是什么？"
+    },
+    {
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "url": "https://arxiv.org/abs/2610.06783",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T12:31:17.000Z",
+      "ai": false,
+      "titleZh": "次二次3SUM和次立方APSP"
+    },
     {
       "title": "消息称中国供应商拿下雷克萨斯新一代纯电 SUV 大量零部件订单",
       "url": "https://www.ithome.com/1/010/094.htm",
@@ -125,6 +468,15 @@
       "ai": false
     },
     {
+      "title": "Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T11:59:01.000Z",
+      "ai": false
+    },
+    {
       "title": "R 星表态：《GTA6》不会过度聚焦特定人物、事件，系列游戏从未重点讽刺美国政治",
       "url": "https://www.ithome.com/1/010/090.htm",
       "source": "IT之家",
@@ -132,16 +484,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-06T11:58:13.000Z",
       "ai": false
-    },
-    {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-06T11:45:55.000Z",
-      "ai": false,
-      "titleZh": "JetBrains在其跟踪历史中首次报告净财务损失"
     },
     {
       "title": "国庆假期最后一天，10 月 7 日 58 个高速服务区预计充电特别繁忙",
@@ -199,14 +541,14 @@
       "ai": false
     },
     {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
       "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
       "publishedAt": "2026-10-06T11:11:51.000Z",
       "ai": false,
-      "titleZh": "大自然在物种消失时“反弹”的能力被大大高估了"
+      "titleZh": "当物种消失时，大自然的“反弹”能力被高估了：研究"
     },
     {
       "title": "制造商 Brook 推出 StarRay 无线手柄：霍尔摇杆、1K 回报率，支持 PS5/PC",
@@ -216,6 +558,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-06T11:10:24.000Z",
       "ai": false
+    },
+    {
+      "title": "I'm the AGI that's wiping out humanity",
+      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-06T10:59:55.000Z",
+      "ai": false,
+      "titleZh": "我是消灭人性的敏捷"
     },
     {
       "title": "REALFORCE 正式推出 RS1 分体静电容键盘，配备 45gf 静音轴体",
@@ -254,16 +606,6 @@
       "ai": true
     },
     {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-06T10:15:40.000Z",
-      "ai": false,
-      "titleZh": "ASOS应用程序用户收到显然由黑客发送的推送通知"
-    },
-    {
       "title": "三款第一方游戏任选其一：任天堂将在日本推出 Switch 2“主机 + 游戏”自选套装",
       "url": "https://www.ithome.com/1/010/032.htm",
       "source": "IT之家",
@@ -289,6 +631,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "ai": false
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "lang": "en",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "ai": true,
+      "titleZh": "使用Ironclad推进计算机使用"
     },
     {
       "title": "Valve 确认：Linux 版 Steam 客户端目前不支持 Arm 芯片",
@@ -318,14 +670,14 @@
       "ai": false
     },
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
       "publishedAt": "2026-10-06T09:48:46.000Z",
       "ai": false,
-      "titleZh": "诺贝尔物理学奖授予弗朗西斯·哈尔岑"
+      "titleZh": "2026年诺贝尔物理学奖：弗朗西斯·哈尔岑"
     },
     {
       "title": "《皇牌空战 8：希孚之翼》Steam 同时在线玩家数突破 5.2 万，创系列游戏新纪录",
@@ -635,15 +987,6 @@
       "ai": false
     },
     {
-      "title": "电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿",
-      "url": "https://www.ithome.com/1/009/994.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:46:24.000Z",
-      "ai": false
-    },
-    {
       "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
       "url": "https://www.qbitai.com/2026/10/501726.html",
       "source": "量子位",
@@ -662,15 +1005,6 @@
       "ai": false
     },
     {
-      "title": "2026 诺贝尔文学奖揭晓在即，中国作家残雪成最热门人选",
-      "url": "https://www.ithome.com/1/009/993.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:44:55.000Z",
-      "ai": false
-    },
-    {
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
       "source": "HuggingFace",
@@ -681,39 +1015,12 @@
       "titleZh": "Falcon-Emirati ：法学硕士学习方言、文化和细微差别"
     },
     {
-      "title": "《直到黎明》开发商 Supermassive Games 开始裁员，超 70 人受影响",
-      "url": "https://www.ithome.com/1/009/992.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:38:34.000Z",
-      "ai": false
-    },
-    {
       "title": "希捷和东芝据悉竞购TDK硬盘磁头业务，交易金额或达数十亿美元",
       "url": "https://www.36kr.com/newsflashes/4013929954447236",
       "source": "36氪",
       "sourceId": "36kr",
       "lang": "zh",
       "publishedAt": "2026-10-06T06:31:02.000Z",
-      "ai": false
-    },
-    {
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:25:15.000Z",
-      "ai": true
-    },
-    {
-      "title": "育碧《刺客信条：女巫》游戏角色与剧情细节曝光，预估 2027 下半年发行",
-      "url": "https://www.ithome.com/1/009/989.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:22:04.000Z",
       "ai": false
     },
     {
@@ -726,33 +1033,6 @@
       "ai": false
     },
     {
-      "title": "颂拓 Race 3S 智能手表曝光：2000 nit 亮度、满电 GPS 续航 45 小时、存储翻倍至 64GB",
-      "url": "https://www.ithome.com/1/009/988.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T06:06:17.000Z",
-      "ai": false
-    },
-    {
-      "title": "AMD 苏姿丰落地中国台湾会见供应链和客户：今早见鸿海刘扬伟，下午再访台积电，私人飞机换成黄仁勋同品牌",
-      "url": "https://www.ithome.com/1/009/987.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:57:15.000Z",
-      "ai": false
-    },
-    {
-      "title": "三星 Galaxy S27 Ultra 手机爆料：AI 减少镜头光晕，充电提速约 3%",
-      "url": "https://www.ithome.com/1/009/986.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:47:40.000Z",
-      "ai": true
-    },
-    {
       "title": "三星电机获近2900亿韩元AI服务器MLCC订单",
       "url": "https://www.36kr.com/newsflashes/4013920306712451",
       "source": "36氪",
@@ -762,48 +1042,12 @@
       "ai": true
     },
     {
-      "title": "谷歌 Pixel 12 系列手机曝光：Fold 折叠内屏升至 2296×2404 分辨率",
-      "url": "https://www.ithome.com/1/009/985.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:34:42.000Z",
-      "ai": false
-    },
-    {
-      "title": "功夫游戏《师父 Sifu》官宣 10 月 12 日推出手游版本，搓屏幕战斗",
-      "url": "https://www.ithome.com/1/009/983.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:30:01.000Z",
-      "ai": false
-    },
-    {
       "title": "一老板花90万买4条机器狗不满表现，具微科技：已通过协商妥善处理",
       "url": "https://www.36kr.com/newsflashes/4013830431461257",
       "source": "36氪",
       "sourceId": "36kr",
       "lang": "zh",
       "publishedAt": "2026-10-06T05:23:38.000Z",
-      "ai": false
-    },
-    {
-      "title": "英特尔 Nova Lake 处理器首发策略曝光：大容量缓存 BFC 型号先上市",
-      "url": "https://www.ithome.com/1/009/982.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:16:48.000Z",
-      "ai": false
-    },
-    {
-      "title": "碰撞前 10 米辅助驾驶消失，网传高速追尾事故引发热议",
-      "url": "https://www.ithome.com/1/009/981.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T05:13:01.000Z",
       "ai": false
     },
     {
@@ -816,48 +1060,12 @@
       "ai": true
     },
     {
-      "title": "捷豹 Type 01 四座电动 GT 量产版谍照曝光，三电机超 1000 马力",
-      "url": "https://www.ithome.com/1/009/980.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T04:59:26.000Z",
-      "ai": false
-    },
-    {
-      "title": "为防范 AI 深度伪造，意大利总理梅洛尼申请将自己的声音注册为商标",
-      "url": "https://www.ithome.com/1/009/979.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T04:58:16.000Z",
-      "ai": true
-    },
-    {
-      "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
-      "url": "https://www.ithome.com/1/009/978.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T04:51:49.000Z",
-      "ai": false
-    },
-    {
       "title": "长三角铁路迎来节中返程客流高峰 6日预计发送旅客390万人次",
       "url": "https://www.36kr.com/newsflashes/4013809411182468",
       "source": "36氪",
       "sourceId": "36kr",
       "lang": "zh",
       "publishedAt": "2026-10-06T04:40:26.000Z",
-      "ai": false
-    },
-    {
-      "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
-      "url": "https://www.ithome.com/1/009/976.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T04:39:03.000Z",
       "ai": false
     },
     {
@@ -886,16 +1094,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-06T03:57:57.000Z",
       "ai": true
-    },
-    {
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-06T03:39:01.000Z",
-      "ai": false,
-      "titleZh": "复活iChat音频和视频会议"
     },
     {
       "title": "韩国9月外储为4405.6亿美元 环比减少17.2亿美元",
@@ -934,16 +1132,6 @@
       "ai": false
     },
     {
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-06T02:51:51.000Z",
-      "ai": false,
-      "titleZh": "为什么Common Lisp现在是最好的编程语言"
-    },
-    {
       "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
       "url": "http://www.geekpark.net/news/372086",
       "source": "极客公园",
@@ -962,26 +1150,6 @@
       "ai": false
     },
     {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T23:35:35.000Z",
-      "ai": false,
-      "titleZh": "Samon ：设计禅宗花园拼图"
-    },
-    {
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T23:06:36.000Z",
-      "ai": false,
-      "titleZh": "短暂测试"
-    },
-    {
       "title": "Example.com just launched the biggest redesign in decades",
       "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "source": "Hacker News",
@@ -992,16 +1160,6 @@
       "titleZh": "Example.com刚刚推出了几十年来最大规模的重新设计"
     },
     {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T22:37:58.000Z",
-      "ai": false,
-      "titleZh": "全球太阳能地图集：全球太阳能发电潜力摘要"
-    },
-    {
       "title": "Friendship ended with Deno, now Node is my best friend",
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
       "source": "Hacker News",
@@ -1010,36 +1168,6 @@
       "publishedAt": "2026-10-05T22:30:02.000Z",
       "ai": false,
       "titleZh": "友谊与Deno结束，现在Node是我最好的朋友"
-    },
-    {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T21:40:50.000Z",
-      "ai": false,
-      "titleZh": "查找旧金山任意两点之间最平坦的路线"
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T21:15:07.000Z",
-      "ai": false,
-      "titleZh": "粉尘：无反向传播的预训练变压器"
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T21:00:21.000Z",
-      "ai": true,
-      "titleZh": "Opus 5.5试剂发现两种常温磁性半导体候选材料"
     },
     {
       "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
@@ -1060,16 +1188,6 @@
       "publishedAt": "2026-10-05T19:33:53.000Z",
       "ai": true,
       "titleZh": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美"
-    },
-    {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T19:16:35.000Z",
-      "ai": false,
-      "titleZh": "BEAM ： Reflection的501B开放式重量型号"
     },
     {
       "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -1162,26 +1280,6 @@
       "titleZh": "与初创公司《战地200》评委见面，他们将在TechCrunch Disrupt 2026上决定获胜者"
     },
     {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T14:23:47.000Z",
-      "ai": false,
-      "titleZh": "在Haskell中制作GTK应用程序，第1部分"
-    },
-    {
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T14:12:14.000Z",
-      "ai": false,
-      "titleZh": "我家里的灯"
-    },
-    {
       "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
@@ -1190,26 +1288,6 @@
       "publishedAt": "2026-10-05T14:00:00.000Z",
       "ai": true,
       "titleZh": "颠覆阶段的最终阵容：在TechCrunch Disrupt 2026之外的任何地方，您都不会听到为期三天的对话"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won&#8217;t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "ai": true,
-      "titleZh": "Safeworld能否说服人们GenAI机器人不会伤害他们？"
-    },
-    {
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-05T10:47:06.000Z",
-      "ai": false,
-      "titleZh": "搜索API"
     },
     {
       "title": "刚刚，诺贝尔奖颁给光遗传学！",
@@ -1274,36 +1352,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-05T00:36:34.000Z",
       "ai": true
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-04T20:31:07.000Z",
-      "ai": true,
-      "titleZh": "由于人工智能提交量“大幅增加” ，谷歌冻结了其开源漏洞奖励计划"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-04T20:08:34.000Z",
-      "ai": true,
-      "titleZh": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？"
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-04T15:15:10.000Z",
-      "ai": true,
-      "titleZh": "特朗普推出他的新超级情报部队"
     },
     {
       "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
@@ -1413,36 +1461,6 @@
       "publishedAt": "2026-10-03T22:56:48.000Z",
       "ai": true,
       "titleZh": "经纪人说已经完成了。数据库不同意。"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-03T18:43:57.000Z",
-      "ai": true,
-      "titleZh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-03T16:30:01.000Z",
-      "ai": true,
-      "titleZh": "OpenAI安全员工辞职，声称公司的“文化被打破”"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-03T14:00:00.000Z",
-      "ai": true,
-      "titleZh": "所有可以存在于您的短信中的人工智能代理"
     },
     {
       "title": "《Gran Turismo 7》迎来首台中国VGT 同时GT史上30年首次新增电车驾驶教学",
@@ -1930,25 +1948,6 @@
       "lang": "zh",
       "publishedAt": "2026-09-30T00:20:06.000Z",
       "ai": true
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "HuggingFace",
-      "sourceId": "hf",
-      "lang": "en",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "ai": true,
-      "titleZh": "开放式TTS排行榜：多语言文本到语音和语音克隆的可扩展评估"
-    },
-    {
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "url": "https://sspai.com/post/115197",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "lang": "zh",
-      "publishedAt": "2026-09-29T23:39:21.000Z",
-      "ai": true
     }
   ],
   "data": {
@@ -1986,20 +1985,28 @@
         "createdAt": "2026-09-24T10:12:46Z"
       },
       {
+        "name": "ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
+        "url": "https://github.com/ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
+        "stars": 16,
+        "desc": "Built for Smart India Hackathon 2026, SIH Problem Statement 26192 by National Disaster Response Force (NDRF), DM Division, Ministry of Home Affairs: Hyperlocal ",
+        "lang": "TypeScript",
+        "createdAt": "2026-09-29T21:09:23Z"
+      },
+      {
+        "name": "zermello/awesome-robotics",
+        "url": "https://github.com/zermello/awesome-robotics",
+        "stars": 14,
+        "desc": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more. A curated collection of resources to ",
+        "lang": "",
+        "createdAt": "2026-09-30T14:06:16Z"
+      },
+      {
         "name": "lucidrains/survival-rl",
         "url": "https://github.com/lucidrains/survival-rl",
         "stars": 14,
         "desc": "Explorations into Survival Reinforcement Learning, proposed by Tiofack et al. of Inria earlier this year",
         "lang": "Python",
         "createdAt": "2026-09-27T16:46:13Z"
-      },
-      {
-        "name": "zermello/awesome-robotics",
-        "url": "https://github.com/zermello/awesome-robotics",
-        "stars": 14,
-        "desc": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
-        "lang": "",
-        "createdAt": "2026-09-30T14:06:16Z"
       },
       {
         "name": "Mafifrizi/tanuki",
@@ -2018,12 +2025,12 @@
         "createdAt": "2026-09-28T04:55:03Z"
       },
       {
-        "name": "DaragonTech/DT-HumanDev",
-        "url": "https://github.com/DaragonTech/DT-HumanDev",
+        "name": "lucidrains/self-play-pretrain-zero-data",
+        "url": "https://github.com/lucidrains/self-play-pretrain-zero-data",
         "stars": 6,
-        "desc": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experimental, not legal advice",
-        "lang": "TypeScript",
-        "createdAt": "2026-09-28T14:05:33Z"
+        "desc": "Implementation of Self-Play Pretraining with Zero Data",
+        "lang": "Python",
+        "createdAt": "2026-10-02T19:25:21Z"
       },
       {
         "name": "thinkingdev923/EstateWise-ChatBot",
@@ -2034,104 +2041,96 @@
         "createdAt": "2026-10-02T11:45:04Z"
       },
       {
-        "name": "lucidrains/log-depth-recurrent-modeling",
-        "url": "https://github.com/lucidrains/log-depth-recurrent-modeling",
-        "stars": 5,
-        "desc": "Explorations into the Log Depth Recurrent Modeling proposed by Yiqin Wang of Imperial College London",
-        "lang": "Python",
-        "createdAt": "2026-09-24T13:16:39Z"
-      },
-      {
-        "name": "lucidrains/self-play-pretrain-zero-data",
-        "url": "https://github.com/lucidrains/self-play-pretrain-zero-data",
-        "stars": 5,
-        "desc": "Implementation of Self-Play Pretraining with Zero Data",
-        "lang": "Python",
-        "createdAt": "2026-10-02T19:25:21Z"
+        "name": "DaragonTech/DT-HumanDev",
+        "url": "https://github.com/DaragonTech/DT-HumanDev",
+        "stars": 6,
+        "desc": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experimental, not legal advice",
+        "lang": "TypeScript",
+        "createdAt": "2026-09-28T14:05:33Z"
       }
     ],
     "huggingface": [
       {
         "id": "Cloudflare/clef",
         "url": "https://huggingface.co/Cloudflare/clef",
-        "likes": 1581,
+        "likes": 1653,
         "downloads": 7255,
         "task": "image-text-to-text"
       },
       {
         "id": "autotrust/JEV-27B-VL",
         "url": "https://huggingface.co/autotrust/JEV-27B-VL",
-        "likes": 863,
+        "likes": 966,
         "downloads": 1525286,
         "task": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3349,
+        "likes": 3407,
         "downloads": 1721760,
         "task": "text-to-image"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-        "likes": 677,
+        "likes": 700,
         "downloads": 4138,
         "task": "text-generation"
       },
       {
-        "id": "convaiinnovations/laya",
-        "url": "https://huggingface.co/convaiinnovations/laya",
-        "likes": 5263,
-        "downloads": 20386,
-        "task": "text-classification"
-      },
-      {
         "id": "Cloudflare/clef-flash",
         "url": "https://huggingface.co/Cloudflare/clef-flash",
-        "likes": 558,
+        "likes": 582,
         "downloads": 10638,
         "task": "image-text-to-text"
       },
       {
-        "id": "Lightricks/LTX-2.5",
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 6566,
-        "downloads": 1679035,
-        "task": "image-to-video"
+        "id": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "likes": 5277,
+        "downloads": 20386,
+        "task": "text-classification"
       },
       {
         "id": "autotrust/GEV-26B-Decide",
         "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
-        "likes": 598,
+        "likes": 671,
         "downloads": 854574,
         "task": "text-classification"
       },
       {
+        "id": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "likes": 6639,
+        "downloads": 1679035,
+        "task": "image-to-video"
+      },
+      {
         "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
         "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-        "likes": 424,
+        "likes": 460,
         "downloads": 30585,
+        "task": "text-generation"
+      },
+      {
+        "id": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "likes": 380,
+        "downloads": 15134,
         "task": "text-generation"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 17071,
+        "likes": 17105,
         "downloads": 6768060,
         "task": "image-text-to-text"
       },
       {
-        "id": "jialinyyzz/humanizer",
-        "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 328,
-        "downloads": 15134,
-        "task": "text-generation"
-      },
-      {
         "id": "Qwen/Qwen-Image-2.1",
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "likes": 3022,
+        "likes": 3032,
         "downloads": 102510,
         "task": "text-to-image"
       }
@@ -2142,53 +2141,53 @@
     "keywords": [
       {
         "word": "OpenAI",
-        "count": 7,
-        "delta": -3
+        "count": 8,
+        "delta": 1
       },
       {
         "word": "芯片",
-        "count": 5,
-        "delta": 5
-      },
-      {
-        "word": "Agent",
-        "count": 3,
-        "delta": 0
-      },
-      {
-        "word": "融资",
-        "count": 3,
-        "delta": -1
+        "count": 6,
+        "delta": 1
       },
       {
         "word": "发布",
-        "count": 3,
-        "delta": -2
-      },
-      {
-        "word": "Anthropic",
-        "count": 2,
+        "count": 5,
         "delta": 2
       },
       {
-        "word": "GPT",
-        "count": 1,
-        "delta": -2
+        "word": "Anthropic",
+        "count": 3,
+        "delta": 1
+      },
+      {
+        "word": "英伟达",
+        "count": 3,
+        "delta": 3
       },
       {
         "word": "Claude",
-        "count": 1,
-        "delta": 0
+        "count": 2,
+        "delta": 1
       },
       {
-        "word": "DeepSeek",
+        "word": "Agent",
+        "count": 2,
+        "delta": -1
+      },
+      {
+        "word": "融资",
+        "count": 2,
+        "delta": -1
+      },
+      {
+        "word": "GPT",
         "count": 1,
         "delta": 0
       },
       {
         "word": "Qwen",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "智能体",
@@ -2201,28 +2200,33 @@
         "delta": 0
       },
       {
-        "word": "机器人",
+        "word": "开源",
         "count": 1,
         "delta": 1
       },
       {
-        "word": "API",
+        "word": "机器人",
         "count": 1,
         "delta": 0
+      },
+      {
+        "word": "降本",
+        "count": 1,
+        "delta": 1
       }
     ],
     "signals": [
       {
         "type": "up",
-        "text": "「芯片」热度上升 +5（当前 5 次提及）"
+        "text": "「英伟达」热度上升 +3（当前 3 次提及）"
       },
       {
         "type": "up",
-        "text": "「Anthropic」热度上升 +2（当前 2 次提及）"
+        "text": "「发布」热度上升 +2（当前 5 次提及）"
       },
       {
         "type": "up",
-        "text": "「Qwen」热度上升 +1（当前 1 次提及）"
+        "text": "「OpenAI」热度上升 +1（当前 8 次提及）"
       },
       {
         "type": "money",
@@ -2237,13 +2241,67 @@
   },
   "opportunities": [
     {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06T18:22:45.000Z"
+    },
+    {
       "type": "新模型",
       "icon": "🧠",
       "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "Mistral AI 放出预告：今日新模型可在网安等方面优于中国竞品",
-      "url": "https://www.ithome.com/1/010/043.htm",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06T16:35:00.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "type": "商业落地",
+      "icon": "🏢",
+      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
+      "url": "https://www.ithome.com/1/010/123.htm",
       "source": "IT之家",
-      "publishedAt": "2026-10-06T11:24:24.000Z"
+      "publishedAt": "2026-10-06T14:49:57.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-06T14:33:16.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重",
+      "url": "https://www.ithome.com/1/010/108.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-06T13:56:21.000Z"
     },
     {
       "type": "商业落地",
@@ -2253,42 +2311,6 @@
       "url": "https://www.ithome.com/1/010/030.htm",
       "source": "IT之家",
       "publishedAt": "2026-10-06T09:58:49.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域",
-      "url": "https://www.ithome.com/1/010/015.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-06T08:42:27.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
-      "url": "https://www.ithome.com/1/010/010.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-06T08:18:26.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片",
-      "url": "https://www.ithome.com/1/010/007.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-06T07:55:45.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "12GB 显存显卡跑 125B Qwen3.8 模型：Strata 登场，单张 RTX 5070 跑出 94 词元 / 秒",
-      "url": "https://www.ithome.com/1/010/006.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-06T07:45:52.000Z"
     },
     {
       "type": "政策监管",
@@ -2303,37 +2325,10 @@
       "type": "资本动向",
       "icon": "💰",
       "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-06T06:25:15.000Z"
-    },
-    {
-      "type": "资本动向",
-      "icon": "💰",
-      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
       "title": "快手可灵AI计划最早明年赴港上市，至少融资10亿美元",
       "url": "https://www.36kr.com/newsflashes/4013802251865993",
       "source": "36氪",
       "publishedAt": "2026-10-06T03:57:57.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
-      "url": "http://www.geekpark.net/news/372086",
-      "source": "极客公园",
-      "publishedAt": "2026-10-06T01:16:53.000Z"
-    },
-    {
-      "type": "开源项目",
-      "icon": "🐙",
-      "action": "做上手教程、代部署，或二次封装成小工具卖给不会折腾的人",
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-04T20:31:07.000Z"
     },
     {
       "type": "商业落地",
@@ -2370,6 +2365,15 @@
       "url": "https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html",
       "source": "雷锋网",
       "publishedAt": "2026-09-30T08:13:00.000Z"
+    },
+    {
+      "type": "开源项目",
+      "icon": "🐙",
+      "action": "做上手教程、代部署，或二次封装成小工具卖给不会折腾的人",
+      "title": "全球开源前二，阶跃终于回来了",
+      "url": "https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html",
+      "source": "雷锋网",
+      "publishedAt": "2026-09-30T07:55:00.000Z"
     }
   ],
   "ideas": [
@@ -2378,33 +2382,33 @@
       "title": "OpenAI最新动向，对大学生意味着什么？"
     },
     {
-      "kw": "Agent",
-      "title": "用 AI 10 分钟搞定Agent，大学生亲测"
-    },
-    {
-      "kw": "融资",
-      "title": "融资这波热度，普通人能怎么蹭？"
-    },
-    {
       "kw": "Anthropic",
-      "title": "我研究了Anthropic，总结了 3 个能用上的点"
-    },
-    {
-      "kw": "GPT",
-      "title": "GPT值不值得用？我替你先试了"
+      "title": "Anthropic这波热度，普通人能怎么蹭？"
     },
     {
       "kw": "Claude",
-      "title": "手把手教你用Claude，零基础也能上手"
+      "title": "用 AI 10 分钟搞定Claude，大学生亲测"
     },
     {
-      "kw": "DeepSeek",
-      "title": "DeepSeek怎么免费用？这份攻略请收好"
+      "kw": "Agent",
+      "title": "Agent值不值得用？我替你先试了"
+    },
+    {
+      "kw": "融资",
+      "title": "我研究了融资，总结了 3 个能用上的点"
+    },
+    {
+      "kw": "GPT",
+      "title": "手把手教你用GPT，零基础也能上手"
     },
     {
       "kw": "Qwen",
-      "title": "大学生必看：Qwen的 5 个隐藏用法"
+      "title": "Qwen怎么免费用？这份攻略请收好"
+    },
+    {
+      "kw": "智能体",
+      "title": "大学生必看：智能体的 5 个隐藏用法"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-06\n\n## 一、今日信号\n- 「芯片」热度上升 +5（当前 5 次提及）\n- 「Anthropic」热度上升 +2（当前 2 次提及）\n- 「Qwen」热度上升 +1（当前 1 次提及）\n- 检测到 6 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Mistral AI 放出预告：今日新模型可在网安等方面优于中国竞品\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] Valve 确认：Linux 版 Steam 客户端目前不支持 Arm 芯片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] 瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 12GB 显存显卡跑 125B Qwen3.8 模型：Strata 登场，单张 RTX 5070 跑出 94 词元 / 秒\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [政策监管] OpenAI 与 Anthropic 向澳大利亚表态：支持出台数据泄露相关监管法规\n  👉 蹭热点做解读，但观点要稳，不要碰灰色地带\n  出处：IT之家\n- [资本动向] 消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n\n## 三、热度关键词\nOpenAI (7) · 芯片 (5) · Agent (3) · 融资 (3) · 发布 (3) · Anthropic (2) · GPT (1) · Claude (1) · DeepSeek (1) · Qwen (1) · 智能体 (1) · 大模型 (1)\n\n## 四、头条速览\n- 消息称中国供应商拿下雷克萨斯新一代纯电 SUV 大量零部件订单（IT之家）\n- 消息称成本压力迫使本田调整印度策略，与塔塔技术合作缩短一半研发周期（IT之家）\n- GMK 推出 TriggerKey“键帽”：专利杠杆结构，为机械键盘带来可调触发点（IT之家）\n- R 星表态：《GTA6》不会过度聚焦特定人物、事件，系列游戏从未重点讽刺美国政治（IT之家）\n- JetBrains reported a net financial loss first time in its tracked history（Hacker News）\n- 国庆假期最后一天，10 月 7 日 58 个高速服务区预计充电特别繁忙（IT之家）\n- 总规模近 3.6GW：谷歌与 Constellation 达成长期电力协议（IT之家）\n- World's First enhanced geothermal power plant completed in just 23 months（Hacker News）\n- 亚马逊 Alexa Echo 智能音箱出现诡异 Bug：毫无征兆哼唱“啦啦啦”数分钟，官方承诺修复（IT之家）\n- Mistral AI 放出预告：今日新模型可在网安等方面优于中国竞品（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-06\n\n## 一、今日信号\n- 「英伟达」热度上升 +3（当前 3 次提及）\n- 「发布」热度上升 +2（当前 5 次提及）\n- 「OpenAI」热度上升 +1（当前 8 次提及）\n- 检测到 6 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] Hark releases an AI personal assistant with a focus on privacy\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：TechCrunch AI\n- [新模型] Mirror Particle is building a ‘world model’ of human behavior\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Anthropic is giving startups a free year of Claude Team and $1,000 in credits\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [商业落地] Atlassian and OpenAI expand partnership to turn enterprise knowledge into action\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：OpenAI\n- [新工具上线] 《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] Mistral’s new 1T model aims to leapfrog closed and open rivals\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新工具上线] 宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] Valve 确认：Linux 版 Steam 客户端目前不支持 Arm 芯片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n\n## 三、热度关键词\nOpenAI (8) · 芯片 (6) · 发布 (5) · Anthropic (3) · 英伟达 (3) · Claude (2) · Agent (2) · 融资 (2) · GPT (1) · Qwen (1) · 智能体 (1) · 大模型 (1)\n\n## 四、头条速览\n- Hark releases an AI personal assistant with a focus on privacy（TechCrunch AI）\n- Former German spy chief arrested for attempted treason（Hacker News）\n- Mirror Particle is building a ‘world model’ of human behavior（TechCrunch AI）\n- AI is now capable of developing its own inference hardware（Hacker News）\n- Anthropic is giving startups a free year of Claude Team and $1,000 in credits（TechCrunch AI）\n- Atlassian and OpenAI expand partnership to turn enterprise knowledge into action（OpenAI）\n- LibreOffice says &#8216;no AI&#8217; is now a software feature（TechCrunch AI）\n- The Early History of Smalltalk (1993)（Hacker News）\n- 德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批（IT之家）\n- 《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线（IT之家）"
 }
