@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-09T17:51:00.459Z",
-  "previousAt": "2026-10-09T09:53:59.271Z",
+  "generatedAt": "2026-10-09T22:07:11.817Z",
+  "previousAt": "2026-10-09T17:51:00.459Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 182,
+    "recent48h": 183,
     "githubCount": 12,
     "hfCount": 12,
     "aiCount": 95
@@ -78,7 +78,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1259,
+      "count": 1287,
       "error": null
     },
     {
@@ -98,14 +98,123 @@
   ],
   "news": [
     {
-      "title": "Scam American companies are using to manipulate ingredient gets listed first",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-09T21:41:29.000Z",
+      "ai": true,
+      "titleZh": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元"
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-09T17:35:40.000Z",
+      "publishedAt": "2026-10-09T21:06:59.000Z",
       "ai": false,
-      "titleZh": "美国公司用来操纵成分的诈骗被列在首位"
+      "titleZh": "YouTuber说警察在他建造了一个追踪警察的羊群式摄像头后拜访了他"
+    },
+    {
+      "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
+      "url": "https://www.ithome.com/1/011/159.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-09T21:00:14.000Z",
+      "ai": false
+    },
+    {
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T20:04:00.000Z",
+      "ai": false,
+      "titleZh": "没有人是一座孤岛。"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-09T19:36:56.000Z",
+      "ai": true,
+      "titleZh": "Anthropic AI模型向费城警方发送了虚假的凶杀案提示"
+    },
+    {
+      "title": "You might want to try being less creative",
+      "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T18:39:47.000Z",
+      "ai": false,
+      "titleZh": "你可能想尝试不那么有创意"
+    },
+    {
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T18:38:44.000Z",
+      "ai": false,
+      "titleZh": "Microsoft-Decision-1 ，我们的快速决策模型"
+    },
+    {
+      "title": "M7.6 Earthquake in Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T18:22:20.000Z",
+      "ai": false,
+      "titleZh": "巴拿马M7.6地震"
+    },
+    {
+      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+      "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T18:16:03.000Z",
+      "ai": false,
+      "titleZh": "想法并不难找到，否则告诉你的任何人都是懦夫"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T18:10:55.000Z",
+      "ai": false,
+      "titleZh": "显示HN ：运营商分解：已解码的iPhone、Pixel和Galaxy运营商设置"
+    },
+    {
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T17:39:44.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：您可能从未读过的最稀有的科技书籍和文档"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T17:02:31.000Z",
+      "ai": true,
+      "titleZh": "Typesafe AI筹集$ 8.7亿美元，达到$ 7.5B"
     },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -118,16 +227,6 @@
       "titleZh": "亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？"
     },
     {
-      "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code",
-      "url": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T16:55:47.000Z",
-      "ai": false,
-      "titleZh": "在计算机科学成为男孩俱乐部之前，玛格丽特·汉密尔顿（ Margaret Hamilton ）编写了代码"
-    },
-    {
       "title": "Amazon drops data center NDAs, and AI agents want your credit card",
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
       "source": "TechCrunch AI",
@@ -136,16 +235,6 @@
       "publishedAt": "2026-10-09T16:53:02.000Z",
       "ai": true,
       "titleZh": "亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡"
-    },
-    {
-      "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
-      "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T16:52:20.000Z",
-      "ai": true,
-      "titleZh": "Tomek Korbak ： OpenAI的安全主管告诉他们不再信任我"
     },
     {
       "title": "Danu Robotics&#8217; fight to build a better recycling robot",
@@ -166,6 +255,26 @@
       "publishedAt": "2026-10-09T16:40:14.000Z",
       "ai": true,
       "titleZh": "我们忍不住要像对待人类一样对待人工智能。但是我们应该吗？"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T15:51:05.000Z",
+      "ai": false,
+      "titleZh": "Triple-A扫雷艇"
+    },
+    {
+      "title": "A statement on the Tor Project's relationship with Mullvad",
+      "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T15:49:31.000Z",
+      "ai": false,
+      "titleZh": "关于Tor项目与Mullvad关系的声明"
     },
     {
       "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
@@ -297,15 +406,6 @@
       "ai": true
     },
     {
-      "title": "Python 3.15",
-      "url": "https://www.python.org/downloads/release/python-3150/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T14:35:42.000Z",
-      "ai": false
-    },
-    {
       "title": "华为 WATCH Ultimate 2 等手表 HarmonyOS 7 版本亮点公布，新增高尿酸风险评估研究等",
       "url": "https://www.ithome.com/1/011/145.htm",
       "source": "IT之家",
@@ -322,6 +422,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T14:22:03.000Z",
       "ai": false
+    },
+    {
+      "title": "Why Are Coding Agents So Dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T14:21:31.000Z",
+      "ai": true,
+      "titleZh": "为什么编码人员如此愚蠢？"
     },
     {
       "title": "国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用",
@@ -350,6 +460,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T13:49:54.000Z",
       "ai": false
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T13:49:31.000Z",
+      "ai": false,
+      "titleZh": "“华莱士和格罗米特” ， 90%独自一人"
     },
     {
       "title": "商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解",
@@ -516,16 +636,6 @@
       "ai": false
     },
     {
-      "title": "Study: Exercise increases cancer survival rates",
-      "url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T12:49:41.000Z",
-      "ai": false,
-      "titleZh": "研究：运动可提高癌症存活率"
-    },
-    {
       "title": "小米推出 REDMI 显示器支架臂：隐藏式理线槽、兼容 VESA 75x75/100×100mm 壁挂，299 元",
       "url": "https://www.ithome.com/1/011/118.htm",
       "source": "IT之家",
@@ -571,16 +681,6 @@
       "ai": false
     },
     {
-      "title": "Reactions to 100 Solutions",
-      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T12:26:12.000Z",
-      "ai": false,
-      "titleZh": "对100个解决方案的反应"
-    },
-    {
       "title": "超频三 C3 T300 BK 海景房机箱发售：兼容 240mm 水冷，129 元",
       "url": "https://www.ithome.com/1/011/116.htm",
       "source": "IT之家",
@@ -597,26 +697,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T12:21:37.000Z",
       "ai": false
-    },
-    {
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T12:21:24.000Z",
-      "ai": true,
-      "titleZh": "伊朗运动使用ChatGPT在真实的美国出版物中植入假文章"
-    },
-    {
-      "title": "The Hetzner Cloud network stack – history and technical overview",
-      "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T12:20:55.000Z",
-      "ai": false,
-      "titleZh": "Hetzner云网络堆栈–历史和技术概述"
     },
     {
       "title": "乘联分会：2026 年 9 月全国新能源乘用车厂商批发销量预估 167 万辆，同比增长 12%",
@@ -725,6 +805,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T11:36:57.000Z",
       "ai": false
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-09T11:36:20.000Z",
+      "ai": true,
+      "titleZh": "将人工智能指向档案馆，发现了一颗被遗忘的陨石、丢失的犀牛等"
     },
     {
       "title": "VGN 霓虹 75 Turbo 磁轴键盘首销：0.005mm RT 精度、双 8KHz 回报率，439 元",
@@ -973,16 +1063,6 @@
       "ai": false
     },
     {
-      "title": "Once: Cache CLI Commands",
-      "url": "https://github.com/alex0ptr/once",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:43:06.000Z",
-      "ai": false,
-      "titleZh": "一次：缓存CLI命令"
-    },
-    {
       "title": "国家广播电视总局：9 月处理电视剧侵权账号 181 个，清理侵权链接 339 万条",
       "url": "https://www.ithome.com/1/011/076.htm",
       "source": "IT之家",
@@ -1037,16 +1117,6 @@
       "ai": false
     },
     {
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:21:48.000Z",
-      "ai": false,
-      "titleZh": "抱歉，我正在开会"
-    },
-    {
       "title": "TRAE终于把Code和Work合并了",
       "url": "https://www.qbitai.com/2026/10/502426.html",
       "source": "量子位",
@@ -1074,15 +1144,6 @@
       "ai": true
     },
     {
-      "title": "小米米家声波电动牙刷 T302 缓震版首销：四种清洁模式、IPX8 级防水，首发价 139 元",
-      "url": "https://www.ithome.com/1/011/067.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-09T09:14:08.000Z",
-      "ai": false
-    },
-    {
       "title": "做了八年DSP，Credo怎么突然开始做光芯片了？",
       "url": "https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html",
       "source": "雷锋网",
@@ -1108,16 +1169,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T08:47:34.000Z",
       "ai": true
-    },
-    {
-      "title": "Programming Isn't Special",
-      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T07:44:36.000Z",
-      "ai": false,
-      "titleZh": "编程并不特别"
     },
     {
       "title": "苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？",
@@ -1148,6 +1199,16 @@
       "titleZh": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%"
     },
     {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "lang": "en",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "ai": true,
+      "titleZh": "Asana使用GPT-6.1 Sol将浏览器测试中的模型成本降低了76倍"
+    },
+    {
       "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
       "url": "https://sspai.com/post/115456",
       "source": "少数派",
@@ -1173,16 +1234,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T06:07:22.000Z",
       "ai": false
-    },
-    {
-      "title": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T05:51:29.000Z",
-      "ai": false,
-      "titleZh": "MXC -沙盒代码执行系统"
     },
     {
       "title": "再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6",
@@ -1302,16 +1353,6 @@
       "ai": true
     },
     {
-      "title": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-09T03:08:05.000Z",
-      "ai": false,
-      "titleZh": "Windows和Mac之间的键盘差异"
-    },
-    {
       "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
       "url": "https://www.qbitai.com/2026/10/502114.html",
       "source": "量子位",
@@ -1373,16 +1414,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T00:35:13.000Z",
       "ai": true
-    },
-    {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-08T23:29:43.000Z",
-      "ai": true,
-      "titleZh": "OpenAI、划分原理和数学"
     },
     {
       "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
@@ -1522,26 +1553,6 @@
       "publishedAt": "2026-10-08T14:00:00.000Z",
       "ai": true,
       "titleZh": "距离TechCrunch Disrupt 2026还有5天：不要在门口为通行证支付更多费用"
-    },
-    {
-      "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "ai": true,
-      "titleZh": "Cal AI的19岁创始人刚刚为他的新人工智能初创公司筹集了1000万美元$"
-    },
-    {
-      "title": "Google releases a new local-first Granola competitor",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-08T13:28:39.000Z",
-      "ai": true,
-      "titleZh": "谷歌发布新的本地首个Granola竞争对手"
     },
     {
       "title": "苹果 CEO 最爱的汽车品牌，要推出新超跑了",
@@ -1944,15 +1955,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-06T02:05:20.000Z",
       "ai": true
-    },
-    {
-      "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
-      "url": "http://www.geekpark.net/news/372086",
-      "source": "极客公园",
-      "sourceId": "geekpark",
-      "lang": "zh",
-      "publishedAt": "2026-10-06T01:16:53.000Z",
-      "ai": true
     }
   ],
   "data": {
@@ -1966,12 +1968,12 @@
         "createdAt": "2026-09-30T18:42:11Z"
       },
       {
-        "name": "ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
-        "url": "https://github.com/ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
+        "name": "slyyr/awesome-robotics",
+        "url": "https://github.com/slyyr/awesome-robotics",
         "stars": 21,
-        "desc": "Built for Smart India Hackathon 2026, SIH Problem Statement 26192 by National Disaster Response Force (NDRF), DM Division, Ministry of Home Affairs: Hyperlocal ",
-        "lang": "TypeScript",
-        "createdAt": "2026-09-29T21:09:23Z"
+        "desc": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more. A curated collection of resources to ",
+        "lang": "",
+        "createdAt": "2026-09-30T14:06:16Z"
       },
       {
         "name": "gonzaroman/IHMT-MEMORY",
@@ -1982,17 +1984,17 @@
         "createdAt": "2026-09-30T16:14:20Z"
       },
       {
-        "name": "slyyr/awesome-robotics",
-        "url": "https://github.com/slyyr/awesome-robotics",
+        "name": "ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
+        "url": "https://github.com/ABDULMUNAFZ/Hyperlocal-Intelligence-for-Flash-Flood-Prediction-Risk--Response",
         "stars": 20,
-        "desc": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more. A curated collection of resources to ",
-        "lang": "",
-        "createdAt": "2026-09-30T14:06:16Z"
+        "desc": "Built for Smart India Hackathon 2026, SIH Problem Statement 26192 by National Disaster Response Force (NDRF), DM Division, Ministry of Home Affairs: Hyperlocal ",
+        "lang": "TypeScript",
+        "createdAt": "2026-09-29T21:09:23Z"
       },
       {
         "name": "PkLavc/Autotrader",
         "url": "https://github.com/PkLavc/Autotrader",
-        "stars": 20,
+        "stars": 19,
         "desc": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
         "lang": "Python",
         "createdAt": "2026-10-07T02:43:14Z"
@@ -2000,7 +2002,7 @@
       {
         "name": "Mafifrizi/tanuki",
         "url": "https://github.com/Mafifrizi/tanuki",
-        "stars": 15,
+        "stars": 16,
         "desc": "Tactical Identity Operator for Linux & Hybrid Active Directory ",
         "lang": "Python",
         "createdAt": "2026-10-02T13:40:21Z"
@@ -2058,86 +2060,86 @@
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 1307,
+        "likes": 1337,
         "downloads": 29185,
         "task": "feature-extraction"
       },
       {
         "id": "Cloudflare/clef",
         "url": "https://huggingface.co/Cloudflare/clef",
-        "likes": 1926,
+        "likes": 1939,
         "downloads": 12066,
         "task": "image-text-to-text"
       },
       {
         "id": "Aleph-Alpha/Kolibri-1",
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-        "likes": 836,
+        "likes": 842,
         "downloads": 8474,
         "task": "text-generation"
       },
       {
         "id": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 724,
+        "likes": 740,
         "downloads": 29470,
         "task": "text-generation"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3745,
+        "likes": 3761,
         "downloads": 2013268,
         "task": "text-to-image"
       },
       {
         "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
         "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-        "likes": 672,
+        "likes": 673,
         "downloads": 38740,
         "task": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 7023,
+        "likes": 7053,
         "downloads": 1687531,
         "task": "image-to-video"
       },
       {
         "id": "Cloudflare/clef-flash",
         "url": "https://huggingface.co/Cloudflare/clef-flash",
-        "likes": 708,
+        "likes": 713,
         "downloads": 18971,
+        "task": "image-text-to-text"
+      },
+      {
+        "id": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "likes": 17344,
+        "downloads": 6783589,
         "task": "image-text-to-text"
       },
       {
         "id": "convaiinnovations/laya",
         "url": "https://huggingface.co/convaiinnovations/laya",
-        "likes": 5422,
+        "likes": 5424,
         "downloads": 41468,
         "task": "text-classification"
       },
       {
-        "id": "Qwen/Qwen3.8-27B",
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 17334,
-        "downloads": 6783589,
-        "task": "image-text-to-text"
-      },
-      {
         "id": "canberkkkkkk/ema-lightning",
         "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
-        "likes": 313,
+        "likes": 320,
         "downloads": 12118,
         "task": "text-to-speech"
       },
       {
-        "id": "Cactus-Compute/whistle",
-        "url": "https://huggingface.co/Cactus-Compute/whistle",
-        "likes": 249,
-        "downloads": 5558,
-        "task": "automatic-speech-recognition"
+        "id": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "likes": 273,
+        "downloads": 0,
+        "task": "text-to-image"
       }
     ]
   },
@@ -2147,27 +2149,27 @@
       {
         "word": "发布",
         "count": 15,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "OpenAI",
-        "count": 11,
-        "delta": 3
+        "count": 9,
+        "delta": -2
       },
       {
         "word": "Agent",
-        "count": 8,
+        "count": 9,
         "delta": 1
       },
       {
         "word": "GPT",
         "count": 5,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "Anthropic",
-        "count": 3,
-        "delta": 0
+        "count": 4,
+        "delta": 1
       },
       {
         "word": "英伟达",
@@ -2182,12 +2184,12 @@
       {
         "word": "融资",
         "count": 3,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "Claude",
         "count": 2,
-        "delta": -2
+        "delta": 0
       },
       {
         "word": "Gemini",
@@ -2197,17 +2199,17 @@
       {
         "word": "开源",
         "count": 2,
-        "delta": -2
+        "delta": 0
       },
       {
         "word": "芯片",
         "count": 2,
-        "delta": 2
+        "delta": 0
       },
       {
         "word": "机器人",
         "count": 2,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "DeepSeek",
@@ -2217,17 +2219,17 @@
       {
         "word": "投资",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "GPU",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "自动驾驶",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "Agentic",
@@ -2247,21 +2249,17 @@
       {
         "word": "产品",
         "count": 1,
-        "delta": -3
+        "delta": 0
       }
     ],
     "signals": [
       {
         "type": "up",
-        "text": "「OpenAI」热度上升 +3（当前 11 次提及）"
+        "text": "「Agent」热度上升 +1（当前 9 次提及）"
       },
       {
         "type": "up",
-        "text": "「芯片」热度上升 +2（当前 2 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「发布」热度上升 +1（当前 15 次提及）"
+        "text": "「Anthropic」热度上升 +1（当前 4 次提及）"
       },
       {
         "type": "money",
@@ -2279,6 +2277,33 @@
       "type": "新工具上线",
       "icon": "🛠",
       "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T21:41:29.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T19:36:56.000Z"
+    },
+    {
+      "type": "资本动向",
+      "icon": "💰",
+      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-09T17:02:31.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
       "title": "小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本",
       "url": "https://www.ithome.com/1/011/146.htm",
       "source": "IT之家",
@@ -2292,15 +2317,6 @@
       "url": "https://www.ithome.com/1/011/142.htm",
       "source": "IT之家",
       "publishedAt": "2026-10-09T14:10:35.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "华为鸿蒙电脑 9 月体验报告发布：全新沉浸光感、图库 AI 修图、小艺任务模式等",
-      "url": "https://www.ithome.com/1/011/111.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-09T11:48:44.000Z"
     },
     {
       "type": "资本动向",
@@ -2346,24 +2362,6 @@
       "url": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
       "source": "雷锋网",
       "publishedAt": "2026-10-09T04:27:00.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-09T03:52:21.000Z"
-    },
-    {
-      "type": "资本动向",
-      "icon": "💰",
-      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:19:45.000Z"
     },
     {
       "type": "商业落地",
@@ -2418,5 +2416,5 @@
       "title": "大学生必看：Gemini的 5 个隐藏用法"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-09\n\n## 一、今日信号\n- 「OpenAI」热度上升 +3（当前 11 次提及）\n- 「芯片」热度上升 +2（当前 2 次提及）\n- 「发布」热度上升 +1（当前 15 次提及）\n- 检测到 10 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] 小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 华为鸿蒙电脑 9 月体验报告发布：全新沉浸光感、图库 AI 修图、小艺任务模式等\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [资本动向] 当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [新模型] 豆包工作上新：支持画布功能，模型再更新\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 字节找到了DeepSeek时强时弱的原因\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [资本动向] 攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：极客公园\n- [政策监管] 跨域顶层监管层｜监管者自身的跨域审计规则\n  👉 蹭热点做解读，但观点要稳，不要碰灰色地带\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (15) · OpenAI (11) · Agent (8) · GPT (5) · Anthropic (3) · 英伟达 (3) · 智能体 (3) · 融资 (3) · Claude (2) · Gemini (2) · 开源 (2) · 芯片 (2)\n\n## 四、头条速览\n- Scam American companies are using to manipulate ingredient gets listed first（Hacker News）\n- Amazon and others are done keeping data center deals secret. Is it enough to build trust?（TechCrunch AI）\n- Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code（Hacker News）\n- Amazon drops data center NDAs, and AI agents want your credit card（TechCrunch AI）\n- Tomek Korbak: OpenAI's head of safety told they no longer trust me（Hacker News）\n- Danu Robotics&#8217; fight to build a better recycling robot（TechCrunch AI）\n- We can&#8217;t help treating AI like it&#8217;s human. But should we?（TechCrunch AI）\n- 东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全（IT之家）\n- 华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接（IT之家）\n- a16z’s Olivia Moore on the state of consumer AI（TechCrunch AI）"
+  "digest": "# AI 变现雷达简报 · 2026-10-09\n\n## 一、今日信号\n- 「Agent」热度上升 +1（当前 9 次提及）\n- 「Anthropic」热度上升 +1（当前 4 次提及）\n- 检测到 10 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：TechCrunch AI\n- [新模型] An Anthropic AI model sent a false homicide tip to Philadelphia police\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [资本动向] Typesafe AI raises $870M at $7.5B\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：Hacker News\n- [新工具上线] 小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [资本动向] 当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [新模型] 豆包工作上新：支持画布功能，模型再更新\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 字节找到了DeepSeek时强时弱的原因\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n\n## 三、热度关键词\n发布 (15) · OpenAI (9) · Agent (9) · GPT (5) · Anthropic (4) · 英伟达 (3) · 智能体 (3) · 融资 (3) · Claude (2) · Gemini (2) · 开源 (2) · 芯片 (2)\n\n## 四、头条速览\n- The maker of non-text AI model Jev valued at $7.5B just weeks after launch（TechCrunch AI）\n- YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops（Hacker News）\n- 小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测（IT之家）\n- No Man Is an Island（Hacker News）\n- An Anthropic AI model sent a false homicide tip to Philadelphia police（TechCrunch AI）\n- You might want to try being less creative（Hacker News）\n- Microsoft-Decision-1, our model for fast decision-making（Hacker News）\n- M7.6 Earthquake in Panama（Hacker News）\n- Ideas aren't getting harder to find, anyone who tells you otherwise is a coward（Hacker News）\n- Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded（Hacker News）"
 }
