@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T17:21:23.520Z",
-  "previousAt": "2026-10-11T11:56:53.989Z",
+  "generatedAt": "2026-10-11T21:21:45.823Z",
+  "previousAt": "2026-10-11T17:21:23.520Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 156,
+    "recent48h": 158,
     "githubCount": 12,
     "hfCount": 12,
     "aiCount": 80
@@ -98,14 +98,124 @@
   ],
   "news": [
     {
-      "title": "Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?",
-      "url": "https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-11T21:14:40.000Z",
+      "ai": true,
+      "titleZh": "HomeView会是苹果智能家居的首次成功吗？"
+    },
+    {
+      "title": "Andrej Karpathy breaks down the capability gap",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-11T16:59:24.000Z",
+      "publishedAt": "2026-10-11T20:20:52.000Z",
       "ai": false,
-      "titleZh": "为什么价值$ 2T的SpaceX没有向这位湾区厨师支付欠他的$ 70K ？"
+      "titleZh": "Andrej Karpathy打破了能力差距"
+    },
+    {
+      "title": "Cognitive Decline or Sanity Incline?",
+      "url": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T20:05:03.000Z",
+      "ai": false,
+      "titleZh": "认知衰退还是理智倾向？"
+    },
+    {
+      "title": "Cartographers of North Korea",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T19:46:40.000Z",
+      "ai": false,
+      "titleZh": "朝鲜制图师"
+    },
+    {
+      "title": "Artificial Insanity",
+      "url": "https://richwhitehouse.com/index.php?postid=78",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T19:44:45.000Z",
+      "ai": false,
+      "titleZh": "人工精神错乱"
+    },
+    {
+      "title": "Be The Onion's Hero for Once",
+      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T19:43:32.000Z",
+      "ai": false,
+      "titleZh": "做洋葱英雄一次"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Vex in NixOS",
+      "url": "https://blog.kammel.dev/post/nixos_vex/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T19:23:07.000Z",
+      "ai": false,
+      "titleZh": "VEX在NixOS中的不合理效果"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "ai": true,
+      "titleZh": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声"
+    },
+    {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T18:26:24.000Z",
+      "ai": false,
+      "titleZh": "约翰·伯杰（ John Berger ）的《观看方式》（ Ways of Seeing"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T18:04:47.000Z",
+      "ai": false,
+      "titleZh": "完全消灭，为现代计算机重建"
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T18:01:16.000Z",
+      "ai": false,
+      "titleZh": "纽约市的「点击取消」规则现已生效"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T16:58:22.000Z",
+      "ai": false,
+      "titleZh": "apsw ：另一个Python SQLite包装器"
     },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
@@ -118,14 +228,14 @@
       "titleZh": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？"
     },
     {
-      "title": "The Corporate Happiness Treadmill and the Case for Doing Less",
-      "url": "https://0xff.nu/corp-burnout/",
+      "title": "Playgrnd – tiny tools for making weird, beautiful things",
+      "url": "https://www.playgrnd.tools/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-11T16:06:02.000Z",
+      "publishedAt": "2026-10-11T16:31:37.000Z",
       "ai": false,
-      "titleZh": "企业幸福跑步机和少做事的案例"
+      "titleZh": "Playgrnd –制作奇怪、美丽事物的小工具"
     },
     {
       "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
@@ -209,16 +319,6 @@
       "publishedAt": "2026-10-11T14:29:07.000Z",
       "ai": false,
       "titleZh": "很抱歉，但您仍然需要考虑"
-    },
-    {
-      "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
-      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T14:28:39.000Z",
-      "ai": false,
-      "titleZh": "文件增加了针对埃克森美孚的气候欺诈案的证据"
     },
     {
       "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
@@ -328,6 +428,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-11T13:25:04.000Z",
       "ai": false
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-11T13:16:45.000Z",
+      "ai": false,
+      "titleZh": "Terence Tao ：数学2.0 [pdf]"
     },
     {
       "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财",
@@ -561,16 +671,6 @@
       "ai": false
     },
     {
-      "title": "Bot traffic from Yandex",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T10:27:53.000Z",
-      "ai": false,
-      "titleZh": "来自Yandex的机器人流量"
-    },
-    {
       "title": "Valve 悄悄修改日本区 Steam 用户协议：钱包余额 6 个月未使用将失效",
       "url": "https://www.ithome.com/1/011/673.htm",
       "source": "IT之家",
@@ -586,15 +686,6 @@
       "sourceId": "ithome",
       "lang": "zh",
       "publishedAt": "2026-10-11T10:14:47.000Z",
-      "ai": false
-    },
-    {
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T10:11:27.000Z",
       "ai": false
     },
     {
@@ -751,6 +842,15 @@
       "ai": false
     },
     {
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-11T09:04:31.000Z",
+      "ai": true
+    },
+    {
       "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
       "url": "https://www.ithome.com/1/011/639.htm",
       "source": "IT之家",
@@ -767,6 +867,15 @@
       "lang": "zh",
       "publishedAt": "2026-10-11T09:00:00.000Z",
       "ai": false
+    },
+    {
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-11T08:59:06.000Z",
+      "ai": true
     },
     {
       "title": "美国国家橄榄球联盟“纽约巨人队”将旗下赛事视频 360 度全景 VR 化，观众可体验沉浸式球场",
@@ -913,6 +1022,15 @@
       "ai": false
     },
     {
+      "title": "陶哲轩：数学2.0时代已至！",
+      "url": "https://www.qbitai.com/2026/10/502594.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-11T07:52:16.000Z",
+      "ai": true
+    },
+    {
       "title": "厦门轨道集团100亿元小公募债申报获上交所受理",
       "url": "https://www.36kr.com/newsflashes/4021037642993538",
       "source": "36氪",
@@ -920,16 +1038,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-11T07:46:53.000Z",
       "ai": false
-    },
-    {
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "url": "https://status.yandex.cloud/en/incidents/2136",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T07:34:45.000Z",
-      "ai": false,
-      "titleZh": "第三个Yandex云数据中心受到影响"
     },
     {
       "title": "苹果通过反向人才收购拿下Huxe",
@@ -983,15 +1091,6 @@
       "sourceId": "36kr",
       "lang": "zh",
       "publishedAt": "2026-10-11T06:43:20.000Z",
-      "ai": false
-    },
-    {
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T06:18:59.000Z",
       "ai": false
     },
     {
@@ -1076,26 +1175,6 @@
       "ai": true
     },
     {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-11T00:45:49.000Z",
-      "ai": false,
-      "titleZh": "PSPi 6 – PSP中的Raspberry Pi"
-    },
-    {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-10T22:50:10.000Z",
-      "ai": false,
-      "titleZh": "构建您自己的决策模型"
-    },
-    {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "source": "TechCrunch AI",
@@ -1104,16 +1183,6 @@
       "publishedAt": "2026-10-10T21:47:51.000Z",
       "ai": true,
       "titleZh": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”"
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-10T20:31:50.000Z",
-      "ai": false,
-      "titleZh": "一个城市建设游戏，在这个游戏中，城市不希望你"
     },
     {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -1206,15 +1275,6 @@
       "sourceId": "qbitai",
       "lang": "zh",
       "publishedAt": "2026-10-10T08:54:08.000Z",
-      "ai": true
-    },
-    {
-      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-      "url": "https://www.qbitai.com/2026/10/502484.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-10T08:52:16.000Z",
       "ai": true
     },
     {
@@ -1326,25 +1386,6 @@
       "ai": false
     },
     {
-      "title": "Rat's Register Allocator",
-      "url": "https://hexrat.cc/pages/blog/2026_10_07",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-10T07:10:17.000Z",
-      "ai": false,
-      "titleZh": "鼠标寄存器分配器"
-    },
-    {
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-10T06:59:02.000Z",
-      "ai": true
-    },
-    {
       "title": "好产品就是与时代和生活共振｜2026 年度极客最爱好物启动",
       "url": "http://www.geekpark.net/news/372196",
       "source": "极客公园",
@@ -1370,16 +1411,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-10T05:30:00.000Z",
       "ai": true
-    },
-    {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-10T04:12:26.000Z",
-      "ai": false,
-      "titleZh": "灯泡电脑"
     },
     {
       "title": "这三个摄影 App， 配得上你全新的 iPhone 18 Pro",
@@ -1635,15 +1666,6 @@
       "ai": false
     },
     {
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-09T09:19:57.000Z",
-      "ai": true
-    },
-    {
       "title": "苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？",
       "url": "https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
@@ -1773,26 +1795,6 @@
       "publishedAt": "2026-10-08T18:20:32.000Z",
       "ai": true,
       "titleZh": "Ben Affleck是个人工智能书呆子，互联网给人留下了深刻的印象"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:19:45.000Z",
-      "ai": true,
-      "titleZh": "受欢迎的人工智能排行榜Arena的估值在10个月内几乎翻了一番，达到31亿美元"
-    },
-    {
-      "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:19:42.000Z",
-      "ai": true,
-      "titleZh": "据报道， OpenAI的收入比之前预测的少200 $"
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -2029,71 +2031,71 @@
         "createdAt": "2026-09-28T02:14:42Z"
       },
       {
-        "name": "DaragonTech/DT-HumanDev",
-        "url": "https://github.com/DaragonTech/DT-HumanDev",
-        "stars": 6,
-        "desc": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experimental, not legal advice",
-        "lang": "TypeScript",
-        "createdAt": "2026-09-28T14:05:33Z"
-      },
-      {
         "name": "thinkingdev923/EstateWise-ChatBot",
         "url": "https://github.com/thinkingdev923/EstateWise-ChatBot",
         "stars": 6,
         "desc": "🏠 An AI real estate app featuring secure auth, conversation management, & personalized property recommendations. Powered by Agentic AI, RAG (w/ Pinecone), Grap",
         "lang": "TypeScript",
         "createdAt": "2026-10-02T11:45:04Z"
+      },
+      {
+        "name": "DaragonTech/DT-HumanDev",
+        "url": "https://github.com/DaragonTech/DT-HumanDev",
+        "stars": 6,
+        "desc": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experimental, not legal advice",
+        "lang": "TypeScript",
+        "createdAt": "2026-09-28T14:05:33Z"
       }
     ],
     "huggingface": [
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 1644,
+        "likes": 1678,
         "downloads": 98829,
         "task": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 1032,
+        "likes": 1063,
         "downloads": 37647,
         "task": "text-generation"
       },
       {
         "id": "Cloudflare/clef",
         "url": "https://huggingface.co/Cloudflare/clef",
-        "likes": 2017,
+        "likes": 2025,
         "downloads": 14351,
         "task": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "likes": 3952,
+        "likes": 3971,
         "downloads": 2188658,
         "task": "text-to-image"
       },
       {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 517,
+        "likes": 531,
         "downloads": 4702,
         "task": "text-to-image"
       },
       {
-        "id": "Aleph-Alpha/Kolibri-1",
-        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-        "likes": 880,
-        "downloads": 12550,
-        "task": "text-generation"
-      },
-      {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 7273,
+        "likes": 7301,
         "downloads": 1726683,
         "task": "image-to-video"
+      },
+      {
+        "id": "Aleph-Alpha/Kolibri-1",
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "likes": 886,
+        "downloads": 12550,
+        "task": "text-generation"
       },
       {
         "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
@@ -2105,28 +2107,28 @@
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 17488,
+        "likes": 17503,
         "downloads": 6843108,
         "task": "image-text-to-text"
       },
       {
         "id": "canberkkkkkk/ema-lightning",
         "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
-        "likes": 352,
+        "likes": 356,
         "downloads": 18079,
         "task": "text-to-speech"
       },
       {
         "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
         "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-        "likes": 309,
+        "likes": 319,
         "downloads": 108900,
         "task": "text-generation"
       },
       {
         "id": "LiquidAI/d1-3B",
         "url": "https://huggingface.co/LiquidAI/d1-3B",
-        "likes": 292,
+        "likes": 295,
         "downloads": 10843,
         "task": "image-text-to-text"
       }
@@ -2141,29 +2143,24 @@
         "delta": 0
       },
       {
+        "word": "发布",
+        "count": 5,
+        "delta": 1
+      },
+      {
         "word": "投资",
         "count": 4,
         "delta": 0
       },
       {
-        "word": "发布",
-        "count": 4,
-        "delta": -1
-      },
-      {
         "word": "GPT",
-        "count": 3,
-        "delta": 1
-      },
-      {
-        "word": "Anthropic",
         "count": 3,
         "delta": 0
       },
       {
         "word": "芯片",
         "count": 3,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "DeepSeek",
@@ -2171,9 +2168,14 @@
         "delta": 0
       },
       {
+        "word": "Anthropic",
+        "count": 2,
+        "delta": -1
+      },
+      {
         "word": "Agent",
         "count": 2,
-        "delta": -2
+        "delta": 0
       },
       {
         "word": "开源",
@@ -2193,7 +2195,7 @@
       {
         "word": "OpenAI",
         "count": 1,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "英伟达",
@@ -2204,6 +2206,11 @@
         "word": "智能体",
         "count": 1,
         "delta": 0
+      },
+      {
+        "word": "多模态",
+        "count": 1,
+        "delta": 1
       },
       {
         "word": "算力",
@@ -2218,32 +2225,28 @@
       {
         "word": "创业",
         "count": 1,
-        "delta": 1
+        "delta": 0
       }
     ],
     "signals": [
       {
         "type": "up",
-        "text": "「GPT」热度上升 +1（当前 3 次提及）"
+        "text": "「发布」热度上升 +1（当前 5 次提及）"
       },
       {
         "type": "up",
-        "text": "「芯片」热度上升 +1（当前 3 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「创业」热度上升 +1（当前 1 次提及）"
+        "text": "「多模态」热度上升 +1（当前 1 次提及）"
       },
       {
         "type": "money",
-        "text": "检测到 13 条融资 / 资本相关资讯，注意风口与钱的方向"
+        "text": "检测到 12 条融资 / 资本相关资讯，注意风口与钱的方向"
       },
       {
         "type": "code",
         "text": "GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题"
       }
     ],
-    "fundingCount": 13
+    "fundingCount": 12
   },
   "opportunities": [
     {
@@ -2263,6 +2266,15 @@
       "url": "https://www.ithome.com/1/011/678.htm",
       "source": "IT之家",
       "publishedAt": "2026-10-11T10:54:55.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T08:59:06.000Z"
     },
     {
       "type": "新模型",
@@ -2353,15 +2365,6 @@
       "url": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
       "source": "雷锋网",
       "publishedAt": "2026-10-10T03:25:00.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-09T21:41:29.000Z"
     }
   ],
   "ideas": [
@@ -2370,12 +2373,12 @@
       "title": "用 AI 10 分钟搞定GPT，大学生亲测"
     },
     {
-      "kw": "Anthropic",
-      "title": "Anthropic最新动向，对大学生意味着什么？"
-    },
-    {
       "kw": "DeepSeek",
       "title": "DeepSeek值不值得用？我替你先试了"
+    },
+    {
+      "kw": "Anthropic",
+      "title": "Anthropic最新动向，对大学生意味着什么？"
     },
     {
       "kw": "Agent",
@@ -2398,5 +2401,5 @@
       "title": "OpenAI火了，现在入场还来得及吗？"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-11\n\n## 一、今日信号\n- 「GPT」热度上升 +1（当前 3 次提及）\n- 「芯片」热度上升 +1（当前 3 次提及）\n- 「创业」热度上升 +1（当前 1 次提及）\n- 检测到 13 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [商业落地] 消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] 《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [资本动向] 英伟达据悉正就收购Reflection AI或增加投资进行磋商\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：36氪\n- [新模型] 下架8个月，GPT-4o的拯救行动居然还在继续\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [新模型] DeepSeek Bot来了！民间版，DSH装个插件就能用\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [资本动向] 马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：极客公园\n- [商业落地] 西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：量子位\n\n## 三、热度关键词\n产品 (6) · 投资 (4) · 发布 (4) · GPT (3) · Anthropic (3) · 芯片 (3) · DeepSeek (2) · Agent (2) · 开源 (2) · 融资 (2) · 机器人 (2) · OpenAI (1)\n\n## 四、头条速览\n- Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?（Hacker News）\n- Can the AI industry persuade data center opponents by getting rid of NDAs?（TechCrunch AI）\n- The Corporate Happiness Treadmill and the Case for Doing Less（Hacker News）\n- 李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到（IT之家）\n- How I reverse engineered a commercial spatial audio effect（Hacker News）\n- 曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找（IT之家）\n- 消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元（IT之家）\n- 古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机（IT之家）\n- 消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布（IT之家）\n- 小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-11\n\n## 一、今日信号\n- 「发布」热度上升 +1（当前 5 次提及）\n- 「多模态」热度上升 +1（当前 1 次提及）\n- 检测到 12 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [商业落地] 消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] 《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 何恺明团队发布多模态Harness框架\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：量子位\n- [新模型] 跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [资本动向] 英伟达据悉正就收购Reflection AI或增加投资进行磋商\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：36氪\n- [新模型] 下架8个月，GPT-4o的拯救行动居然还在继续\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [新模型] DeepSeek Bot来了！民间版，DSH装个插件就能用\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [资本动向] 马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：极客公园\n\n## 三、热度关键词\n产品 (6) · 发布 (5) · 投资 (4) · GPT (3) · 芯片 (3) · DeepSeek (2) · Anthropic (2) · Agent (2) · 开源 (2) · 融资 (2) · 机器人 (2) · OpenAI (1)\n\n## 四、头条速览\n- Will the HomeView be Apple’s first smart home success?（TechCrunch AI）\n- Andrej Karpathy breaks down the capability gap（Hacker News）\n- Cognitive Decline or Sanity Incline?（Hacker News）\n- Cartographers of North Korea（Hacker News）\n- Artificial Insanity（Hacker News）\n- Be The Onion's Hero for Once（Hacker News）\n- The Unreasonable Effectiveness of Vex in NixOS（Hacker News）\n- 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next（TechCrunch AI）\n- Chapter 1 of Ways of Seeing by John Berger（Hacker News）\n- Total Annihilation, rebuilt for modern computers（Hacker News）"
 }
