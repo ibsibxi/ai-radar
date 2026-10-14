@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T08:18:06.196Z",
-  "previousAt": "2026-10-14T00:04:05.327Z",
+  "generatedAt": "2026-10-14T14:15:42.484Z",
+  "previousAt": "2026-10-14T08:18:06.196Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 180,
+    "recent48h": 185,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 89
+    "aiCount": 86
   },
   "sources": [
     {
@@ -78,7 +78,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1288,
+      "count": 1289,
       "error": null
     },
     {
@@ -98,356 +98,934 @@
   ],
   "news": [
     {
-      "title": "苹果iPhone Duo完成大模型备案 Apple智能、通义千问等现身",
-      "url": "https://www.36kr.com/newsflashes/4025447815221121",
-      "source": "36氪",
-      "sourceId": "36kr",
+      "title": "索尼 PS5《GT 赛车》30 周年纪念 DualSense 手柄控制器公布，小米 Vision GT 领衔六款新车加入游戏",
+      "url": "https://www.ithome.com/1/013/114.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:17:16.000Z",
+      "publishedAt": "2026-10-14T14:12:36.000Z",
+      "ai": false
+    },
+    {
+      "title": "消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT",
+      "url": "https://www.ithome.com/1/013/112.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T14:01:41.000Z",
       "ai": true
     },
     {
-      "title": "韩国金融部门：16家金融机构遭黑客攻击，10万条信息外泄",
-      "url": "https://www.36kr.com/newsflashes/4025429711409288",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T08:15:44.000Z",
-      "ai": false
-    },
-    {
-      "title": "骁龙“8E5”硬刚“8EE6”：曝一加本月底有重量级性能新机，首发双路出风散热架构",
-      "url": "https://www.ithome.com/1/012/943.htm",
+      "title": "PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线",
+      "url": "https://www.ithome.com/1/013/111.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:14:01.000Z",
+      "publishedAt": "2026-10-14T14:00:12.000Z",
       "ai": false
     },
     {
-      "title": "三星电子会长李在镕将获母亲赠予股份，市值约 2.6 万亿韩元",
-      "url": "https://www.ithome.com/1/012/938.htm",
+      "title": "奇瑞捷途全新旅行者 7 上市 30 分钟大定订单突破 1 万台，超级焕新价 12.59 万元起",
+      "url": "https://www.ithome.com/1/013/110.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:11:19.000Z",
+      "publishedAt": "2026-10-14T13:46:45.000Z",
       "ai": false
     },
     {
-      "title": "恒指收跌0.13%，恒生科技指数涨0.91%",
-      "url": "https://www.36kr.com/newsflashes/4025441159139457",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T08:10:30.000Z",
-      "ai": false
-    },
-    {
-      "title": "Omdia：中国大陆 2026Q3 智能手机出货量创 2013 年以来同期新低",
-      "url": "https://www.ithome.com/1/012/934.htm",
+      "title": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益",
+      "url": "https://www.ithome.com/1/013/109.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:10:26.000Z",
+      "publishedAt": "2026-10-14T13:46:42.000Z",
       "ai": false
     },
     {
-      "title": "BRABUS 官宣全新 smart 精灵#2 博速版，依旧是经典红黑配色",
-      "url": "https://www.ithome.com/1/012/931.htm",
+      "title": "京东 7999 元苹果 iPhone Duo 早鸟权益包下架，部分消费者投诉无法退款",
+      "url": "https://www.ithome.com/1/013/108.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:08:55.000Z",
+      "publishedAt": "2026-10-14T13:45:41.000Z",
       "ai": false
     },
     {
-      "title": "全国网络辟谣：网传“禁止教师用 AI 备课”系误读",
-      "url": "https://www.ithome.com/1/012/929.htm",
+      "title": "3299 → 2596 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力、180℃ 蒸汽 + 90℃ 热水一键混洗",
+      "url": "https://www.ithome.com/1/013/106.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:07:49.000Z",
-      "ai": true
-    },
-    {
-      "title": "东方锆业：预计2026年前三季度净利润同比增长261.93%-365.34%",
-      "url": "https://www.36kr.com/newsflashes/4025436400701576",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T08:05:39.000Z",
+      "publishedAt": "2026-10-14T13:38:23.000Z",
       "ai": false
     },
     {
-      "title": "今年外资抛售三星电子、SK海力士合计176万亿韩元",
-      "url": "https://www.36kr.com/newsflashes/4025420024385666",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T08:02:50.000Z",
-      "ai": false
-    },
-    {
-      "title": "任天堂 Switch 2 可换电池版现身美国 FCC 认证数据库，有望全球推出",
-      "url": "https://www.ithome.com/1/012/927.htm",
+      "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
+      "url": "https://www.ithome.com/1/013/105.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T08:01:53.000Z",
+      "publishedAt": "2026-10-14T13:26:33.000Z",
       "ai": false
     },
     {
-      "title": "OpenAI洽谈收购开源安全厂商Trail of Bits，加码网络安全业务",
-      "url": "https://www.36kr.com/newsflashes/4025418964127624",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:58:48.000Z",
-      "ai": true
-    },
-    {
-      "title": "网易《逆水寒：新世界》官宣联动 3A 游戏大作《尼尔》，带来 2B 小姐姐同款服装和二创宠物",
-      "url": "https://www.ithome.com/1/012/926.htm",
+      "title": "2022 年以来最大一轮裁员：Netflix 宣布全球裁员约 6%，涉及约 1000 个岗位",
+      "url": "https://www.ithome.com/1/013/104.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:56:18.000Z",
+      "publishedAt": "2026-10-14T13:22:38.000Z",
       "ai": false
     },
     {
-      "title": "大眼橙联合钉钉发布可弯折 AI 听记眼镜 Q1：最轻仅 28g，定价 1299 元起",
-      "url": "https://www.ithome.com/1/012/925.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:54:23.000Z",
-      "ai": true
-    },
-    {
-      "title": "铭芯启睿首款 1Gb RRAM 芯片“泰山一号”流片：采用 1T4R 存储结构，密度达 30Mb / mm²",
-      "url": "https://www.ithome.com/1/012/924.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:54:18.000Z",
-      "ai": true
-    },
-    {
-      "title": "小米旗下瀚星创投等入股章鱼灵动科技公司",
-      "url": "https://www.36kr.com/newsflashes/4025407451631494",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:53:56.000Z",
-      "ai": false
-    },
-    {
-      "title": "行业首发：奇瑞与首钢联合研发 55% 再生钢零部件正式下线，可应用于覆盖件、结构件等全部关键部件",
-      "url": "https://www.ithome.com/1/012/923.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:52:22.000Z",
-      "ai": false
-    },
-    {
-      "title": "前英特尔 CEO 基辛格称 HBM 是“糟糕的内存”",
-      "url": "https://www.ithome.com/1/012/922.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:47:09.000Z",
-      "ai": false
-    },
-    {
-      "title": "3天2板松霖科技：预计2026年前三季度净利润同比增长22.91%-32.37%",
-      "url": "https://www.36kr.com/newsflashes/4025417715748999",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:46:39.000Z",
-      "ai": false
-    },
-    {
-      "title": "《地铁 2039》开放预购：Steam 国区 298 元起，2027 年 2 月 4 日发售",
-      "url": "https://www.ithome.com/1/012/921.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:45:57.000Z",
-      "ai": false
-    },
-    {
-      "title": "北汽星钽 5X 将于 10 月 21 日开启预售：方盒子造型，搭载华为乾崑智驾",
-      "url": "https://www.ithome.com/1/012/920.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:45:17.000Z",
-      "ai": false
-    },
-    {
-      "title": "嘉元科技：预计2026年前三季度净利润同比增长1196.60%-1318.92%",
-      "url": "https://www.36kr.com/newsflashes/4025414314774403",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:43:11.000Z",
-      "ai": false
-    },
-    {
-      "title": "PS5 游戏机黑商店“Overdrive”停止运营，索尼疑似发函",
-      "url": "https://www.ithome.com/1/012/919.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:41:52.000Z",
-      "ai": false
-    },
-    {
-      "title": "抖音集团李亮：热点治理可能是平台治理中最复杂的事情之一，希望让流量更多流向事实和理性",
-      "url": "https://www.ithome.com/1/012/918.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:40:55.000Z",
-      "ai": false
-    },
-    {
-      "title": "智元机器人在上海成立元生沃土科技公司# 注册资本1000万",
-      "url": "https://www.36kr.com/newsflashes/4025406889873544",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:35:38.000Z",
-      "ai": false
-    },
-    {
-      "title": "SK海力士HBM4部分后道工序设备订单被推迟至明年，业界称其扩产信号尚不明朗",
-      "url": "https://www.36kr.com/newsflashes/4025406381281413",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:35:07.000Z",
-      "ai": false
-    },
-    {
-      "title": "小米澎湃 OS 4 应用商店新增悬浮底栏，胡馨心透露 REDMI K100 系列手机马上推首批正式版系统升级",
-      "url": "https://www.ithome.com/1/012/916.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:33:14.000Z",
-      "ai": false
-    },
-    {
-      "title": "AMD CEO 苏姿丰：今年是真正的“AI 推理之年”",
-      "url": "https://www.ithome.com/1/012/915.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:31:58.000Z",
-      "ai": true
-    },
-    {
-      "title": "Netflix在韩销售额首破1万亿韩元，逾八成流向美国总部",
-      "url": "https://www.36kr.com/newsflashes/4025402471616649",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:31:08.000Z",
-      "ai": false
-    },
-    {
-      "title": "Why Sweden is abandoning its cashless society",
-      "url": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+      "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
+      "url": "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-14T07:30:49.000Z",
+      "publishedAt": "2026-10-14T13:20:39.000Z",
       "ai": false,
-      "titleZh": "瑞典为何放弃无现金社会"
+      "titleZh": "Weiss的“精心挑选”编辑威胁CBS工作人员的会议泄露的详细信息"
     },
     {
-      "title": "小鹏汽车开始向全球开放技术合作，涵盖整车平台、模块化技术与全套工具链等",
-      "url": "https://www.ithome.com/1/012/911.htm",
+      "title": "Switzerland proposes banning profiling-based ads to minors",
+      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T13:20:02.000Z",
+      "ai": false,
+      "titleZh": "瑞士建议禁止向未成年人投放基于个人资料的广告"
+    },
+    {
+      "title": "任天堂《塞尔达传说：时之笛 重制版》新细节：城镇全程自由视角，钱包容量翻倍",
+      "url": "https://www.ithome.com/1/013/102.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:28:36.000Z",
+      "publishedAt": "2026-10-14T13:17:05.000Z",
       "ai": false
     },
     {
-      "title": "799 元：富士 instax SQUARE 2 拍立得相机发布，新增滤镜、3 档对焦模式",
-      "url": "https://www.ithome.com/1/012/910.htm",
+      "title": "游戏史首台中国 Vision GT：小米 Vision Gran Turismo 超跑官宣明日入驻 Gran Turismo 7",
+      "url": "https://www.ithome.com/1/013/101.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:27:16.000Z",
+      "publishedAt": "2026-10-14T13:16:27.000Z",
       "ai": false
     },
     {
-      "title": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车",
-      "url": "https://www.ithome.com/1/012/909.htm",
+      "title": "5499 → 3823 元：大疆 AI ROMO 2 超幅扫拖机器人 11.11 官方直降",
+      "url": "https://www.ithome.com/1/013/100.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:26:05.000Z",
-      "ai": false
-    },
-    {
-      "title": "AOC 推出 Mini LED 显示器 AGP277QKM：27\" QHD 425Hz，峰值亮度 1200nits",
-      "url": "https://www.ithome.com/1/012/908.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:22:20.000Z",
-      "ai": false
-    },
-    {
-      "title": "机构：预估2027年CSP资本支出总额破1.5万亿美元，AI服务器量价齐升带动产值年增逾90%",
-      "url": "https://www.36kr.com/newsflashes/4025393140027272",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:21:39.000Z",
+      "publishedAt": "2026-10-14T13:12:59.000Z",
       "ai": true
     },
     {
-      "title": "朗道燧岩 EUV 光源系统样机 2026 工博会首秀：国产化率达 90%，距量产仍需 3~5 年",
-      "url": "https://www.ithome.com/1/012/907.htm",
+      "title": "iQOO Pad Pro 8.8 英寸平板预热：165Hz OLED 屏、298g 重、5.74mm 厚、9020mAh 电池",
+      "url": "https://www.ithome.com/1/013/099.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:16:45.000Z",
+      "publishedAt": "2026-10-14T13:11:07.000Z",
       "ai": false
     },
     {
-      "title": "湖南出台开源鸿蒙专项实施方案：到 2028 年力争落地 100 个示范场景，支持长沙打造“鸿蒙生态培育标杆城市”",
-      "url": "https://www.ithome.com/1/012/906.htm",
+      "title": "小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员",
+      "url": "https://www.ithome.com/1/013/098.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:16:23.000Z",
+      "publishedAt": "2026-10-14T13:10:01.000Z",
       "ai": false
     },
     {
-      "title": "联手英伟达，网易旗下《燕云十六声》成全国首款支持DLSS 5游戏",
-      "url": "https://www.36kr.com/newsflashes/4025386927525762",
+      "title": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next",
+      "url": "https://www.ithome.com/1/013/097.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T13:04:11.000Z",
+      "ai": false
+    },
+    {
+      "title": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍",
+      "url": "https://www.ithome.com/1/013/096.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T13:02:30.000Z",
+      "ai": false
+    },
+    {
+      "title": "热门中概股美股盘前涨跌互现，哔哩哔哩跌超2%",
+      "url": "https://www.36kr.com/newsflashes/4025725872066437",
       "source": "36氪",
       "sourceId": "36kr",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:15:20.000Z",
-      "ai": true
+      "publishedAt": "2026-10-14T13:00:07.000Z",
+      "ai": false
     },
     {
-      "title": "避免宇航员变成“行走的高压电容器”，NASA 悬赏 15 万美元征集月球静电防护方案",
-      "url": "https://www.ithome.com/1/012/905.htm",
+      "title": "RIP Eric Binnion",
+      "url": "https://ma.tt/2026/10/rip-eric/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T12:58:32.000Z",
+      "ai": false
+    },
+    {
+      "title": "美股大型科技股盘前涨跌不一，英特尔跌超2%",
+      "url": "https://www.36kr.com/newsflashes/4025722610651273",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:56:48.000Z",
+      "ai": false
+    },
+    {
+      "title": "苹果 iOS 27.2 Beta 4 系统 Siri AI 新增支持法语、日语、西班牙语等",
+      "url": "https://www.ithome.com/1/013/094.htm",
       "source": "IT之家",
       "sourceId": "ithome",
       "lang": "zh",
-      "publishedAt": "2026-10-14T07:14:01.000Z",
+      "publishedAt": "2026-10-14T12:53:07.000Z",
+      "ai": true
+    },
+    {
+      "title": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片",
+      "url": "https://www.ithome.com/1/013/093.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:51:35.000Z",
+      "ai": true
+    },
+    {
+      "title": "不止于 2K+185Hz，从“天空之镜”看中国显示产业的“越级”与“破局”",
+      "url": "https://www.ithome.com/1/013/092.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:51:00.000Z",
       "ai": false
+    },
+    {
+      "title": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权",
+      "url": "https://www.ithome.com/1/013/091.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:48:25.000Z",
+      "ai": false
+    },
+    {
+      "title": "奇瑞捷途全新旅行者 7 上市：燃油 / 插混版可选，超级焕新价 12.59 万元起",
+      "url": "https://www.ithome.com/1/013/089.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:43:06.000Z",
+      "ai": false
+    },
+    {
+      "title": "富祥股份：控股股东、实控人、董事长包建华被留置",
+      "url": "https://www.36kr.com/newsflashes/4025708859625604",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:42:49.000Z",
+      "ai": false
+    },
+    {
+      "title": "第四届北极星医美榜发布：全国42个城市的181家机构上榜",
+      "url": "https://www.36kr.com/newsflashes/4025706143223682",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:40:03.000Z",
+      "ai": false
+    },
+    {
+      "title": "CME“美联储观察”：9月CPI公布前，美联储10月维持利率不变的概率为78.4%",
+      "url": "https://www.36kr.com/newsflashes/4025695517855625",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:36:09.000Z",
+      "ai": false
+    },
+    {
+      "title": "苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明",
+      "url": "https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "sourceId": "ifanr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:35:44.000Z",
+      "ai": false
+    },
+    {
+      "title": "美国9月CPI同比增长3.7%，高于市场预期",
+      "url": "https://www.36kr.com/newsflashes/4025700062367881",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:33:52.000Z",
+      "ai": false
+    },
+    {
+      "title": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降",
+      "url": "https://www.ithome.com/1/013/088.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:33:23.000Z",
+      "ai": false
+    },
+    {
+      "title": "BIGME 大我推出 B13 Pro 彩墨屏显示器：13.3 英寸、最高 60FPS，569 美元",
+      "url": "https://www.ithome.com/1/013/087.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:32:24.000Z",
+      "ai": false
+    },
+    {
+      "title": "卫星化学：预计2026年前三季度净利润同比增长132%-158%",
+      "url": "https://www.36kr.com/newsflashes/4025667188264841",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:29:21.000Z",
+      "ai": false
+    },
+    {
+      "title": "交个朋友控股：2026年第三季度GMV下降约0.7%",
+      "url": "https://www.36kr.com/newsflashes/4025686300741508",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:28:44.000Z",
+      "ai": false
+    },
+    {
+      "title": "iQOO Neo12 官宣首发 pTSF 技术超冠屏：「天空之镜」发光材料，号称让 185Hz 进入 2K 时代",
+      "url": "https://www.ithome.com/1/013/086.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:28:01.000Z",
+      "ai": false
+    },
+    {
+      "title": "差评如潮：世嘉《全面战争: 幕府将军 2》完全版发售，Steam 国区 198 元",
+      "url": "https://www.ithome.com/1/013/085.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:26:52.000Z",
+      "ai": false
+    },
+    {
+      "title": "一箭十星，朱雀二号改进型遥四运载火箭发射成功",
+      "url": "https://www.36kr.com/newsflashes/4025686711488647",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:20:17.000Z",
+      "ai": false
+    },
+    {
+      "title": "美银因监管处罚计提12亿美元费用",
+      "url": "https://www.36kr.com/newsflashes/4025670681284739",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:18:53.000Z",
+      "ai": false
+    },
+    {
+      "title": "The Aaronson Oracle",
+      "url": "https://aaronsonoracle.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T12:16:35.000Z",
+      "ai": false,
+      "titleZh": "Aaronson Oracle"
+    },
+    {
+      "title": "盛视科技：人形机器人业务正在有序推进中 上半年营收占比不超2%",
+      "url": "https://www.36kr.com/newsflashes/4025668399861897",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:13:35.000Z",
+      "ai": false
+    },
+    {
+      "title": "大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167,999 元",
+      "url": "https://www.ithome.com/1/013/083.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:11:59.000Z",
+      "ai": false
+    },
+    {
+      "title": "一箭十星：朱雀二号改进型遥四运载火箭发射成功",
+      "url": "https://www.ithome.com/1/013/082.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:10:21.000Z",
+      "ai": false
+    },
+    {
+      "title": "荣盛石化：预计2026年前三季度净利润同比增长778%-823%",
+      "url": "https://www.36kr.com/newsflashes/4025676554358916",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:09:57.000Z",
+      "ai": false
+    },
+    {
+      "title": "东诚药业：拟不超11.21亿元回购控股子公司蓝纳成少数股东股权",
+      "url": "https://www.36kr.com/newsflashes/4025667877687427",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:09:02.000Z",
+      "ai": false
+    },
+    {
+      "title": "我国规模最大光氢储一体化项目储能电站并网投运，年发电量约 4.68 亿千瓦时",
+      "url": "https://www.ithome.com/1/013/081.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T12:08:23.000Z",
+      "ai": false
+    },
+    {
+      "title": "迈为股份：拟1亿元参与认购广州众行励芯创业投资基金",
+      "url": "https://www.36kr.com/newsflashes/4025647578910597",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:59:24.000Z",
+      "ai": false
+    },
+    {
+      "title": "申昊科技：申昊智算成为A公司算力服务供应商并提供集群算力服务",
+      "url": "https://www.36kr.com/newsflashes/4025646154633090",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:54:57.000Z",
+      "ai": true
+    },
+    {
+      "title": "绿联 NAS 鸿蒙版客户端开启公测招募，首批仅 500 个名额",
+      "url": "https://www.ithome.com/1/013/080.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:54:52.000Z",
+      "ai": false
+    },
+    {
+      "title": "贾跃亭宣布 FFR 合并 FFAI 机器人业务独立上市，目标美股人形和仿生机器人第一股",
+      "url": "https://www.ithome.com/1/013/079.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:51:01.000Z",
+      "ai": false
+    },
+    {
+      "title": "德福科技：预计2026年前三季度净利润同比增长561%-621%",
+      "url": "https://www.36kr.com/newsflashes/4025640210599817",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:49:54.000Z",
+      "ai": false
+    },
+    {
+      "title": "雷蛇灰鲭鲨 X 游戏音箱开售：7.1 环绕声、10 灯区幻彩底光，799 元",
+      "url": "https://www.ithome.com/1/013/078.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:49:13.000Z",
+      "ai": false
+    },
+    {
+      "title": "科学家研究发现激活细胞中的一种酶可延长多种生物寿命，部分幅度超 25%",
+      "url": "https://www.ithome.com/1/013/077.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:48:34.000Z",
+      "ai": false
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T11:47:53.000Z",
+      "ai": false,
+      "titleZh": "Pg_vectorsearch ：比pgvector的IVFFlat和HNSW更快的索引"
+    },
+    {
+      "title": "摩根士丹利三季度营收203亿美元，同比增长12%",
+      "url": "https://www.36kr.com/newsflashes/4025644461592452",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:43:09.000Z",
+      "ai": false
+    },
+    {
+      "title": "荣耀 MagicOS 11 十月升级功能公布：AI 随心握更新，IT之家资讯 / 圈子首页、话题页悬浮按钮支持跟手移动",
+      "url": "https://www.ithome.com/1/013/076.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:42:53.000Z",
+      "ai": true
+    },
+    {
+      "title": "欧普康视：控股子公司旗下星程眼科拟1.2亿元受让恒熠医疗100%股权",
+      "url": "https://www.36kr.com/newsflashes/4025636267085961",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:39:53.000Z",
+      "ai": false
+    },
+    {
+      "title": "因《GTA6》规模太大，Rockstar 在美国洛杉矶开设新工作室",
+      "url": "https://www.ithome.com/1/013/075.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:39:09.000Z",
+      "ai": false
+    },
+    {
+      "title": "苹果库克展示爱奇艺适配 iPhone Duo 折叠屏手机效果，盛赞 App 优化做得十分出色",
+      "url": "https://www.ithome.com/1/013/074.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:39:06.000Z",
+      "ai": false
+    },
+    {
+      "title": "2025年欧盟生产的汽车中近四成为电动及混合动力车型",
+      "url": "https://www.36kr.com/newsflashes/4025626873171841",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:35:29.000Z",
+      "ai": false
+    },
+    {
+      "title": "国庆假期后股基ETF净流入超570亿元",
+      "url": "https://www.36kr.com/newsflashes/4025629675851907",
+      "source": "36氪",
+      "sourceId": "36kr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:29:09.000Z",
+      "ai": false
+    },
+    {
+      "title": "戴尔 CEO：AI 需要保障措施和控制，政府应发挥作用",
+      "url": "https://www.ithome.com/1/013/072.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:22:21.000Z",
+      "ai": true
+    },
+    {
+      "title": "医美消费走向专业化、个性化，美团发布2026北极星医美榜",
+      "url": "https://www.leiphone.com/category/industrynews/5IL0iXZb9YqAIyLN.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:21:00.000Z",
+      "ai": true
+    },
+    {
+      "title": "Rockstar 承诺《GTA 6》之后的下一款游戏不会再等八年",
+      "url": "https://www.ithome.com/1/013/071.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:10:59.000Z",
+      "ai": false
+    },
+    {
+      "title": "KDE Plasma 6.8 桌面环境发布：恰逢 KDE 诞生 30 年、彻底告别 X11 会话",
+      "url": "https://www.ithome.com/1/013/068.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T11:03:10.000Z",
+      "ai": false
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "ai": true,
+      "titleZh": "Scimplify筹集了2500万美元，通过人工智能挑战中国对关键材料的控制"
+    },
+    {
+      "title": "科学家发现迄今最遥远快速射电暴的宿主星系，信号传播超 100 亿年",
+      "url": "https://www.ithome.com/1/013/066.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:59:46.000Z",
+      "ai": false
+    },
+    {
+      "title": "上汽集团、东风汽车等发布声明，对本次中欧经贸磋商取得的积极成果表示完全支持（实时更新）",
+      "url": "https://www.ithome.com/1/013/065.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:55:30.000Z",
+      "ai": false
+    },
+    {
+      "title": "任天堂 Switch Online 新增 3 款 GBA 游戏：《合金弹头 Advance》《转转天堂》等上线 NSO+ 拓展包",
+      "url": "https://www.ithome.com/1/013/063.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:52:48.000Z",
+      "ai": false
+    },
+    {
+      "title": "AOC“U27U4D”显示器开售：26.5 英寸 4K 120Hz QD-OLED，券后到手价 4699 元",
+      "url": "https://www.ithome.com/1/013/059.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:45:27.000Z",
+      "ai": false
+    },
+    {
+      "title": "国产“原子级放大镜”问世：中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+      "url": "https://www.ithome.com/1/013/056.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:43:58.000Z",
+      "ai": false
+    },
+    {
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:41:47.000Z",
+      "ai": true
+    },
+    {
+      "title": "育碧计划关闭芬兰 RedLynx 工作室，新加坡工作室也面临大幅裁员",
+      "url": "https://www.ithome.com/1/013/055.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:37:27.000Z",
+      "ai": false
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T10:28:26.000Z",
+      "ai": true,
+      "titleZh": "在AI代理擦除编辑材料后， TV4推迟了节目"
+    },
+    {
+      "title": "宝马 7 系重返 V8 动力时代，2027 款 M760 xDrive 搭载 4.4T V8 发动机、570 马力",
+      "url": "https://www.ithome.com/1/013/054.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:27:27.000Z",
+      "ai": false
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T10:26:53.000Z",
+      "ai": false,
+      "titleZh": "ESUG 2026上的Pulsar （全新Smalltalk IDE ）"
+    },
+    {
+      "title": "11.11 今晚 20:00 加码：iPhone 17 Pro Max 折后 7919 元，华为 Pura 80 京东 1 元秒杀",
+      "url": "https://www.ithome.com/1/013/053.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:26:28.000Z",
+      "ai": false
+    },
+    {
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T10:26:24.000Z",
+      "ai": true,
+      "titleZh": "量子计算机的人工智能激光锁定： QuEra如何实现自动化"
+    },
+    {
+      "title": "现代汽车印度新工厂投产：总年产能接近 100 万辆，计划 2032 年前对印度投资 155 亿美元",
+      "url": "https://www.ithome.com/1/013/052.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:19:47.000Z",
+      "ai": false
+    },
+    {
+      "title": "到手价 999 元：飞利浦 EVNIA 弈威 27 英寸显示器 27M2N3500PF 开售，2K 260Hz Fast IPS",
+      "url": "https://www.ithome.com/1/013/051.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:19:14.000Z",
+      "ai": false
+    },
+    {
+      "title": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
+      "url": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "sourceId": "ifanr",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:14:04.000Z",
+      "ai": false
+    },
+    {
+      "title": "AI 挖掘的漏洞报告存在误报，华为终端安全奖励计划要求提交前进行人工分析和验证",
+      "url": "https://www.ithome.com/1/013/049.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:09:54.000Z",
+      "ai": true
+    },
+    {
+      "title": "漫步者推出 WE-BASS 耳夹式无线耳机新品：20 小时复合续航，399 元",
+      "url": "https://www.ithome.com/1/013/044.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:02:49.000Z",
+      "ai": false
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T10:00:24.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：内置代码的列奥纳多·达·芬奇3D导览博物馆"
+    },
+    {
+      "title": "荣耀 MagicOS11 系统 10 月更新今晚推送，第二批内测机型报名通道重新开放",
+      "url": "https://www.ithome.com/1/013/035.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T10:00:05.000Z",
+      "ai": false
+    },
+    {
+      "title": "思必驰 Turbo 电纸书开启预售，2899 元",
+      "url": "https://www.ithome.com/1/013/030.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:57:15.000Z",
+      "ai": false
+    },
+    {
+      "title": "特斯拉赛博无人驾驶电动车官宣打卡更多城市，覆盖深圳、宁波、成都等",
+      "url": "https://www.ithome.com/1/013/022.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:53:31.000Z",
+      "ai": false
+    },
+    {
+      "title": "小米汽车推出北方八省冬季服务保障：含免费冬季专项检查、更换冬季胎免工时费等",
+      "url": "https://www.ithome.com/1/013/015.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:50:30.000Z",
+      "ai": false
+    },
+    {
+      "title": "TRYX 展域 SE 360 V2 液冷散热器上架，10 月 19 日 9:00 开售",
+      "url": "https://www.ithome.com/1/012/998.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:42:45.000Z",
+      "ai": false
+    },
+    {
+      "title": "长城汽车：传感器装得多，辅助驾驶系统不一定就好用，关键是要看得准",
+      "url": "https://www.ithome.com/1/012/996.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:42:30.000Z",
+      "ai": false
+    },
+    {
+      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T09:37:24.000Z",
+      "ai": false,
+      "titleZh": "谁在Ledger加密钱包中种植后门？"
+    },
+    {
+      "title": "日立推出木制数据中心，主打低成本、亲和外观",
+      "url": "https://www.ithome.com/1/012/983.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:34:55.000Z",
+      "ai": false
+    },
+    {
+      "title": "SK 海力士预测：到 2030 年，AI 基础设施性能规模将增长约 20 倍",
+      "url": "https://www.ithome.com/1/012/980.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:34:06.000Z",
+      "ai": true
+    },
+    {
+      "title": "认知心理学背后的播客剪辑技巧",
+      "url": "https://sspai.com/post/114861",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:33:49.000Z",
+      "ai": false
+    },
+    {
+      "title": "华为详解鸿蒙座舱「智慧场景」：一套条件 + 动作的车载自动化规则，支持触发后执行系列操作",
+      "url": "https://www.ithome.com/1/012/979.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:31:46.000Z",
+      "ai": false
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T09:28:17.000Z",
+      "ai": false,
+      "titleZh": "亚马逊在互联网上推高价格"
+    },
+    {
+      "title": "xMEMS 宣布其 µCooling 全硅固态主动散热芯片进入量产阶段",
+      "url": "https://www.ithome.com/1/012/978.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:25:59.000Z",
+      "ai": true
+    },
+    {
+      "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
+      "url": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T09:15:00.000Z",
+      "ai": true
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T08:27:59.000Z",
+      "ai": false,
+      "titleZh": "Iosevka是一种开源、无衬线和平板衬线、等宽字体"
+    },
+    {
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T08:01:18.000Z",
+      "ai": true
+    },
+    {
+      "title": "AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」",
+      "url": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T07:42:00.000Z",
+      "ai": true
+    },
+    {
+      "title": "爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽",
+      "url": "https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "publishedAt": "2026-10-14T07:18:00.000Z",
+      "ai": true
     },
     {
       "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
@@ -459,42 +1037,6 @@
       "ai": true
     },
     {
-      "title": "Stellantis 明确表态：不会出售玛莎拉蒂",
-      "url": "https://www.ithome.com/1/012/904.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:10:46.000Z",
-      "ai": false
-    },
-    {
-      "title": "全汉推出 4U 机箱 W600：卧则机架、立则塔式，支持 ATX 与 2U CRPS 电源",
-      "url": "https://www.ithome.com/1/012/903.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:09:17.000Z",
-      "ai": false
-    },
-    {
-      "title": "优必选、自贡数据合资成立科技公司",
-      "url": "https://www.36kr.com/newsflashes/4025346509426564",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:06:05.000Z",
-      "ai": false
-    },
-    {
-      "title": "红魔 × UBISOFT 育碧达成游戏合作，红魔 12 Pro+ 跨端首发《孤岛惊魂 3》",
-      "url": "https://www.ithome.com/1/012/897.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:04:38.000Z",
-      "ai": false
-    },
-    {
       "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
       "url": "https://www.qbitai.com/2026/10/503211.html",
       "source": "量子位",
@@ -504,66 +1046,12 @@
       "ai": true
     },
     {
-      "title": "A股三大指数集体收跌，全市场近4500股下跌",
-      "url": "https://www.36kr.com/newsflashes/4025374471032964",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:02:39.000Z",
-      "ai": false
-    },
-    {
-      "title": "大众安徽与众 06 / 07 激光雷达版将于 10 月 17 日上市，支持城区领航辅助功能",
-      "url": "https://www.ithome.com/1/012/892.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T07:02:16.000Z",
-      "ai": false
-    },
-    {
       "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
       "url": "https://sspai.com/post/115426",
       "source": "少数派",
       "sourceId": "sspai",
       "lang": "zh",
       "publishedAt": "2026-10-14T07:00:00.000Z",
-      "ai": false
-    },
-    {
-      "title": "特斯拉第二代 Roadster 发布正式定档：北京时间 16 日上午 8:55 见",
-      "url": "https://www.ithome.com/1/012/888.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:59:33.000Z",
-      "ai": false
-    },
-    {
-      "title": "提升视听体验：苹果第四代 Apple TV 4K 支持 AV1 和杜比视界 Profile 8.1",
-      "url": "https://www.ithome.com/1/012/883.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:57:59.000Z",
-      "ai": false
-    },
-    {
-      "title": "LG 生产的 Apple Home Collection 系列智能家居配件可兼容 LG ThinQ 应用",
-      "url": "https://www.ithome.com/1/012/881.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:57:20.000Z",
-      "ai": false
-    },
-    {
-      "title": "阿里千问办公发布电商版，开启邀测",
-      "url": "https://www.ithome.com/1/012/875.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:53:19.000Z",
       "ai": false
     },
     {
@@ -576,69 +1064,6 @@
       "ai": false
     },
     {
-      "title": "MINI PAUL SMITH 设计师款燃油版上市，限时礼遇价 27.78 万元起",
-      "url": "https://www.ithome.com/1/012/872.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:51:02.000Z",
-      "ai": false
-    },
-    {
-      "title": "宇宙里最多的氢，有望揭开暗能量的秘密",
-      "url": "https://www.ithome.com/1/012/870.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:50:19.000Z",
-      "ai": false
-    },
-    {
-      "title": "美国逮捕OpenAI沙特籍员工，被控在办公室安装窃听设备",
-      "url": "https://www.36kr.com/newsflashes/4025360064761992",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:48:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "比亚迪第二代海鸥车型 10 月 20 日上市：尺寸动力底盘全面升级",
-      "url": "https://www.ithome.com/1/012/865.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:47:58.000Z",
-      "ai": false
-    },
-    {
-      "title": "7999 元：苹果 iPhone Duo 京东早鸟先享权益包开售，赠 999 元官方手机壳",
-      "url": "https://www.ithome.com/1/012/862.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:47:02.000Z",
-      "ai": false
-    },
-    {
-      "title": "日月光推出 3D 垂直整合 PowerSiP 解决方案，可减半寄生布线损耗",
-      "url": "https://www.ithome.com/1/012/861.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:46:53.000Z",
-      "ai": false
-    },
-    {
-      "title": "英伟达将在未来五年内投入2.5亿美元，推进英国智能体安全研究",
-      "url": "https://www.36kr.com/newsflashes/4025358699335557",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:46:37.000Z",
-      "ai": true
-    },
-    {
       "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
       "url": "https://www.qbitai.com/2026/10/503201.html",
       "source": "量子位",
@@ -648,112 +1073,22 @@
       "ai": true
     },
     {
-      "title": "索尼 ECM-AX10 手机空间音频麦克风开售，1499 元",
-      "url": "https://www.ithome.com/1/012/854.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
+      "title": "千问办公发布电商版，开启邀测",
+      "url": "https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "publishedAt": "2026-10-14T06:43:03.000Z",
-      "ai": false
+      "publishedAt": "2026-10-14T06:31:00.000Z",
+      "ai": true
     },
     {
-      "title": "韩国9月ICT出口首超700亿美元，同比增长195.8%",
-      "url": "https://www.36kr.com/newsflashes/4025352161071234",
-      "source": "36氪",
-      "sourceId": "36kr",
+      "title": "豆包工作上线新功能，支持跨AI产品一键导入已有配置",
+      "url": "https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html",
+      "source": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "publishedAt": "2026-10-14T06:39:58.000Z",
-      "ai": false
-    },
-    {
-      "title": "卫星数据揭示：全球多个大城市正发生地面沉降",
-      "url": "https://www.ithome.com/1/012/853.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:39:49.000Z",
-      "ai": false
-    },
-    {
-      "title": "英国拟通过加税和削减支出为新预算筹资，避免扩大政府借债规模",
-      "url": "https://www.36kr.com/newsflashes/4025351062311047",
-      "source": "36氪",
-      "sourceId": "36kr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:38:51.000Z",
-      "ai": false
-    },
-    {
-      "title": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元",
-      "url": "https://www.ithome.com/1/012/852.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:38:50.000Z",
-      "ai": false
-    },
-    {
-      "title": "be quiet! 推出 Light Wings Pro IO 系列单框连体风扇，可选 360 / 420 规格",
-      "url": "https://www.ithome.com/1/012/851.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:37:33.000Z",
-      "ai": false
-    },
-    {
-      "title": "消息称奇瑞、博世就欧洲 ADAS 本土化项目达成合作，将搭载于奇瑞 6 款全新车型",
-      "url": "https://www.ithome.com/1/012/850.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:36:54.000Z",
-      "ai": false
-    },
-    {
-      "title": "零跑纯电小车 A10s 官宣：镜夜黑车身、专属红标、红色缝线加持",
-      "url": "https://www.ithome.com/1/012/848.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:36:23.000Z",
-      "ai": false
-    },
-    {
-      "title": "《使命召唤 3》游戏时隔 20 年迎来非官方 PC 移植版：支持 4K 与高帧率",
-      "url": "https://www.ithome.com/1/012/845.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:35:02.000Z",
-      "ai": false
-    },
-    {
-      "title": "有钱任性：消息称《GTA 6》营销预算超 1.5 亿美元",
-      "url": "https://www.ithome.com/1/012/836.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:27:18.000Z",
-      "ai": false
-    },
-    {
-      "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
-      "url": "https://www.ithome.com/1/012/835.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:25:47.000Z",
-      "ai": false
-    },
-    {
-      "title": "映泰推出基于英特尔 \"Wildcat Lake\" 处理器的 BIWCL-PAT 工业单板计算机",
-      "url": "https://www.ithome.com/1/012/831.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:24:54.000Z",
-      "ai": false
+      "publishedAt": "2026-10-14T06:27:00.000Z",
+      "ai": true
     },
     {
       "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
@@ -763,33 +1098,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-14T06:24:00.000Z",
       "ai": true
-    },
-    {
-      "title": "威马汽车公众号喊话“B 能汽车”讨薪，消息称 App 再次无法使用",
-      "url": "https://www.ithome.com/1/012/830.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:23:20.000Z",
-      "ai": false
-    },
-    {
-      "title": "R 星联合创始人丹 · 豪瑟：《GTA 3》经典封面因“9·11”事件仓促诞生",
-      "url": "https://www.ithome.com/1/012/829.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:22:11.000Z",
-      "ai": false
-    },
-    {
-      "title": "消息称非 BFC 后缀的英特尔 Nova Lake 处理器游戏性能和 Arrow Lake 相近",
-      "url": "https://www.ithome.com/1/012/828.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:20:39.000Z",
-      "ai": false
     },
     {
       "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
@@ -802,15 +1110,6 @@
       "titleZh": "AOSP源代码发布太迟了，开发人员拆解库以报告错误"
     },
     {
-      "title": "京东快递推出“早十点达”服务，门店商超开门即可补货",
-      "url": "https://www.ithome.com/1/012/827.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:12:42.000Z",
-      "ai": false
-    },
-    {
       "title": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
       "url": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
@@ -820,93 +1119,12 @@
       "ai": true
     },
     {
-      "title": "泰坦军团推出 P259 ULTRA 显示器：24.5\" FHD 310Hz，HDR 峰值亮度 400nits",
-      "url": "https://www.ithome.com/1/012/824.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:08:47.000Z",
-      "ai": false
-    },
-    {
       "title": "腾讯AI办公再进一步，企业微信与WorkBuddy深度联合",
       "url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
       "source": "雷锋网",
       "sourceId": "leiphone",
       "lang": "zh",
       "publishedAt": "2026-10-14T05:57:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "比亚迪：中欧贸易投资磋商为混动汽车贸易营造了稳定、可预期、可持续的合作环境",
-      "url": "https://www.ithome.com/1/012/821.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:54:33.000Z",
-      "ai": false
-    },
-    {
-      "title": "Rust 编写：开发者挑战 Adobe 后再挑战微软，Office 三件套替代品上线",
-      "url": "https://www.ithome.com/1/012/820.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:53:40.000Z",
-      "ai": false
-    },
-    {
-      "title": "SEMI 预测：全球 300mm 晶圆厂设备投资 2029 年将达 2270 亿美元",
-      "url": "https://www.ithome.com/1/012/819.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:53:14.000Z",
-      "ai": false
-    },
-    {
-      "title": "苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问",
-      "url": "https://www.ithome.com/1/012/818.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:51:51.000Z",
-      "ai": true
-    },
-    {
-      "title": "2026 双 11 装机最优解：5 大于 4，选对平台少花冤枉钱",
-      "url": "https://www.ithome.com/1/012/817.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:50:35.000Z",
-      "ai": false
-    },
-    {
-      "title": "zalman 推出 Z20 DS 中塔 ATX 机箱，正面支持大屏 / 透风双模",
-      "url": "https://www.ithome.com/1/012/816.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:36:47.000Z",
-      "ai": false
-    },
-    {
-      "title": "微软 10 月 Win11 累积更新修复部分游戏内鼠标卡顿问题",
-      "url": "https://www.ithome.com/1/012/815.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:36:13.000Z",
-      "ai": false
-    },
-    {
-      "title": "苹果 iPhone Duo 国行备案新增大模型编号：Apple 智能、通义万相、通义千问",
-      "url": "https://www.ithome.com/1/012/814.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T05:33:40.000Z",
       "ai": true
     },
     {
@@ -963,6 +1181,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-14T03:32:48.000Z",
       "ai": true
+    },
+    {
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "url": "https://strafe.chat/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-14T03:28:00.000Z",
+      "ai": false,
+      "titleZh": "Strafe ： Discord的全新开源、E2E加密和联合替代方案"
     },
     {
       "title": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
@@ -1028,16 +1256,6 @@
       "ai": true
     },
     {
-      "title": "Do Frameworks Matter Anymore?",
-      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-14T01:01:08.000Z",
-      "ai": false,
-      "titleZh": "框架是否不再重要？"
-    },
-    {
       "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
       "url": "https://sspai.com/post/116138",
       "source": "少数派",
@@ -1063,6 +1281,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-14T00:08:24.000Z",
       "ai": true
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "lang": "en",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "ai": true,
+      "titleZh": "欧盟在人工智能领域的下一篇章是代理"
     },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -1095,16 +1323,6 @@
       "titleZh": "Industrial Next希望工厂机器人在几分钟内切换任务，而不是几周"
     },
     {
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T22:46:49.000Z",
-      "ai": false,
-      "titleZh": "Grace Hopper庆祝活动已取消"
-    },
-    {
       "title": "Cerebras CEO pushes back on AI doomsday warnings",
       "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
       "source": "TechCrunch AI",
@@ -1125,34 +1343,6 @@
       "titleZh": "娱乐编程"
     },
     {
-      "title": "AlphaNIST",
-      "url": "https://alpha-nist.github.io/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T21:57:29.000Z",
-      "ai": false
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T21:01:12.000Z",
-      "ai": true,
-      "titleZh": "PostEra （ YC W20 ）正在聘请人工智能研究人员进行药物发现"
-    },
-    {
-      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-      "url": "https://www.qbitai.com/2026/10/503109.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T20:55:15.000Z",
-      "ai": true
-    },
-    {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
       "source": "TechCrunch AI",
@@ -1161,16 +1351,6 @@
       "publishedAt": "2026-10-13T20:36:44.000Z",
       "ai": true,
       "titleZh": "法官命令OpenAI交出苹果商业机密案件的招聘记录"
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:23:55.000Z",
-      "ai": true,
-      "titleZh": "OpenAI工程师因窃听高管会议室而被捕"
     },
     {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
@@ -1201,16 +1381,6 @@
       "publishedAt": "2026-10-13T18:05:24.000Z",
       "ai": true,
       "titleZh": "Facebook正在让用户更好地控制他们的算法"
-    },
-    {
-      "title": "Show HN: XY Music Notation",
-      "url": "https://music.xy.dev/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T17:43:05.000Z",
-      "ai": false,
-      "titleZh": "显示HN: XY音乐符号"
     },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -1302,16 +1472,6 @@
       "titleZh": "Gemini 4 Argon ：专为解决您最棘手的问题而设计"
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T15:49:56.000Z",
-      "ai": true,
-      "titleZh": "重新设计Anthropic的源代码控制"
-    },
-    {
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
       "source": "Hacker News",
@@ -1320,16 +1480,6 @@
       "publishedAt": "2026-10-13T15:12:57.000Z",
       "ai": false,
       "titleZh": "与20世纪70年代相比，英国人均发电量减少"
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T15:07:37.000Z",
-      "ai": false,
-      "titleZh": "适用于iOS的Thunderbird"
     },
     {
       "title": "刚刚，苹果 HomeView 发布！10+ 款「果家」新品，你能买到的只有一个",
@@ -1348,16 +1498,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-13T14:37:37.000Z",
       "ai": false
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T14:26:08.000Z",
-      "ai": false,
-      "titleZh": "Apple的新“切换到Safari”活动详细说明了为什么您应该放弃Chrome"
     },
     {
       "title": "TechCrunch Disrupt 2026: Day 1",
@@ -1408,15 +1548,6 @@
       "ai": true
     },
     {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T13:02:12.000Z",
-      "ai": false
-    },
-    {
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "source": "TechCrunch AI",
@@ -1456,25 +1587,6 @@
       "ai": false
     },
     {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T11:05:39.000Z",
-      "ai": true
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T10:27:00.000Z",
-      "ai": false,
-      "titleZh": "在Rust借用检查器中发现了11年的不健康漏洞"
-    },
-    {
       "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",
       "url": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
       "source": "雷锋网",
@@ -1509,16 +1621,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-13T08:25:53.000Z",
       "ai": true
-    },
-    {
-      "title": "The People's Bookshelf (Riga, Latvia)",
-      "url": "https://tautasgramatuplaukts.lv/en/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-13T08:25:09.000Z",
-      "ai": false,
-      "titleZh": "人民书架（拉脱维亚里加）"
     },
     {
       "title": "中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额",
@@ -1665,15 +1767,6 @@
       "ai": true
     },
     {
-      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-      "url": "https://sspai.com/post/116033",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "lang": "zh",
-      "publishedAt": "2026-10-13T00:01:49.000Z",
-      "ai": false
-    },
-    {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI",
@@ -1713,76 +1806,12 @@
       "ai": true
     },
     {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-12T15:31:19.000Z",
-      "ai": true,
-      "titleZh": "微软总裁表示，英国最适合推动人工智能监管"
-    },
-    {
-      "title": "产业出题，科技答题：2026 IEIC国际具身智能技能大赛，用真实岗位任务考核机器人落地能力",
-      "url": "https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T14:13:00.000Z",
-      "ai": true
-    },
-    {
       "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
       "url": "http://www.geekpark.net/news/372263",
       "source": "极客公园",
       "sourceId": "geekpark",
       "lang": "zh",
       "publishedAt": "2026-10-12T12:15:30.000Z",
-      "ai": true
-    },
-    {
-      "title": "苹果交出第一份折叠作业，华为已经把答案写了八年",
-      "url": "https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T09:58:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "安踏×火山引擎：下单缩至10分钟、月均建单1000+，Agent跑进全球电商业务",
-      "url": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T09:48:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "百度世界2026将于11月12日在北京举办，主题为「下一幕，智能组织」",
-      "url": "https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T07:42:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "独家丨奥比中光砍掉割草机器人ODM业务，千台级出货难撑整机梦",
-      "url": "https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T07:21:00.000Z",
-      "ai": true
-    },
-    {
-      "title": "吉利银河战舰700上市：限时焕新价16.98万元起，押注电混与智能越野",
-      "url": "https://www.leiphone.com/category/transportation/3ybm9fbHLDY2qSFw.html",
-      "source": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
       "ai": true
     },
     {
@@ -1840,15 +1869,6 @@
       "ai": false
     },
     {
-      "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
-      "url": "https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "sourceId": "ifanr",
-      "lang": "zh",
-      "publishedAt": "2026-10-11T00:53:42.000Z",
-      "ai": false
-    },
-    {
       "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
       "url": "http://www.geekpark.net/news/372216",
       "source": "极客公园",
@@ -1856,15 +1876,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-11T00:53:38.000Z",
       "ai": true
-    },
-    {
-      "title": "17.98 万元起，银河战舰 700 上市，三电机千匹马力，装进家用方盒子",
-      "url": "https://www.ifanr.com/1683809?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "sourceId": "ifanr",
-      "lang": "zh",
-      "publishedAt": "2026-10-10T13:46:25.000Z",
-      "ai": false
     },
     {
       "title": "好产品就是与时代和生活共振｜2026 年度极客最爱好物启动",
@@ -1931,15 +1942,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-09T04:34:12.000Z",
       "ai": true
-    },
-    {
-      "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
-      "url": "http://www.geekpark.net/news/372148",
-      "source": "极客公园",
-      "sourceId": "geekpark",
-      "lang": "zh",
-      "publishedAt": "2026-10-09T04:28:07.000Z",
-      "ai": true
     }
   ],
   "data": {
@@ -1947,7 +1949,7 @@
       {
         "name": "PkLavc/Autotrader",
         "url": "https://github.com/PkLavc/Autotrader",
-        "stars": 29,
+        "stars": 28,
         "desc": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
         "lang": "Python",
         "createdAt": "2026-10-07T02:43:14Z"
@@ -1977,12 +1979,12 @@
         "createdAt": "2026-10-01T09:24:39Z"
       },
       {
-        "name": "burlakovmb/NOWA-Bio-Inspired-AI",
-        "url": "https://github.com/burlakovmb/NOWA-Bio-Inspired-AI",
-        "stars": 7,
-        "desc": "New bio inspired AI",
-        "lang": "Python",
-        "createdAt": "2026-10-10T11:24:30Z"
+        "name": "PDFMathTranslate/PDFMathReader",
+        "url": "https://github.com/PDFMathTranslate/PDFMathReader",
+        "stars": 8,
+        "desc": "Read scientific documents in any language, with realtime translation, on any platform. / 实时翻译任何语言的科学文献，适用于任何平台。",
+        "lang": "JavaScript",
+        "createdAt": "2026-10-02T08:19:09Z"
       },
       {
         "name": "lucidrains/self-play-pretrain-zero-data",
@@ -1993,20 +1995,20 @@
         "createdAt": "2026-10-02T19:25:21Z"
       },
       {
+        "name": "burlakovmb/NOWA-Bio-Inspired-AI",
+        "url": "https://github.com/burlakovmb/NOWA-Bio-Inspired-AI",
+        "stars": 7,
+        "desc": "New bio inspired AI",
+        "lang": "Python",
+        "createdAt": "2026-10-10T11:24:30Z"
+      },
+      {
         "name": "thinkingdev923/EstateWise-ChatBot",
         "url": "https://github.com/thinkingdev923/EstateWise-ChatBot",
         "stars": 6,
         "desc": "🏠 An AI real estate app featuring secure auth, conversation management, & personalized property recommendations. Powered by Agentic AI, RAG (w/ Pinecone), Grap",
         "lang": "TypeScript",
         "createdAt": "2026-10-02T11:45:04Z"
-      },
-      {
-        "name": "PDFMathTranslate/PDFMathReader",
-        "url": "https://github.com/PDFMathTranslate/PDFMathReader",
-        "stars": 6,
-        "desc": "Read scientific documents in any language, with realtime translation, on any platform. / 实时翻译任何语言的科学文献，适用于任何平台。",
-        "lang": "JavaScript",
-        "createdAt": "2026-10-02T08:19:09Z"
       },
       {
         "name": "lel-media/electrocheck-engine",
@@ -2033,97 +2035,97 @@
         "createdAt": "2026-10-02T10:10:42Z"
       },
       {
-        "name": "shashikantdev3/attention-span",
-        "url": "https://github.com/shashikantdev3/attention-span",
+        "name": "FangGovernorFilter/CupCat-VideoEditor-Ai",
+        "url": "https://github.com/FangGovernorFilter/CupCat-VideoEditor-Ai",
         "stars": 4,
-        "desc": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it.",
-        "lang": "Python",
-        "createdAt": "2026-10-08T15:37:23Z"
+        "desc": "🧁 Free, local, AI-native video editor for Windows — Claude edits your timeline over MCP; the AI toolbox runs on-device. No credits, no watermark.",
+        "lang": "",
+        "createdAt": "2026-10-03T21:35:33Z"
       }
     ],
     "huggingface": [
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 2142,
-        "downloads": 124930,
+        "likes": 2195,
+        "downloads": 135175,
         "task": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 1556,
-        "downloads": 54039,
+        "likes": 1591,
+        "downloads": 65616,
         "task": "text-generation"
       },
       {
         "id": "Qwen/Qwen-Image-2.1-Turbo",
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 729,
-        "downloads": 9665,
+        "likes": 748,
+        "downloads": 12704,
         "task": "text-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4237,
-        "downloads": 2247929,
+        "likes": 4267,
+        "downloads": 2315771,
         "task": "text-to-image"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 520,
-        "downloads": 630,
+        "likes": 532,
+        "downloads": 4157,
         "task": "image-text-to-text"
+      },
+      {
+        "id": "autotrust/JEV-35B",
+        "url": "https://huggingface.co/autotrust/JEV-35B",
+        "likes": 712,
+        "downloads": 27970,
+        "task": "text-classification"
       },
       {
         "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
         "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-        "likes": 434,
-        "downloads": 269829,
+        "likes": 444,
+        "downloads": 311969,
         "task": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 7681,
-        "downloads": 1724548,
+        "likes": 7724,
+        "downloads": 1823507,
         "task": "image-to-video"
-      },
-      {
-        "id": "autotrust/JEV-35B",
-        "url": "https://huggingface.co/autotrust/JEV-35B",
-        "likes": 665,
-        "downloads": 17426,
-        "task": "text-classification"
       },
       {
         "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
         "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-        "likes": 428,
-        "downloads": 208575,
+        "likes": 437,
+        "downloads": 258320,
         "task": "text-to-image"
       },
       {
         "id": "LiquidAI/d1-3B",
         "url": "https://huggingface.co/LiquidAI/d1-3B",
-        "likes": 384,
-        "downloads": 13190,
-        "task": "image-text-to-text"
-      },
-      {
-        "id": "Cloudflare/clef",
-        "url": "https://huggingface.co/Cloudflare/clef",
-        "likes": 2149,
-        "downloads": 17173,
+        "likes": 390,
+        "downloads": 14854,
         "task": "image-text-to-text"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 17658,
-        "downloads": 7119569,
+        "likes": 17671,
+        "downloads": 7221327,
+        "task": "image-text-to-text"
+      },
+      {
+        "id": "Cloudflare/clef",
+        "url": "https://huggingface.co/Cloudflare/clef",
+        "likes": 2156,
+        "downloads": 18304,
         "task": "image-text-to-text"
       }
     ]
@@ -2133,53 +2135,43 @@
     "keywords": [
       {
         "word": "发布",
-        "count": 14,
-        "delta": -5
+        "count": 16,
+        "delta": 2
       },
       {
         "word": "Agent",
-        "count": 6,
+        "count": 7,
         "delta": 1
-      },
-      {
-        "word": "大模型",
-        "count": 6,
-        "delta": 3
       },
       {
         "word": "Gemini",
         "count": 5,
-        "delta": 1
+        "delta": 0
       },
       {
-        "word": "智能体",
+        "word": "机器人",
         "count": 5,
         "delta": 2
       },
       {
-        "word": "OpenAI",
+        "word": "智能体",
         "count": 4,
-        "delta": -2
+        "delta": -1
       },
       {
-        "word": "开源",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "word": "Anthropic",
+        "word": "大模型",
         "count": 3,
-        "delta": 0
+        "delta": -3
       },
       {
         "word": "投资",
         "count": 3,
-        "delta": -2
+        "delta": 0
       },
       {
-        "word": "机器人",
+        "word": "芯片",
         "count": 3,
-        "delta": -1
+        "delta": 1
       },
       {
         "word": "具身智能",
@@ -2187,34 +2179,39 @@
         "delta": 0
       },
       {
-        "word": "英伟达",
-        "count": 2,
-        "delta": -2
-      },
-      {
-        "word": "芯片",
-        "count": 2,
-        "delta": -4
-      },
-      {
         "word": "创业",
+        "count": 3,
+        "delta": 1
+      },
+      {
+        "word": "GPT",
+        "count": 2,
+        "delta": 1
+      },
+      {
+        "word": "Anthropic",
+        "count": 2,
+        "delta": -1
+      },
+      {
+        "word": "算力",
         "count": 2,
         "delta": 2
       },
       {
-        "word": "GPT",
-        "count": 1,
-        "delta": 0
+        "word": "产品",
+        "count": 2,
+        "delta": 1
       },
       {
         "word": "Claude",
         "count": 1,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "DeepSeek",
         "count": 1,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "Grok",
@@ -2222,38 +2219,43 @@
         "delta": 0
       },
       {
-        "word": "多模态",
+        "word": "OpenAI",
         "count": 1,
-        "delta": 1
+        "delta": -3
+      },
+      {
+        "word": "开源",
+        "count": 1,
+        "delta": -3
       },
       {
         "word": "融资",
         "count": 1,
-        "delta": -2
+        "delta": 0
       },
       {
-        "word": "推理",
+        "word": "医疗",
         "count": 1,
         "delta": 1
       },
       {
-        "word": "产品",
+        "word": "Agentic",
         "count": 1,
-        "delta": -2
+        "delta": 1
       }
     ],
     "signals": [
       {
         "type": "up",
-        "text": "「开源」热度上升 +4（当前 4 次提及）"
+        "text": "「发布」热度上升 +2（当前 16 次提及）"
       },
       {
         "type": "up",
-        "text": "「大模型」热度上升 +3（当前 6 次提及）"
+        "text": "「机器人」热度上升 +2（当前 5 次提及）"
       },
       {
         "type": "up",
-        "text": "「智能体」热度上升 +2（当前 5 次提及）"
+        "text": "「算力」热度上升 +2（当前 2 次提及）"
       },
       {
         "type": "money",
@@ -2268,40 +2270,49 @@
   },
   "opportunities": [
     {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "苹果iPhone Duo完成大模型备案 Apple智能、通义千问等现身",
-      "url": "https://www.36kr.com/newsflashes/4025447815221121",
-      "source": "36氪",
-      "publishedAt": "2026-10-14T08:17:16.000Z"
-    },
-    {
-      "type": "开源项目",
-      "icon": "🐙",
-      "action": "做上手教程、代部署，或二次封装成小工具卖给不会折腾的人",
-      "title": "OpenAI洽谈收购开源安全厂商Trail of Bits，加码网络安全业务",
-      "url": "https://www.36kr.com/newsflashes/4025418964127624",
-      "source": "36氪",
-      "publishedAt": "2026-10-14T07:58:48.000Z"
-    },
-    {
       "type": "新工具上线",
       "icon": "🛠",
       "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "大眼橙联合钉钉发布可弯折 AI 听记眼镜 Q1：最轻仅 28g，定价 1299 元起",
-      "url": "https://www.ithome.com/1/012/925.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-14T07:54:23.000Z"
+      "title": "医美消费走向专业化、个性化，美团发布2026北极星医美榜",
+      "url": "https://www.leiphone.com/category/industrynews/5IL0iXZb9YqAIyLN.html",
+      "source": "雷锋网",
+      "publishedAt": "2026-10-14T11:21:00.000Z"
+    },
+    {
+      "type": "资本动向",
+      "icon": "💰",
+      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
+      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-14T11:00:00.000Z"
     },
     {
       "type": "商业落地",
       "icon": "🏢",
       "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
-      "title": "铭芯启睿首款 1Gb RRAM 芯片“泰山一号”流片：采用 1T4R 存储结构，密度达 30Mb / mm²",
-      "url": "https://www.ithome.com/1/012/924.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-14T07:54:18.000Z"
+      "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
+      "url": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
+      "source": "雷锋网",
+      "publishedAt": "2026-10-14T09:15:00.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-14T08:01:18.000Z"
+    },
+    {
+      "type": "商业落地",
+      "icon": "🏢",
+      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
+      "title": "爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽",
+      "url": "https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html",
+      "source": "雷锋网",
+      "publishedAt": "2026-10-14T07:18:00.000Z"
     },
     {
       "type": "新工具上线",
@@ -2325,28 +2336,10 @@
       "type": "新模型",
       "icon": "🧠",
       "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问",
-      "url": "https://www.ithome.com/1/012/818.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-14T05:51:51.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "苹果 iPhone Duo 国行备案新增大模型编号：Apple 智能、通义万相、通义千问",
-      "url": "https://www.ithome.com/1/012/814.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-14T05:33:40.000Z"
-    },
-    {
-      "type": "商业落地",
-      "icon": "🏢",
-      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
       "source": "量子位",
-      "publishedAt": "2026-10-14T04:09:29.000Z"
+      "publishedAt": "2026-10-14T04:51:32.000Z"
     },
     {
       "type": "开源项目",
@@ -2358,24 +2351,6 @@
       "publishedAt": "2026-10-14T03:32:48.000Z"
     },
     {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
-      "url": "https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "publishedAt": "2026-10-14T02:56:48.000Z"
-    },
-    {
-      "type": "开源项目",
-      "icon": "🐙",
-      "action": "做上手教程、代部署，或二次封装成小工具卖给不会折腾的人",
-      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-      "url": "https://www.qbitai.com/2026/10/503109.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-13T20:55:15.000Z"
-    },
-    {
       "type": "资本动向",
       "icon": "💰",
       "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
@@ -2385,6 +2360,24 @@
       "publishedAt": "2026-10-13T17:18:25.000Z"
     },
     {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-13T16:03:16.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "publishedAt": "2026-10-13T16:00:00.000Z"
+    },
+    {
       "type": "资本动向",
       "icon": "💰",
       "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
@@ -2392,15 +2385,6 @@
       "url": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
       "source": "雷锋网",
       "publishedAt": "2026-10-13T09:20:00.000Z"
-    },
-    {
-      "type": "资本动向",
-      "icon": "💰",
-      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
-      "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
-      "url": "http://www.geekpark.net/news/372278",
-      "source": "极客公园",
-      "publishedAt": "2026-10-13T03:44:18.000Z"
     }
   ],
   "ideas": [
@@ -2409,33 +2393,33 @@
       "title": "用 AI 10 分钟搞定Agent，大学生亲测"
     },
     {
-      "kw": "大模型",
-      "title": "大模型最新动向，对大学生意味着什么？"
-    },
-    {
       "kw": "Gemini",
       "title": "Gemini值不值得用？我替你先试了"
+    },
+    {
+      "kw": "机器人",
+      "title": "机器人最新动向，对大学生意味着什么？"
     },
     {
       "kw": "智能体",
       "title": "手把手教你用智能体，零基础也能上手"
     },
     {
-      "kw": "OpenAI",
-      "title": "OpenAI这波热度，普通人能怎么蹭？"
+      "kw": "大模型",
+      "title": "大模型这波热度，普通人能怎么蹭？"
     },
     {
-      "kw": "开源",
-      "title": "开源怎么免费用？这份攻略请收好"
+      "kw": "具身智能",
+      "title": "我研究了具身智能，总结了 3 个能用上的点"
+    },
+    {
+      "kw": "GPT",
+      "title": "GPT怎么免费用？这份攻略请收好"
     },
     {
       "kw": "Anthropic",
-      "title": "我研究了Anthropic，总结了 3 个能用上的点"
-    },
-    {
-      "kw": "机器人",
-      "title": "机器人火了，现在入场还来得及吗？"
+      "title": "Anthropic火了，现在入场还来得及吗？"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-14\n\n## 一、今日信号\n- 「开源」热度上升 +4（当前 4 次提及）\n- 「大模型」热度上升 +3（当前 6 次提及）\n- 「智能体」热度上升 +2（当前 5 次提及）\n- 检测到 8 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] 苹果iPhone Duo完成大模型备案 Apple智能、通义千问等现身\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：36氪\n- [开源项目] OpenAI洽谈收购开源安全厂商Trail of Bits，加码网络安全业务\n  👉 做上手教程、代部署，或二次封装成小工具卖给不会折腾的人\n  出处：36氪\n- [新工具上线] 大眼橙联合钉钉发布可弯折 AI 听记眼镜 Q1：最轻仅 28g，定价 1299 元起\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] 铭芯启睿首款 1Gb RRAM 芯片“泰山一号”流片：采用 1T4R 存储结构，密度达 30Mb / mm²\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] STEPX首款大模型原生智能体手机STEPX Neo正式发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：量子位\n- [商业落地] 腾讯AI办公再进一步，企业微信与WorkBuddy深度联合\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n- [新模型] 苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 苹果 iPhone Duo 国行备案新增大模型编号：Apple 智能、通义万相、通义千问\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n\n## 三、热度关键词\n发布 (14) · Agent (6) · 大模型 (6) · Gemini (5) · 智能体 (5) · OpenAI (4) · 开源 (4) · Anthropic (3) · 投资 (3) · 机器人 (3) · 具身智能 (3) · 英伟达 (2)\n\n## 四、头条速览\n- 苹果iPhone Duo完成大模型备案 Apple智能、通义千问等现身（36氪）\n- 韩国金融部门：16家金融机构遭黑客攻击，10万条信息外泄（36氪）\n- 骁龙“8E5”硬刚“8EE6”：曝一加本月底有重量级性能新机，首发双路出风散热架构（IT之家）\n- 三星电子会长李在镕将获母亲赠予股份，市值约 2.6 万亿韩元（IT之家）\n- 恒指收跌0.13%，恒生科技指数涨0.91%（36氪）\n- Omdia：中国大陆 2026Q3 智能手机出货量创 2013 年以来同期新低（IT之家）\n- BRABUS 官宣全新 smart 精灵#2 博速版，依旧是经典红黑配色（IT之家）\n- 全国网络辟谣：网传“禁止教师用 AI 备课”系误读（IT之家）\n- 东方锆业：预计2026年前三季度净利润同比增长261.93%-365.34%（36氪）\n- 今年外资抛售三星电子、SK海力士合计176万亿韩元（36氪）"
+  "digest": "# AI 变现雷达简报 · 2026-10-14\n\n## 一、今日信号\n- 「发布」热度上升 +2（当前 16 次提及）\n- 「机器人」热度上升 +2（当前 5 次提及）\n- 「算力」热度上升 +2（当前 2 次提及）\n- 检测到 8 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] 医美消费走向专业化、个性化，美团发布2026北极星医美榜\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [资本动向] Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：TechCrunch AI\n- [商业落地] 蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n- [新工具上线] 阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：量子位\n- [商业落地] 爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n- [新工具上线] STEPX首款大模型原生智能体手机STEPX Neo正式发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：量子位\n- [商业落地] 腾讯AI办公再进一步，企业微信与WorkBuddy深度联合\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n- [新模型] 国内最年轻AI教授创业：要让世界模型走向全身全模态\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n\n## 三、热度关键词\n发布 (16) · Agent (7) · Gemini (5) · 机器人 (5) · 智能体 (4) · 大模型 (3) · 投资 (3) · 芯片 (3) · 具身智能 (3) · 创业 (3) · GPT (2) · Anthropic (2)\n\n## 四、头条速览\n- 索尼 PS5《GT 赛车》30 周年纪念 DualSense 手柄控制器公布，小米 Vision GT 领衔六款新车加入游戏（IT之家）\n- 消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT（IT之家）\n- PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线（IT之家）\n- 奇瑞捷途全新旅行者 7 上市 30 分钟大定订单突破 1 万台，超级焕新价 12.59 万元起（IT之家）\n- 新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益（IT之家）\n- 京东 7999 元苹果 iPhone Duo 早鸟权益包下架，部分消费者投诉无法退款（IT之家）\n- 3299 → 2596 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力、180℃ 蒸汽 + 90℃ 热水一键混洗（IT之家）\n- 消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国（IT之家）\n- 2022 年以来最大一轮裁员：Netflix 宣布全球裁员约 6%，涉及约 1000 个岗位（IT之家）\n- Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff（Hacker News）"
 }
