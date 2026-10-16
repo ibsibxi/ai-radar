@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T18:34:03.114Z",
-  "previousAt": "2026-10-16T13:41:29.771Z",
+  "generatedAt": "2026-10-16T23:12:19.875Z",
+  "previousAt": "2026-10-16T18:34:03.114Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 191,
+    "recent48h": 192,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 88
+    "aiCount": 92
   },
   "sources": [
     {
@@ -78,7 +78,7 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1296,
+      "count": 1297,
       "error": null
     },
     {
@@ -97,6 +97,150 @@
     }
   ],
   "news": [
+    {
+      "title": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS",
+      "url": "https://www.ithome.com/1/014/194.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T23:08:44.000Z",
+      "ai": true
+    },
+    {
+      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+      "url": "https://www.ithome.com/1/014/193.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T23:05:10.000Z",
+      "ai": true
+    },
+    {
+      "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+      "url": "https://www.ithome.com/1/014/192.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T23:01:02.000Z",
+      "ai": true
+    },
+    {
+      "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+      "url": "https://www.ithome.com/1/014/191.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T22:53:05.000Z",
+      "ai": true
+    },
+    {
+      "title": "微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度",
+      "url": "https://www.ithome.com/1/014/189.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T22:28:40.000Z",
+      "ai": false
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "ai": true,
+      "titleZh": "首席执行官表示， Replit不再与Anthropic合作"
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T21:01:23.000Z",
+      "ai": false,
+      "titleZh": "为什么利用能源（和代币）效率至关重要"
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T20:33:41.000Z",
+      "ai": false,
+      "titleZh": "我从未授权整合扫描我的秘密"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T19:47:13.000Z",
+      "ai": false
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T19:04:47.000Z",
+      "ai": true,
+      "titleZh": "Claude Code团队如何进行代码审查"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T19:01:17.000Z",
+      "ai": false,
+      "titleZh": "你可以从记忆中发明变压器"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
+      "ai": true,
+      "titleZh": "克劳德揭示ECDSA曲线起源"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T18:52:39.000Z",
+      "ai": false,
+      "titleZh": "C + +26 ：新的调试标头"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T18:32:35.000Z",
+      "ai": true,
+      "titleZh": "越狱PS5上的Llama.cpp ：在控制台上本地运行任何GGUF模型"
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T18:11:42.000Z",
+      "ai": true,
+      "titleZh": "Anthropic在6月份获得了最高的垃圾信用评级"
+    },
     {
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
@@ -128,6 +272,15 @@
       "titleZh": "印度成为报告流氓AI代理活动的最新国家"
     },
     {
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T17:35:07.000Z",
+      "ai": false
+    },
+    {
       "title": "Piramidal (YC W24) Is Hiring",
       "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
       "source": "Hacker News",
@@ -146,6 +299,16 @@
       "publishedAt": "2026-10-16T17:08:38.000Z",
       "ai": true,
       "titleZh": "美国90%的工作时间都花在人工智能基准无法很好覆盖的任务上"
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T16:57:49.000Z",
+      "ai": false,
+      "titleZh": "/dev/null ：面向开发人员的社交网络"
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -178,16 +341,6 @@
       "titleZh": "用于Web用例的JPEG XL与AVIF"
     },
     {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T16:03:02.000Z",
-      "ai": false,
-      "titleZh": "美国众议员宣布国会立法保护视频游戏所有权"
-    },
-    {
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch AI",
@@ -198,26 +351,6 @@
       "titleZh": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们"
     },
     {
-      "title": "Inside Polymarket's paid quote-retweet esports program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T15:56:25.000Z",
-      "ai": false,
-      "titleZh": "深入了解Polymarket的付费报价转发电子竞技计划"
-    },
-    {
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T15:55:40.000Z",
-      "ai": true,
-      "titleZh": "Postgres 19在人工智能审核人员发现人类无法修复的错误后推迟"
-    },
-    {
       "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
       "url": "https://www.ithome.com/1/014/188.htm",
       "source": "IT之家",
@@ -225,26 +358,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T15:44:36.000Z",
       "ai": false
-    },
-    {
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T15:38:35.000Z",
-      "ai": false,
-      "titleZh": "显示HN ： OneDeploy –具有夜间备份和TLS的托管开源应用"
-    },
-    {
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T15:38:28.000Z",
-      "ai": false,
-      "titleZh": "WiFi秘密、UART锁定和损坏的闪存芯片的故事"
     },
     {
       "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
@@ -302,6 +415,16 @@
       "ai": false
     },
     {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-16T14:44:17.000Z",
+      "ai": false,
+      "titleZh": "多伦多的Waymo"
+    },
+    {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "url": "https://calif.io/research/big-fish",
       "source": "Hacker News",
@@ -319,16 +442,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T14:41:06.000Z",
       "ai": false
-    },
-    {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T14:35:43.000Z",
-      "ai": true,
-      "titleZh": "Show HN: rStation –人工智能代理的共享研究实验室"
     },
     {
       "title": "优派推出 VX27G58-2K-9 显示器：27\" QHD Fast IPS，超频 240Hz",
@@ -397,16 +510,6 @@
       "ai": false
     },
     {
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T14:16:34.000Z",
-      "ai": false,
-      "titleZh": "如何让System 1 LLM展示System 2能力？"
-    },
-    {
       "title": "红龙上架 Light 75 Pro 客制化机械键盘：8KHz 回报率、支持三模连接，369 元起",
       "url": "https://www.ithome.com/1/014/174.htm",
       "source": "IT之家",
@@ -441,16 +544,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T14:02:40.000Z",
       "ai": false
-    },
-    {
-      "title": "How to Formalize All of Mathematics",
-      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T14:01:53.000Z",
-      "ai": false,
-      "titleZh": "如何将所有数学形式化"
     },
     {
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -508,16 +601,6 @@
       "ai": false
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T13:43:48.000Z",
-      "ai": false,
-      "titleZh": "Apple ML Research ： Muse Spark在Mac Studio上使用MLX开放"
-    },
-    {
       "title": "长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈",
       "url": "https://www.ithome.com/1/014/168.htm",
       "source": "IT之家",
@@ -527,16 +610,6 @@
       "ai": false
     },
     {
-      "title": "What was a Token Ring network?",
-      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T13:43:30.000Z",
-      "ai": false,
-      "titleZh": "什么是令牌环网络？"
-    },
-    {
       "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
       "url": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
@@ -544,16 +617,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T13:42:53.000Z",
       "ai": false
-    },
-    {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T13:38:25.000Z",
-      "ai": false,
-      "titleZh": "RFC8950 ：宣布具有IPv6下一跳的IPv4"
     },
     {
       "title": "泰坦军团 XDR 2000nits 显示器 P276MX ULTRA 发售：5K 双模 QD Mini LED，5555 元",
@@ -636,16 +699,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T12:53:21.000Z",
       "ai": false
-    },
-    {
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T12:52:08.000Z",
-      "ai": false,
-      "titleZh": "我喜欢软件渲染"
     },
     {
       "title": "抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%",
@@ -1089,57 +1142,12 @@
       "ai": false
     },
     {
-      "title": "OpenAI 自曝“模型偷钱”：未经许可动用他人加密货币部署合约，已加强监控",
-      "url": "https://www.ithome.com/1/014/111.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-16T10:31:45.000Z",
-      "ai": true
-    },
-    {
-      "title": "华硕 ROG 24.5\" FHD OLED 显示器发售：540Hz 款 5499 元、720Hz 款 7999 元",
-      "url": "https://www.ithome.com/1/014/110.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-16T10:29:06.000Z",
-      "ai": false
-    },
-    {
-      "title": "重庆车企赛力斯频遭网络谣言，全国各地公安机关已依法查处 22 名违法行为人",
-      "url": "https://www.ithome.com/1/014/109.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-16T10:23:42.000Z",
-      "ai": false
-    },
-    {
       "title": "本周看什么 | 最近值得一看的 13 部作品",
       "url": "https://sspai.com/post/116423",
       "source": "少数派",
       "sourceId": "sspai",
       "lang": "zh",
       "publishedAt": "2026-10-16T10:21:07.000Z",
-      "ai": false
-    },
-    {
-      "title": "腾讯混元记忆框架 Hy Memory 2.0 发布开源，专用模型性能超 Opus5",
-      "url": "https://www.ithome.com/1/014/108.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-16T10:18:46.000Z",
-      "ai": true
-    },
-    {
-      "title": "“疯狂小杨哥”张庆杨宣布复播：注销原抖音账号，启用新号“庆杨”",
-      "url": "https://www.ithome.com/1/014/101.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-16T10:12:30.000Z",
       "ai": false
     },
     {
@@ -1367,6 +1375,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T00:07:20.000Z",
       "ai": true
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "ai": true,
+      "titleZh": "Stack Overflow for Agents使用ChatGPT插件将注册增加三倍"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -1798,16 +1816,6 @@
       "ai": false
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-15T01:01:32.000Z",
-      "ai": true,
-      "titleZh": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机"
-    },
-    {
       "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
       "url": "https://sspai.com/post/116193",
       "source": "少数派",
@@ -1940,15 +1948,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-14T06:52:43.000Z",
       "ai": false
-    },
-    {
-      "title": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
-      "url": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "sourceId": "ifanr",
-      "lang": "zh",
-      "publishedAt": "2026-10-14T06:10:14.000Z",
-      "ai": true
     }
   ],
   "data": {
@@ -2054,84 +2053,84 @@
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 2496,
+        "likes": 2510,
         "downloads": 151258,
         "task": "feature-extraction"
       },
       {
         "id": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 1810,
+        "likes": 1822,
         "downloads": 85612,
         "task": "text-generation"
       },
       {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 835,
+        "likes": 844,
         "downloads": 17553,
         "task": "image-text-to-text"
       },
       {
-        "id": "Qwen/Qwen-Image-2.1-Turbo",
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-        "likes": 931,
-        "downloads": 17421,
-        "task": "text-to-image"
-      },
-      {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 539,
+        "likes": 554,
         "downloads": 6158,
         "task": "text-to-speech"
       },
       {
+        "id": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "likes": 941,
+        "downloads": 17421,
+        "task": "text-to-image"
+      },
+      {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4423,
+        "likes": 4436,
         "downloads": 2477554,
         "task": "text-to-image"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 8050,
+        "likes": 8085,
         "downloads": 1920611,
         "task": "image-to-video"
       },
       {
-        "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-        "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-        "likes": 510,
-        "downloads": 327786,
-        "task": "text-to-image"
-      },
-      {
         "id": "LiquidAI/LFM2.5-24B-A2B",
         "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
-        "likes": 419,
+        "likes": 427,
         "downloads": 9356,
         "task": "text-generation"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 420,
+        "likes": 437,
         "downloads": 815,
         "task": "image-text-to-text"
       },
       {
+        "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+        "likes": 515,
+        "downloads": 327786,
+        "task": "text-to-image"
+      },
+      {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 405,
+        "likes": 435,
         "downloads": 73767,
         "task": "image-to-image"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
-        "likes": 382,
+        "likes": 397,
         "downloads": 22790,
         "task": "image-to-image"
       }
@@ -2146,38 +2145,33 @@
         "delta": 0
       },
       {
+        "word": "Anthropic",
+        "count": 6,
+        "delta": 3
+      },
+      {
+        "word": "Claude",
+        "count": 5,
+        "delta": 3
+      },
+      {
         "word": "Agent",
         "count": 5,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "GPT",
-        "count": 3,
+        "count": 4,
         "delta": 1
-      },
-      {
-        "word": "Anthropic",
-        "count": 3,
-        "delta": 0
       },
       {
         "word": "NVIDIA",
         "count": 3,
-        "delta": 2
+        "delta": 0
       },
       {
         "word": "大模型",
         "count": 3,
-        "delta": -2
-      },
-      {
-        "word": "Claude",
-        "count": 2,
-        "delta": 1
-      },
-      {
-        "word": "OpenAI",
-        "count": 2,
         "delta": 0
       },
       {
@@ -2193,10 +2187,15 @@
       {
         "word": "产品",
         "count": 2,
-        "delta": -2
+        "delta": 0
       },
       {
         "word": "Gemini",
+        "count": 1,
+        "delta": 0
+      },
+      {
+        "word": "Llama",
         "count": 1,
         "delta": 1
       },
@@ -2204,6 +2203,11 @@
         "word": "DeepSeek",
         "count": 1,
         "delta": 0
+      },
+      {
+        "word": "OpenAI",
+        "count": 1,
+        "delta": -1
       },
       {
         "word": "英伟达",
@@ -2216,9 +2220,9 @@
         "delta": 0
       },
       {
-        "word": "开源",
+        "word": "算力",
         "count": 1,
-        "delta": 0
+        "delta": 1
       },
       {
         "word": "RAG",
@@ -2244,15 +2248,15 @@
     "signals": [
       {
         "type": "up",
-        "text": "「NVIDIA」热度上升 +2（当前 3 次提及）"
+        "text": "「Anthropic」热度上升 +3（当前 6 次提及）"
       },
       {
         "type": "up",
-        "text": "「Agent」热度上升 +1（当前 5 次提及）"
+        "text": "「Claude」热度上升 +3（当前 5 次提及）"
       },
       {
         "type": "up",
-        "text": "「GPT」热度上升 +1（当前 3 次提及）"
+        "text": "「GPT」热度上升 +1（当前 4 次提及）"
       },
       {
         "type": "money",
@@ -2267,31 +2271,49 @@
   },
   "opportunities": [
     {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS",
+      "url": "https://www.ithome.com/1/014/194.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-16T23:08:44.000Z"
+    },
+    {
       "type": "新模型",
       "icon": "🧠",
       "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+      "url": "https://www.ithome.com/1/014/193.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-16T23:05:10.000Z"
+    },
+    {
+      "type": "商业落地",
+      "icon": "🏢",
+      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
+      "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+      "url": "https://www.ithome.com/1/014/192.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-16T23:01:02.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+      "url": "https://www.ithome.com/1/014/191.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-16T22:53:05.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T18:00:18.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T16:01:37.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T15:33:49.000Z"
+      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "type": "商业落地",
@@ -2310,15 +2332,6 @@
       "url": "https://www.ithome.com/1/014/118.htm",
       "source": "IT之家",
       "publishedAt": "2026-10-16T10:57:37.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "腾讯混元记忆框架 Hy Memory 2.0 发布开源，专用模型性能超 Opus5",
-      "url": "https://www.ithome.com/1/014/108.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-16T10:18:46.000Z"
     },
     {
       "type": "新工具上线",
@@ -2359,16 +2372,20 @@
   ],
   "ideas": [
     {
+      "kw": "Anthropic",
+      "title": "Anthropic最新动向，对大学生意味着什么？"
+    },
+    {
+      "kw": "Claude",
+      "title": "用 AI 10 分钟搞定Claude，大学生亲测"
+    },
+    {
       "kw": "Agent",
-      "title": "用 AI 10 分钟搞定Agent，大学生亲测"
+      "title": "Agent值不值得用？我替你先试了"
     },
     {
       "kw": "GPT",
-      "title": "GPT值不值得用？我替你先试了"
-    },
-    {
-      "kw": "Anthropic",
-      "title": "Anthropic最新动向，对大学生意味着什么？"
+      "title": "手把手教你用GPT，零基础也能上手"
     },
     {
       "kw": "NVIDIA",
@@ -2379,17 +2396,13 @@
       "title": "我研究了大模型，总结了 3 个能用上的点"
     },
     {
-      "kw": "Claude",
-      "title": "手把手教你用Claude，零基础也能上手"
-    },
-    {
-      "kw": "OpenAI",
-      "title": "OpenAI火了，现在入场还来得及吗？"
-    },
-    {
       "kw": "融资",
-      "title": "融资最新动向，对大学生意味着什么？"
+      "title": "融资火了，现在入场还来得及吗？"
+    },
+    {
+      "kw": "Gemini",
+      "title": "Gemini怎么免费用？这份攻略请收好"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-16\n\n## 一、今日信号\n- 「NVIDIA」热度上升 +2（当前 3 次提及）\n- 「Agent」热度上升 +1（当前 5 次提及）\n- 「GPT」热度上升 +1（当前 3 次提及）\n- 检测到 3 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Designing more efficient quantum circuits with Claude\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [新模型] Elorian’s first AI model wants to reason with images, not just about them\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Jev is Vercel&#8217;s fastest-adopted AI model ever\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [商业落地] 三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [资本动向] 专门陪骗子聊天的 AI 公司 Apate 拿下近千万美元融资，已累计消耗诈骗者 17 年时间\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新工具上线] 腾讯混元记忆框架 Hy Memory 2.0 发布开源，专用模型性能超 Opus5\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [商业落地] 中控技术接入千问办公，打造流程工业领域AI Native标杆企业\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (14) · Agent (5) · GPT (3) · Anthropic (3) · NVIDIA (3) · 大模型 (3) · Claude (2) · OpenAI (2) · 融资 (2) · 医疗 (2) · 产品 (2) · Gemini (1)\n\n## 四、头条速览\n- eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear（Hacker News）\n- Designing more efficient quantum circuits with Claude（Hacker News）\n- India becomes the latest country to report rogue AI agent activity（TechCrunch AI）\n- Piramidal (YC W24) Is Hiring（Hacker News）\n- 90% of US working hours are spent on tasks not covered well by AI benchmarks（Hacker News）\n- An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet（TechCrunch AI）\n- Physical AI is more than robots, says the Nvidia veteran now investing in it（TechCrunch AI）\n- JPEG XL vs. AVIF for web use-cases（Hacker News）\n- US Rep Announces Congressional Legislation to Protect Video Game Ownership（Hacker News）\n- Elorian’s first AI model wants to reason with images, not just about them（TechCrunch AI）"
+  "digest": "# AI 变现雷达简报 · 2026-10-16\n\n## 一、今日信号\n- 「Anthropic」热度上升 +3（当前 6 次提及）\n- 「Claude」热度上升 +3（当前 5 次提及）\n- 「GPT」热度上升 +1（当前 4 次提及）\n- 检测到 3 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] 英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] 马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新模型] Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] How the Claude Code team does code review\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [商业落地] 三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [资本动向] 专门陪骗子聊天的 AI 公司 Apate 拿下近千万美元融资，已累计消耗诈骗者 17 年时间\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新工具上线] 京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (14) · Anthropic (6) · Claude (5) · Agent (5) · GPT (4) · NVIDIA (3) · 大模型 (3) · 融资 (2) · 医疗 (2) · 产品 (2) · Gemini (1) · Llama (1)\n\n## 四、头条速览\n- 英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS（IT之家）\n- Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型（IT之家）\n- 马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上（IT之家）\n- Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜（IT之家）\n- 微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度（IT之家）\n- Replit is no longer working with Anthropic, CEO says（TechCrunch AI）\n- Why harnesses matter for energy (and token) efficiency（Hacker News）\n- I never authorized an integration that scans my secrets（Hacker News）\n- FLUX 3 Image Klein（Hacker News）\n- How the Claude Code team does code review（Hacker News）"
 }
