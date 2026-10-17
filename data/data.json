@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T17:41:55.547Z",
-  "previousAt": "2026-10-17T12:38:11.750Z",
+  "generatedAt": "2026-10-17T19:57:38.567Z",
+  "previousAt": "2026-10-17T17:41:55.547Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 171,
+    "recent48h": 166,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 94
+    "aiCount": 91
   },
   "sources": [
     {
@@ -98,6 +98,106 @@
   ],
   "news": [
     {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "ai": true,
+      "titleZh": "首席执行官表示， Replit不再与Anthropic合作"
+    },
+    {
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:45:07.000Z",
+      "ai": false,
+      "titleZh": "微软和CMU合作培训早期职业软件工程师"
+    },
+    {
+      "title": "Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA",
+      "url": "https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:34:33.000Z",
+      "ai": false,
+      "titleZh": "前UWS烧烤餐厅老板因工资盗窃被起诉：曼哈顿DA"
+    },
+    {
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:34:13.000Z",
+      "ai": false,
+      "titleZh": "模式匹配胜过叙事推理"
+    },
+    {
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:31:30.000Z",
+      "ai": true,
+      "titleZh": "人工智能可以编写代码。谁来验证它？"
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:01:41.000Z",
+      "ai": false,
+      "titleZh": "OpenCode被黑：用户凭据泄露"
+    },
+    {
+      "title": "I Became a Citizen of Japan",
+      "url": "https://www.derekwessman.com/blog-1/natural",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:36:17.000Z",
+      "ai": false,
+      "titleZh": "我成为日本公民"
+    },
+    {
+      "title": "Development statistics for the 7.2 kernel",
+      "url": "https://lwn.net/Articles/1088776/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:14:12.000Z",
+      "ai": false,
+      "titleZh": "7.2内核的开发统计"
+    },
+    {
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "url": "https://github.com/vercel-labs/tsc-ts",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:10:27.000Z",
+      "ai": false,
+      "titleZh": "tsc-ts ：用TypeScript编写的TypeScript"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:06:07.000Z",
+      "ai": false,
+      "titleZh": "黄金现在是美国最大的出口产品"
+    },
+    {
       "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
       "url": "https://www.artie.com/careers",
       "source": "Hacker News",
@@ -108,34 +208,14 @@
       "titleZh": "Artie (YC S23)正在招聘企业AE和高级工程师"
     },
     {
-      "title": "OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-17T16:31:12.000Z",
-      "ai": true,
-      "titleZh": "OpenAI披露了另外四起流氓事件"
-    },
-    {
-      "title": "GLP-1 may slow biological aging",
-      "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T16:10:21.000Z",
+      "publishedAt": "2026-10-17T15:55:09.000Z",
       "ai": false,
-      "titleZh": "GLP-1可能延缓生物衰老"
-    },
-    {
-      "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T16:04:23.000Z",
-      "ai": true,
-      "titleZh": "亚马逊使用破坏工会的人工智能监控来监控英国仓库的工会风险"
+      "titleZh": "贝利–美人鱼图作为主题SVG"
     },
     {
       "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
@@ -211,14 +291,14 @@
       "ai": false
     },
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
+      "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
       "publishedAt": "2026-10-17T13:55:28.000Z",
       "ai": false,
-      "titleZh": "使用Dorito Dust制作透明鸡肉"
+      "titleZh": "使用Dorito粉末使鸡肉透明"
     },
     {
       "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
@@ -238,6 +318,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-17T13:32:15.000Z",
       "ai": false
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T13:28:46.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：高品质DUCK音频合成器"
     },
     {
       "title": "微信鸿蒙版上线小艺语音操作：一句话即可发消息、打语音和视频",
@@ -303,33 +393,6 @@
       "ai": false
     },
     {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-17T12:21:09.000Z",
-      "ai": true
-    },
-    {
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-17T12:13:45.000Z",
-      "ai": true
-    },
-    {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-17T12:10:35.000Z",
-      "ai": true
-    },
-    {
       "title": "阿维塔 T09 实车曝光，定位“50 万级科技新旗舰”",
       "url": "https://www.ithome.com/1/014/391.htm",
       "source": "IT之家",
@@ -337,15 +400,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-17T12:08:50.000Z",
       "ai": false
-    },
-    {
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-17T12:06:51.000Z",
-      "ai": true
     },
     {
       "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
@@ -429,6 +483,16 @@
       "ai": false
     },
     {
+      "title": "The future of programming (1982)",
+      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T11:20:52.000Z",
+      "ai": false,
+      "titleZh": "编程的未来（ 1982年）"
+    },
+    {
       "title": "V社确认正为 Steam Frame 头显开发全新头带：支持热插拔电池，升级音频表现",
       "url": "https://www.ithome.com/1/014/379.htm",
       "source": "IT之家",
@@ -463,16 +527,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-17T11:09:05.000Z",
       "ai": false
-    },
-    {
-      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:59:31.000Z",
-      "ai": false,
-      "titleZh": "MapQuest现在将向您展示Flock摄像头在您所在街区的位置"
     },
     {
       "title": "猎户座流星雨将于 10 月 21 日至 22 日迎来极大：无需专业器材肉眼可见，理想条件下每小时 20 颗",
@@ -628,16 +682,6 @@
       "ai": false
     },
     {
-      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-      "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T09:08:16.000Z",
-      "ai": false,
-      "titleZh": "“驯服”野猪和鹿本能地适应荷兰的狼"
-    },
-    {
       "title": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元",
       "url": "https://www.ithome.com/1/014/339.htm",
       "source": "IT之家",
@@ -645,15 +689,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-17T09:06:58.000Z",
       "ai": false
-    },
-    {
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "url": "https://www.qbitai.com/2026/10/503893.html",
-      "source": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "publishedAt": "2026-10-17T09:05:08.000Z",
-      "ai": true
     },
     {
       "title": "中国贸易展览会在哥斯达黎加举行",
@@ -1008,6 +1043,26 @@
       "ai": true
     },
     {
+      "title": "Source code of the Estonian online voting system",
+      "url": "https://github.com/valimised/ivxv",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T03:18:39.000Z",
+      "ai": false,
+      "titleZh": "爱沙尼亚在线投票系统的源代码"
+    },
+    {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-17T03:16:25.000Z",
+      "ai": false,
+      "titleZh": "怀疑论者与Kubernetes的首次接触（ 2024年）"
+    },
+    {
       "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
       "url": "http://www.geekpark.net/news/372509",
       "source": "极客公园",
@@ -1035,35 +1090,6 @@
       "ai": true
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-16T21:22:28.000Z",
-      "ai": true,
-      "titleZh": "首席执行官表示， Replit不再与Anthropic合作"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T19:47:13.000Z",
-      "ai": false
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T19:01:17.000Z",
-      "ai": false,
-      "titleZh": "你可以从记忆中发明变压器"
-    },
-    {
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI",
@@ -1074,36 +1100,6 @@
       "titleZh": "Itaú如何为整个客户群构建生成式人工智能"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T18:55:59.000Z",
-      "ai": true,
-      "titleZh": "克劳德揭示ECDSA曲线起源"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T18:32:35.000Z",
-      "ai": true,
-      "titleZh": "越狱PS5上的Llama.cpp ：在控制台上本地运行任何GGUF模型"
-    },
-    {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T18:06:17.000Z",
-      "ai": false,
-      "titleZh": "eBay限制无线电设备上市，但豁免Ham-Band-Only设备"
-    },
-    {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch AI",
@@ -1112,16 +1108,6 @@
       "publishedAt": "2026-10-16T17:52:24.000Z",
       "ai": true,
       "titleZh": "印度成为报告流氓AI代理活动的最新国家"
-    },
-    {
-      "title": "The First Candid",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T17:28:19.000Z",
-      "ai": false,
-      "titleZh": "第一个坦率的人"
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -1164,16 +1150,6 @@
       "titleZh": "Jev是Vercel有史以来采用最快的人工智能模型"
     },
     {
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T15:06:43.000Z",
-      "ai": false,
-      "titleZh": "在《环游世界》游戏中渲染美丽的天空"
-    },
-    {
       "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch AI",
@@ -1192,16 +1168,6 @@
       "publishedAt": "2026-10-16T14:00:00.000Z",
       "ai": true,
       "titleZh": "Veritas将其防伪芯片扩展到珠宝、奖杯和香水瓶"
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T13:43:48.000Z",
-      "ai": false,
-      "titleZh": "Apple ML Research ： Muse Spark在Mac Studio上使用MLX开放"
     },
     {
       "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
@@ -1349,22 +1315,21 @@
       "ai": true
     },
     {
-      "title": "Development of Norton Commander",
-      "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-16T07:41:36.000Z",
-      "ai": false,
-      "titleZh": "Norton Commander的发展"
-    },
-    {
       "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
       "url": "https://www.qbitai.com/2026/10/503829.html",
       "source": "量子位",
       "sourceId": "qbitai",
       "lang": "zh",
       "publishedAt": "2026-10-16T07:16:11.000Z",
+      "ai": true
+    },
+    {
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "url": "https://www.qbitai.com/2026/10/503815.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T07:01:31.000Z",
       "ai": true
     },
     {
@@ -1404,6 +1369,33 @@
       "ai": false
     },
     {
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "url": "https://www.qbitai.com/2026/10/503782.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T06:17:53.000Z",
+      "ai": true
+    },
+    {
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "url": "https://www.qbitai.com/2026/10/503779.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T06:07:41.000Z",
+      "ai": true
+    },
+    {
+      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+      "url": "https://www.qbitai.com/2026/10/503756.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T05:47:01.000Z",
+      "ai": true
+    },
+    {
       "title": "特斯拉发布全新 Roadster！不开玩笑，它真的会飞",
       "url": "https://www.ifanr.com/1684619?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
@@ -1411,6 +1403,15 @@
       "lang": "zh",
       "publishedAt": "2026-10-16T05:33:11.000Z",
       "ai": false
+    },
+    {
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "url": "https://www.qbitai.com/2026/10/503701.html",
+      "source": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "publishedAt": "2026-10-16T05:04:59.000Z",
+      "ai": true
     },
     {
       "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
@@ -2023,20 +2024,20 @@
         "createdAt": "2026-10-11T13:11:02Z"
       },
       {
-        "name": "gautamjajoo/awesome-economics-of-ai",
-        "url": "https://github.com/gautamjajoo/awesome-economics-of-ai",
-        "stars": 4,
-        "desc": "A curated guide to the costs, markets, adoption, and economic effects of AI.",
-        "lang": "",
-        "createdAt": "2026-10-13T04:56:48Z"
-      },
-      {
         "name": "shashikantdev3/attention-span",
         "url": "https://github.com/shashikantdev3/attention-span",
         "stars": 4,
         "desc": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it.",
         "lang": "Python",
         "createdAt": "2026-10-08T15:37:23Z"
+      },
+      {
+        "name": "gautamjajoo/awesome-economics-of-ai",
+        "url": "https://github.com/gautamjajoo/awesome-economics-of-ai",
+        "stars": 4,
+        "desc": "A curated guide to the costs, markets, adoption, and economic effects of AI.",
+        "lang": "",
+        "createdAt": "2026-10-13T04:56:48Z"
       },
       {
         "name": "federicolaterra/knemora",
@@ -2051,77 +2052,77 @@
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 2575,
+        "likes": 2581,
         "downloads": 158490,
         "task": "feature-extraction"
       },
       {
-        "id": "jialinyyzz/humanizer",
-        "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 1881,
-        "downloads": 95870,
-        "task": "text-generation"
-      },
-      {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 795,
+        "likes": 862,
         "downloads": 0,
         "task": "image-text-to-text"
       },
       {
+        "id": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "likes": 1889,
+        "downloads": 95870,
+        "task": "text-generation"
+      },
+      {
         "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 890,
+        "likes": 893,
         "downloads": 36252,
         "task": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 605,
+        "likes": 612,
         "downloads": 8193,
         "task": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 609,
+        "likes": 628,
         "downloads": 224108,
         "task": "image-to-image"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 490,
+        "likes": 499,
         "downloads": 1600,
         "task": "image-text-to-text"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 8180,
+        "likes": 8194,
         "downloads": 1993003,
         "task": "image-to-video"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4481,
+        "likes": 4490,
         "downloads": 2571722,
         "task": "text-to-image"
       },
       {
         "id": "LiquidAI/LFM2.5-24B-A2B",
         "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
-        "likes": 444,
+        "likes": 446,
         "downloads": 11926,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
-        "likes": 441,
+        "likes": 447,
         "downloads": 46123,
         "task": "image-to-image"
       },
@@ -2139,33 +2140,23 @@
     "keywords": [
       {
         "word": "发布",
-        "count": 9,
-        "delta": 1
+        "count": 8,
+        "delta": -1
       },
       {
         "word": "DeepSeek",
-        "count": 5,
+        "count": 4,
         "delta": -1
       },
       {
         "word": "Anthropic",
-        "count": 5,
+        "count": 4,
         "delta": -1
       },
       {
         "word": "语音",
         "count": 4,
-        "delta": 2
-      },
-      {
-        "word": "GPT",
-        "count": 3,
         "delta": 0
-      },
-      {
-        "word": "Claude",
-        "count": 3,
-        "delta": -2
       },
       {
         "word": "算力",
@@ -2173,14 +2164,19 @@
         "delta": 0
       },
       {
-        "word": "OpenAI",
-        "count": 2,
+        "word": "机器人",
+        "count": 3,
         "delta": 1
+      },
+      {
+        "word": "GPT",
+        "count": 2,
+        "delta": -1
       },
       {
         "word": "英伟达",
         "count": 2,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "NVIDIA",
@@ -2190,22 +2186,12 @@
       {
         "word": "Agent",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
-        "word": "智能体",
+        "word": "融资",
         "count": 2,
         "delta": 1
-      },
-      {
-        "word": "开源",
-        "count": 2,
-        "delta": 1
-      },
-      {
-        "word": "机器人",
-        "count": 2,
-        "delta": -1
       },
       {
         "word": "产品",
@@ -2213,9 +2199,14 @@
         "delta": 0
       },
       {
-        "word": "Llama",
+        "word": "Claude",
         "count": 1,
-        "delta": 0
+        "delta": -2
+      },
+      {
+        "word": "Gemini",
+        "count": 1,
+        "delta": 1
       },
       {
         "word": "Qwen",
@@ -2223,12 +2214,22 @@
         "delta": 0
       },
       {
+        "word": "OpenAI",
+        "count": 1,
+        "delta": -1
+      },
+      {
+        "word": "智能体",
+        "count": 1,
+        "delta": -1
+      },
+      {
         "word": "多模态",
         "count": 1,
         "delta": 0
       },
       {
-        "word": "融资",
+        "word": "开源",
         "count": 1,
         "delta": -1
       },
@@ -2243,7 +2244,7 @@
         "delta": 0
       },
       {
-        "word": "创业",
+        "word": "API",
         "count": 1,
         "delta": 1
       }
@@ -2251,64 +2252,28 @@
     "signals": [
       {
         "type": "up",
-        "text": "「语音」热度上升 +2（当前 4 次提及）"
+        "text": "「机器人」热度上升 +1（当前 3 次提及）"
       },
       {
         "type": "up",
-        "text": "「发布」热度上升 +1（当前 9 次提及）"
+        "text": "「融资」热度上升 +1（当前 2 次提及）"
       },
       {
         "type": "up",
-        "text": "「OpenAI」热度上升 +1（当前 2 次提及）"
+        "text": "「Gemini」热度上升 +1（当前 1 次提及）"
       },
       {
         "type": "money",
-        "text": "检测到 2 条融资 / 资本相关资讯，注意风口与钱的方向"
+        "text": "检测到 3 条融资 / 资本相关资讯，注意风口与钱的方向"
       },
       {
         "type": "code",
         "text": "GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题"
       }
     ],
-    "fundingCount": 2
+    "fundingCount": 3
   },
   "opportunities": [
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-17T12:21:09.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-17T12:13:45.000Z"
-    },
-    {
-      "type": "开源项目",
-      "icon": "🐙",
-      "action": "做上手教程、代部署，或二次封装成小工具卖给不会折腾的人",
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-17T12:10:35.000Z"
-    },
-    {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-17T12:06:51.000Z"
-    },
     {
       "type": "新工具上线",
       "icon": "🛠",
@@ -2337,13 +2302,31 @@
       "publishedAt": "2026-10-17T10:45:59.000Z"
     },
     {
-      "type": "商业落地",
-      "icon": "🏢",
-      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "url": "https://www.qbitai.com/2026/10/503893.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-17T09:05:08.000Z"
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "DeepSeek V4.1 Flash新版本发布",
+      "url": "https://www.36kr.com/newsflashes/4029763615986052",
+      "source": "36氪",
+      "publishedAt": "2026-10-17T09:27:31.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T08:21:25.000Z"
+    },
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案",
+      "url": "https://www.ithome.com/1/014/317.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-17T07:42:15.000Z"
     },
     {
       "type": "商业落地",
@@ -2362,6 +2345,24 @@
       "url": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
       "source": "雷锋网",
       "publishedAt": "2026-10-16T07:51:00.000Z"
+    },
+    {
+      "type": "商业落地",
+      "icon": "🏢",
+      "action": "写行业应用拆解，对口 B 端人群，适合接高价代做",
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "url": "https://www.qbitai.com/2026/10/503815.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-16T07:01:31.000Z"
+    },
+    {
+      "type": "资本动向",
+      "icon": "💰",
+      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "url": "https://www.qbitai.com/2026/10/503782.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-16T06:17:53.000Z"
     },
     {
       "type": "资本动向",
@@ -2387,25 +2388,25 @@
       "title": "语音这波热度，普通人能怎么蹭？"
     },
     {
-      "kw": "GPT",
-      "title": "GPT值不值得用？我替你先试了"
-    },
-    {
-      "kw": "Claude",
-      "title": "手把手教你用Claude，零基础也能上手"
-    },
-    {
       "kw": "算力",
       "title": "我研究了算力，总结了 3 个能用上的点"
     },
     {
-      "kw": "OpenAI",
-      "title": "OpenAI火了，现在入场还来得及吗？"
+      "kw": "机器人",
+      "title": "机器人火了，现在入场还来得及吗？"
+    },
+    {
+      "kw": "GPT",
+      "title": "GPT值不值得用？我替你先试了"
     },
     {
       "kw": "NVIDIA",
       "title": "NVIDIA最新动向，对大学生意味着什么？"
+    },
+    {
+      "kw": "Agent",
+      "title": "手把手教你用Agent，零基础也能上手"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-17\n\n## 一、今日信号\n- 「语音」热度上升 +2（当前 4 次提及）\n- 「发布」热度上升 +1（当前 9 次提及）\n- 「OpenAI」热度上升 +1（当前 2 次提及）\n- 检测到 2 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] 突发！DeepSeek新模型发布，超级性价比斩杀一切\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：量子位\n- [新模型] 智谱新模型，懂法方面全球第一了\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [开源项目] 清华开源！智能体操作系统任务成本降83%，AI记忆可查可改\n  👉 做上手教程、代部署，或二次封装成小工具卖给不会折腾的人\n  出处：量子位\n- [新模型] Claude半小时解开密码学悬案，学界集体走偏20年\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：量子位\n- [新工具上线] 华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] 科技企业出海，为啥我推荐你去迪拜？\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：量子位\n\n## 三、热度关键词\n发布 (9) · DeepSeek (5) · Anthropic (5) · 语音 (4) · GPT (3) · Claude (3) · 算力 (3) · OpenAI (2) · 英伟达 (2) · NVIDIA (2) · Agent (2) · 智能体 (2)\n\n## 四、头条速览\n- Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers（Hacker News）\n- OpenAI discloses four more rogue incidents（Hacker News）\n- GLP-1 may slow biological aging（Hacker News）\n- Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses（Hacker News）\n- 12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单（IT之家）\n- 网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架（IT之家）\n- 12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？（雷锋网）\n- 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限（IT之家）\n- 上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908 mm（IT之家）\n- 倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-17\n\n## 一、今日信号\n- 「机器人」热度上升 +1（当前 3 次提及）\n- 「融资」热度上升 +1（当前 2 次提及）\n- 「Gemini」热度上升 +1（当前 1 次提及）\n- 检测到 3 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] 华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] DeepSeek V4.1 Flash新版本发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n- [新模型] DeepSeek-v4.1-Flash-1017\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [新模型] AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] How Itaú is building generative AI for its entire customer base\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：OpenAI\n- [商业落地] 中控技术接入千问办公，打造流程工业领域AI Native标杆企业\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (8) · DeepSeek (4) · Anthropic (4) · 语音 (4) · 算力 (3) · 机器人 (3) · GPT (2) · 英伟达 (2) · NVIDIA (2) · Agent (2) · 融资 (2) · 产品 (2)\n\n## 四、头条速览\n- Replit is no longer working with Anthropic, CEO says（TechCrunch AI）\n- Microsoft and CMU Team Up to Train Early Career Software Engineers（Hacker News）\n- Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA（Hacker News）\n- Pattern Matching Beats Narrative Reasoning（Hacker News）\n- AI Can Write the Code. Who Verifies It?（Hacker News）\n- OpenCode Hacked: User credentials leaked（Hacker News）\n- I Became a Citizen of Japan（Hacker News）\n- Development statistics for the 7.2 kernel（Hacker News）\n- tsc-ts: TypeScript written in TypeScript（Hacker News）\n- Gold is now the top U.S. export（Hacker News）"
 }
