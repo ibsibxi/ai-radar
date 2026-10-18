@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T17:43:42.047Z",
-  "previousAt": "2026-10-18T12:55:31.903Z",
+  "generatedAt": "2026-10-18T19:57:23.239Z",
+  "previousAt": "2026-10-18T17:43:42.047Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 122,
+    "recent48h": 120,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 96
+    "aiCount": 92
   },
   "sources": [
     {
@@ -98,17 +98,97 @@
   ],
   "news": [
     {
-      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "title": "US threatens Europe over Starlink restrictions",
+      "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-18T17:27:30.000Z",
+      "publishedAt": "2026-10-18T19:24:30.000Z",
       "ai": false,
-      "titleZh": "英国航空公司：拍摄机组人员W Meta Glasses可能会取消您的机票"
+      "titleZh": "美国因Starlink限制而威胁欧洲"
     },
     {
-      "title": "Someone Behind the Software",
+      "title": "Personal software factories are a waste of time",
+      "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:02:11.000Z",
+      "ai": false,
+      "titleZh": "个人软件工厂是浪费时间"
+    },
+    {
+      "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T18:48:04.000Z",
+      "ai": false,
+      "titleZh": "免费Pascal编译器现在支持动态包"
+    },
+    {
+      "title": "HOA's are making the home crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T18:40:16.000Z",
+      "ai": false,
+      "titleZh": "HOA正在加剧家庭危机"
+    },
+    {
+      "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+      "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T18:26:40.000Z",
+      "ai": false,
+      "titleZh": "CFPB对九家大型国家银行展开银行拆借调查"
+    },
+    {
+      "title": "Investing in the Public Benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T18:15:10.000Z",
+      "ai": false,
+      "titleZh": "投资于公共福利"
+    },
+    {
+      "title": "PalmOS Lemmings by Aaron Ardiri",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T17:56:59.000Z",
+      "ai": false,
+      "titleZh": "Aaron Ardiri的PalmOS Lemmings"
+    },
+    {
+      "title": "Mitos editor is a fork of Helix",
+      "url": "https://mitos.computer/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T17:19:34.000Z",
+      "ai": false,
+      "titleZh": "MITOS编辑器是Helix的一个分支"
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-18T16:56:56.000Z",
+      "ai": false,
+      "titleZh": "Namecheap刚刚查封并禁用了我所有的域名"
+    },
+    {
+      "title": "Someone behind the software",
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "source": "Hacker News",
       "sourceId": "hn",
@@ -201,16 +281,6 @@
       "publishedAt": "2026-10-18T15:00:40.000Z",
       "ai": false,
       "titleZh": "这将是数学（和科学）的黄金时代还是黑暗时代？"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T14:58:10.000Z",
-      "ai": true,
-      "titleZh": "网站正在向人工智能代理敞开大门"
     },
     {
       "title": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片",
@@ -405,16 +475,6 @@
       "ai": false
     },
     {
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T12:22:58.000Z",
-      "ai": true,
-      "titleZh": "人工智能助理在多大程度上可以获得他们无法获得的退款？"
-    },
-    {
       "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
       "url": "https://www.ithome.com/1/014/589.htm",
       "source": "IT之家",
@@ -513,16 +573,6 @@
       "publishedAt": "2026-10-18T11:16:22.000Z",
       "ai": false,
       "titleZh": "Open MicroManipulator –亚微米3D运动控制平台"
-    },
-    {
-      "title": "The Brain Sandwich",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T11:15:37.000Z",
-      "ai": false,
-      "titleZh": "大脑三明治"
     },
     {
       "title": "世界银行：小型 AI 有望改变发展中国家",
@@ -995,16 +1045,6 @@
       "ai": false
     },
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T06:50:36.000Z",
-      "ai": true,
-      "titleZh": "DeepSeek搜索和获取–每1000个成功请求$ 0.75"
-    },
-    {
       "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
       "url": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
       "source": "雷锋网",
@@ -1014,26 +1054,6 @@
       "ai": true
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T04:33:49.000Z",
-      "ai": true,
-      "titleZh": "Show HN: Sphinx –在发货前对您的AI代码进行测验的钩子"
-    },
-    {
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-18T03:19:49.000Z",
-      "ai": false,
-      "titleZh": "伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的纪录片《你可以看到一切》（ You Can See Everything"
-    },
-    {
       "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
       "url": "http://www.geekpark.net/news/372512",
       "source": "极客公园",
@@ -1041,16 +1061,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-18T00:39:02.000Z",
       "ai": true
-    },
-    {
-      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
-      "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T23:08:30.000Z",
-      "ai": false,
-      "titleZh": "超越俄罗斯方块：阿列克谢·帕吉特诺夫的其他游戏[视频]"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -1081,16 +1091,6 @@
       "publishedAt": "2026-10-17T18:48:08.000Z",
       "ai": true,
       "titleZh": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值"
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-17T15:55:09.000Z",
-      "ai": false,
-      "titleZh": "贝利–美人鱼图作为主题SVG"
     },
     {
       "title": "12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？",
@@ -1950,20 +1950,20 @@
   "data": {
     "github": [
       {
+        "name": "Fazmin/cve-intel",
+        "url": "https://github.com/Fazmin/cve-intel",
+        "stars": 39,
+        "desc": "Local security intelligence for CVE triage — 31 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
+        "lang": "Rust",
+        "createdAt": "2026-10-18T04:20:37Z"
+      },
+      {
         "name": "PkLavc/Autotrader",
         "url": "https://github.com/PkLavc/Autotrader",
         "stars": 34,
         "desc": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
         "lang": "Python",
         "createdAt": "2026-10-07T02:43:14Z"
-      },
-      {
-        "name": "Fazmin/cve-intel",
-        "url": "https://github.com/Fazmin/cve-intel",
-        "stars": 34,
-        "desc": "Local security intelligence for CVE triage — 31 tools, 25 sources, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
-        "lang": "Rust",
-        "createdAt": "2026-10-18T04:20:37Z"
       },
       {
         "name": "Generated-Computers/Locals",
@@ -1982,20 +1982,20 @@
         "createdAt": "2026-10-10T11:24:30Z"
       },
       {
-        "name": "lucidrains/selfplay2perfect",
-        "url": "https://github.com/lucidrains/selfplay2perfect",
-        "stars": 7,
-        "desc": "Implementation of Play2Perfect, from Tyler Ga Wei Lum et al. of Stanford, but with a Self Play element",
-        "lang": "Python",
-        "createdAt": "2026-10-08T13:00:56Z"
-      },
-      {
         "name": "alfera-labs/company-use",
         "url": "https://github.com/alfera-labs/company-use",
         "stars": 7,
         "desc": "The Open Source AI Co-worker for your whole team. Lives in Slack, API, Whatsapp, web and gets work done.",
         "lang": "TypeScript",
         "createdAt": "2026-10-12T18:11:45Z"
+      },
+      {
+        "name": "lucidrains/selfplay2perfect",
+        "url": "https://github.com/lucidrains/selfplay2perfect",
+        "stars": 7,
+        "desc": "Implementation of Play2Perfect, from Tyler Ga Wei Lum et al. of Stanford, but with a Self Play element",
+        "lang": "Python",
+        "createdAt": "2026-10-08T13:00:56Z"
       },
       {
         "name": "FareedKhan-dev/lean-agent",
@@ -2050,84 +2050,84 @@
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 1259,
+        "likes": 1294,
         "downloads": 10233,
+        "task": "image-text-to-text"
+      },
+      {
+        "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "likes": 997,
+        "downloads": 57935,
         "task": "image-text-to-text"
       },
       {
         "id": "google/embeddinggemma-2",
         "url": "https://huggingface.co/google/embeddinggemma-2",
-        "likes": 2642,
+        "likes": 2653,
         "downloads": 164339,
         "task": "feature-extraction"
       },
       {
-        "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-        "likes": 975,
-        "downloads": 57935,
-        "task": "image-text-to-text"
-      },
-      {
         "id": "jialinyyzz/humanizer",
         "url": "https://huggingface.co/jialinyyzz/humanizer",
-        "likes": 1931,
+        "likes": 1938,
         "downloads": 103709,
         "task": "text-generation"
       },
       {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 674,
+        "likes": 680,
         "downloads": 9620,
         "task": "text-to-speech"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 767,
+        "likes": 786,
         "downloads": 338036,
         "task": "image-to-image"
       },
       {
         "id": "meta-models/Muse-Spark-Open-816B-A42B",
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
-        "likes": 534,
+        "likes": 539,
         "downloads": 1809,
         "task": "image-text-to-text"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 8333,
+        "likes": 8345,
         "downloads": 2012496,
         "task": "image-to-video"
       },
       {
         "id": "LiquidAI/LFM2.5-24B-A2B",
         "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
-        "likes": 459,
+        "likes": 462,
         "downloads": 13007,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
-        "likes": 474,
+        "likes": 477,
         "downloads": 52315,
         "task": "image-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4540,
+        "likes": 4548,
         "downloads": 2661687,
         "task": "text-to-image"
       },
       {
         "id": "baidu/Unlimited-OCR",
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
-        "likes": 4784,
+        "likes": 4788,
         "downloads": 1652742,
         "task": "image-text-to-text"
       }
@@ -2139,16 +2139,16 @@
       {
         "word": "英伟达",
         "count": 5,
-        "delta": 3
+        "delta": 0
       },
       {
         "word": "发布",
         "count": 5,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "DeepSeek",
-        "count": 4,
+        "count": 3,
         "delta": -1
       },
       {
@@ -2164,12 +2164,7 @@
       {
         "word": "Anthropic",
         "count": 2,
-        "delta": -1
-      },
-      {
-        "word": "Agent",
-        "count": 2,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "开源",
@@ -2179,7 +2174,7 @@
       {
         "word": "GPU",
         "count": 2,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "Claude",
@@ -2204,7 +2199,7 @@
       {
         "word": "推理",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "训练",
@@ -2224,22 +2219,10 @@
       {
         "word": "产品",
         "count": 1,
-        "delta": -1
+        "delta": 0
       }
     ],
     "signals": [
-      {
-        "type": "up",
-        "text": "「英伟达」热度上升 +3（当前 5 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「发布」热度上升 +1（当前 5 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「Agent」热度上升 +1（当前 2 次提及）"
-      },
       {
         "type": "money",
         "text": "检测到 4 条融资 / 资本相关资讯，注意风口与钱的方向"
@@ -2384,12 +2367,8 @@
       "title": "Anthropic最新动向，对大学生意味着什么？"
     },
     {
-      "kw": "Agent",
-      "title": "手把手教你用Agent，零基础也能上手"
-    },
-    {
       "kw": "开源",
-      "title": "开源怎么免费用？这份攻略请收好"
+      "title": "手把手教你用开源，零基础也能上手"
     },
     {
       "kw": "GPU",
@@ -2397,12 +2376,16 @@
     },
     {
       "kw": "Claude",
-      "title": "大学生必看：Claude的 5 个隐藏用法"
+      "title": "Claude怎么免费用？这份攻略请收好"
     },
     {
       "kw": "OpenAI",
       "title": "我研究了OpenAI，总结了 3 个能用上的点"
+    },
+    {
+      "kw": "语音",
+      "title": "语音火了，现在入场还来得及吗？"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-18\n\n## 一、今日信号\n- 「英伟达」热度上升 +3（当前 5 次提及）\n- 「发布」热度上升 +1（当前 5 次提及）\n- 「Agent」热度上升 +1（当前 2 次提及）\n- 检测到 4 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [商业落地] 三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新模型] 英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] 微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] 硬件设计解谜游戏《绘芯：造出你的第一颗 GPU》试玩版上线 Steam，游戏明年第一季度发售\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 京东京造推出 G70Pro 双摄掌静脉智能门锁：支持 AI 语音对话，1882 元（国补后 1599 元）\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：36氪\n\n## 三、热度关键词\n英伟达 (5) · 发布 (5) · DeepSeek (4) · 智能体 (3) · API (3) · Anthropic (2) · Agent (2) · 开源 (2) · GPU (2) · Claude (1) · OpenAI (1) · 投资 (1)\n\n## 四、头条速览\n- British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled（Hacker News）\n- Someone Behind the Software（Hacker News）\n- Disney agrees to hire the majority of Character.AI’s workforce（TechCrunch AI）\n- The Intel 8087 chip: floating-point addition and subtraction（Hacker News）\n- 首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴（IT之家）\n- macOS 15.8.2 Breaks OpenGL（Hacker News）\n- 两部门：鼓励利用电影院空闲时段开展重大体育赛事直播（IT之家）\n- 索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿（IT之家）\n- 1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低（IT之家）\n- 古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-18\n\n## 一、今日信号\n- 检测到 4 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [商业落地] 三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新模型] 英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [商业落地] 微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：IT之家\n- [新工具上线] 硬件设计解谜游戏《绘芯：造出你的第一颗 GPU》试玩版上线 Steam，游戏明年第一季度发售\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新工具上线] 京东京造推出 G70Pro 双摄掌静脉智能门锁：支持 AI 语音对话，1882 元（国补后 1599 元）\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：36氪\n\n## 三、热度关键词\n英伟达 (5) · 发布 (5) · DeepSeek (3) · 智能体 (3) · API (3) · Anthropic (2) · 开源 (2) · GPU (2) · Claude (1) · OpenAI (1) · 投资 (1) · 芯片 (1)\n\n## 四、头条速览\n- US threatens Europe over Starlink restrictions（Hacker News）\n- Personal software factories are a waste of time（Hacker News）\n- Free Pascal Compiler Now Supports Dynamic Packages（Hacker News）\n- HOA's are making the home crisis worse（Hacker News）\n- CFPB Opens Debanking Investigation into Nine Large National Banks（Hacker News）\n- Investing in the Public Benefit（Hacker News）\n- PalmOS Lemmings by Aaron Ardiri（Hacker News）\n- Mitos editor is a fork of Helix（Hacker News）\n- Namecheap just seized and disabled all my domains（Hacker News）\n- Someone behind the software（Hacker News）"
 }
