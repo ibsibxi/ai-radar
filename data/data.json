@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T17:45:05.809Z",
-  "previousAt": "2026-10-24T13:02:50.440Z",
+  "generatedAt": "2026-10-24T20:04:05.775Z",
+  "previousAt": "2026-10-24T17:45:05.809Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 160,
+    "recent48h": 156,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 90
+    "aiCount": 93
   },
   "sources": [
     {
@@ -98,14 +98,103 @@
   ],
   "news": [
     {
-      "title": "Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
-      "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-24T16:47:19.000Z",
+      "publishedAt": "2026-10-24T19:47:19.000Z",
+      "ai": true,
+      "titleZh": "技术领域之外没有人工智能回报的迹象"
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:43:27.000Z",
       "ai": false,
-      "titleZh": "山姆·奥尔特曼： “我不再认为我们能够修补所有的漏洞”"
+      "titleZh": "收听和阅读美国核力量紧急行动信息，收听频率为11175 kHz"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:27:41.000Z",
+      "ai": false,
+      "titleZh": "Goose编程语言"
+    },
+    {
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:06:55.000Z",
+      "ai": false,
+      "titleZh": "John Carmack关于Goose语言：多个数据栈和相对引用"
+    },
+    {
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:03:59.000Z",
+      "ai": false,
+      "titleZh": "主任说， PHP基金会“资金不足” ，只有一名全职工作人员"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "ai": true,
+      "titleZh": "人工智能墓地：未成功完成的项目和初创公司的运行列表"
+    },
+    {
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:31:48.000Z",
+      "ai": false,
+      "titleZh": "丹麦政府默默放弃倾销MS Office的计划"
+    },
+    {
+      "title": "Dream-1",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:23:24.000Z",
+      "ai": false
+    },
+    {
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:19:05.000Z",
+      "ai": false,
+      "titleZh": "用于缓解小鼠脑水肿和阿尔茨海默病病理的淋巴清除"
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:04:57.000Z",
+      "ai": true,
+      "titleZh": "为什么人工智能生成的语言如此难以理解？"
     },
     {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
@@ -146,6 +235,16 @@
       "publishedAt": "2026-10-24T15:57:17.000Z",
       "ai": false,
       "titleZh": "神经芯片解码大脑区域之间的相互作用"
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T15:35:17.000Z",
+      "ai": true,
+      "titleZh": "Oai-math-revised ：修改OpenAI数学论文的社区中心"
     },
     {
       "title": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片",
@@ -465,16 +564,6 @@
       "ai": true
     },
     {
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T10:51:35.000Z",
-      "ai": false,
-      "titleZh": "显示HN ：通过CVE-2022-22706为Tcl Android TV自主根"
-    },
-    {
       "title": "中国联通：已在苹果直营店/授权店安排千余名驻店员，协助iPhone Duo购机用户开通eSIM",
       "url": "https://www.36kr.com/newsflashes/4039676168623237",
       "source": "36氪",
@@ -629,7 +718,7 @@
       "ai": false
     },
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
+      "title": "I don't understand quantum physics (2018)",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "source": "Hacker News",
       "sourceId": "hn",
@@ -964,16 +1053,6 @@
       "ai": false
     },
     {
-      "title": "Root shell on Samsung TV",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T05:49:57.000Z",
-      "ai": false,
-      "titleZh": "三星电视上的根外壳"
-    },
-    {
       "title": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
       "url": "https://www.36kr.com/newsflashes/4039455708058753",
       "source": "36氪",
@@ -1057,16 +1136,6 @@
       "ai": true
     },
     {
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T02:36:38.000Z",
-      "ai": false,
-      "titleZh": "Apple安全研究设备"
-    },
-    {
       "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
       "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
@@ -1084,16 +1153,6 @@
       "publishedAt": "2026-10-24T01:16:58.000Z",
       "ai": false,
       "titleZh": "十二年的分布式SQLite"
-    },
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T01:15:14.000Z",
-      "ai": false,
-      "titleZh": "大约十几个银行应用程序开始专门允许GrapheneOS"
     },
     {
       "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
@@ -1134,16 +1193,6 @@
       "titleZh": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台"
     },
     {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-23T19:09:54.000Z",
-      "ai": false,
-      "titleZh": "DESSA ：仅在语音上训练的对话模型"
-    },
-    {
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "source": "TechCrunch AI",
@@ -1164,26 +1213,6 @@
       "titleZh": "快速扩展在线存储，为超过10亿ChatGPT用户提供服务（第二部分）"
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-23T16:59:08.000Z",
-      "ai": false,
-      "titleZh": "Kimi K3.1 Pro和K3.1 Pro高速"
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-23T16:21:50.000Z",
-      "ai": false,
-      "titleZh": "今天，我们入侵了我们打算入侵的东西： iPhone"
-    },
-    {
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "HuggingFace",
@@ -1192,16 +1221,6 @@
       "publishedAt": "2026-10-23T16:15:50.000Z",
       "ai": true,
       "titleZh": "LitPivot ：通过文学景观中的动态语境化发展研究理念"
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-23T12:28:47.000Z",
-      "ai": false,
-      "titleZh": "未找到Apple Music 404"
     },
     {
       "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
@@ -1486,16 +1505,6 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "ai": true,
       "titleZh": "您的模型是否在AWS Trainium上运行？查找"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-22T23:01:18.000Z",
-      "ai": false,
-      "titleZh": "本地维基百科：维基百科，但仅适用于距离您步行半小时的地方"
     },
     {
       "title": "欧洲 AI，等来了黄仁勋",
@@ -1856,16 +1865,6 @@
       "titleZh": "优步通过OpenAI为所有员工提供ChatGPT Work"
     },
     {
-      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-21T22:51:22.000Z",
-      "ai": true,
-      "titleZh": "Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了"
-    },
-    {
       "title": "Broad access through consistent standards",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "OpenAI",
@@ -1973,20 +1972,20 @@
         "createdAt": "2026-10-18T04:20:37Z"
       },
       {
+        "name": "agentshield-dev/agentshield",
+        "url": "https://github.com/agentshield-dev/agentshield",
+        "stars": 50,
+        "desc": "Agentshield is open source defense for Kubernetes and AWS. It learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes yo",
+        "lang": "Go",
+        "createdAt": "2026-10-21T20:18:00Z"
+      },
+      {
         "name": "Goekdeniz-Guelmez/JOSIE-Voice",
         "url": "https://github.com/Goekdeniz-Guelmez/JOSIE-Voice",
         "stars": 50,
         "desc": "JOSIE Voice: a real-time, on-device voice assistant for Apple Silicon. Download the macOS app (DMG) from Releases.",
         "lang": "",
         "createdAt": "2026-10-14T08:12:11Z"
-      },
-      {
-        "name": "agentshield-dev/agentshield",
-        "url": "https://github.com/agentshield-dev/agentshield",
-        "stars": 49,
-        "desc": "Agentshield is open source defense for Kubernetes and AWS. It learns how your workloads really talk, flags lateral movement with evidence, and proposes fixes yo",
-        "lang": "Go",
-        "createdAt": "2026-10-21T20:18:00Z"
       },
       {
         "name": "Cinderubasp/InterviewCopilot-rpocket-team",
@@ -2015,7 +2014,7 @@
       {
         "name": "zidniryi/cutvii",
         "url": "https://github.com/zidniryi/cutvii",
-        "stars": 10,
+        "stars": 11,
         "desc": "CutVii - Creative editing. Flexible workflow. On-device AI",
         "lang": "TypeScript",
         "createdAt": "2026-10-22T13:15:21Z"
@@ -2057,84 +2056,84 @@
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2728,
+        "likes": 2746,
         "downloads": 73215,
         "task": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
         "url": "https://huggingface.co/RecursiveSI/flint",
-        "likes": 747,
+        "likes": 754,
         "downloads": 4795,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1475,
+        "likes": 1481,
         "downloads": 590742,
         "task": "image-to-image"
       },
       {
-        "id": "OpenMOSS-Team/MOSS-Image-SFT",
-        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 681,
-        "downloads": 9717,
-        "task": "text-to-image"
-      },
-      {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 9134,
+        "likes": 9153,
         "downloads": 2087721,
         "task": "image-to-video"
       },
       {
+        "id": "OpenMOSS-Team/MOSS-Image-SFT",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "likes": 683,
+        "downloads": 9717,
+        "task": "text-to-image"
+      },
+      {
         "id": "XHToken/Spark-X2.6-4B",
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-        "likes": 436,
+        "likes": 440,
         "downloads": 2537,
         "task": "text-generation"
       },
       {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 975,
+        "likes": 977,
         "downloads": 19831,
         "task": "text-to-speech"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 18324,
+        "likes": 18332,
         "downloads": 7851161,
         "task": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4949,
+        "likes": 4956,
         "downloads": 2303585,
-        "task": "text-to-image"
-      },
-      {
-        "id": "OpenMOSS-Team/MOSS-Image-Base",
-        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
-        "likes": 530,
-        "downloads": 6943,
         "task": "text-to-image"
       },
       {
         "id": "MiniMaxAI/MiniMax-M3.1-Flash",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-        "likes": 296,
+        "likes": 302,
         "downloads": 5789,
         "task": "image-text-to-text"
       },
       {
+        "id": "OpenMOSS-Team/MOSS-Image-Base",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+        "likes": 532,
+        "downloads": 6943,
+        "task": "text-to-image"
+      },
+      {
         "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
         "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-        "likes": 327,
+        "likes": 329,
         "downloads": 5583,
         "task": "image-text-to-text"
       }
@@ -2146,7 +2145,7 @@
       {
         "word": "发布",
         "count": 8,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "OpenAI",
@@ -2155,7 +2154,7 @@
       },
       {
         "word": "Agent",
-        "count": 5,
+        "count": 4,
         "delta": -1
       },
       {
@@ -2171,37 +2170,37 @@
       {
         "word": "Claude",
         "count": 3,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "NVIDIA",
         "count": 3,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "产品",
         "count": 3,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "GPT",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "DeepSeek",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "Anthropic",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "英伟达",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "大模型",
@@ -2211,17 +2210,12 @@
       {
         "word": "芯片",
         "count": 2,
-        "delta": 1
-      },
-      {
-        "word": "API",
-        "count": 2,
         "delta": 0
       },
       {
         "word": "Grok",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "投资",
@@ -2236,7 +2230,7 @@
       {
         "word": "GPU",
         "count": 1,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "RAG",
@@ -2247,21 +2241,14 @@
         "word": "语音",
         "count": 1,
         "delta": 0
+      },
+      {
+        "word": "API",
+        "count": 1,
+        "delta": -1
       }
     ],
     "signals": [
-      {
-        "type": "up",
-        "text": "「NVIDIA」热度上升 +1（当前 3 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「产品」热度上升 +1（当前 3 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「芯片」热度上升 +1（当前 2 次提及）"
-      },
       {
         "type": "money",
         "text": "检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向"
@@ -2399,5 +2386,5 @@
       "title": "DeepSeek怎么免费用？这份攻略请收好"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-24\n\n## 一、今日信号\n- 「NVIDIA」热度上升 +1（当前 3 次提及）\n- 「产品」热度上升 +1（当前 3 次提及）\n- 「芯片」热度上升 +1（当前 2 次提及）\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Block&#8217;s new voice model sounds eerily human\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [新工具上线] 首个汽车行业AI基座发布 面向全行业开放共享\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n- [新工具上线] 开门红强势爆发！抖音商城双11热卖品牌榜发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [资本动向] 宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [资本动向] 融资10亿+元，亿铸科技加速通用存算一体产业化\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (8) · OpenAI (5) · Agent (5) · 融资 (4) · 机器人 (4) · Claude (3) · NVIDIA (3) · 产品 (3) · GPT (2) · DeepSeek (2) · Anthropic (2) · 英伟达 (2)\n\n## 四、头条速览\n- Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'（Hacker News）\n- The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise（Hacker News）\n- Roku developer repositories moved from GitHub to GitLab（Hacker News）\n- Block&#8217;s new voice model sounds eerily human（TechCrunch AI）\n- Neural chip decodes interactions between brain regions（Hacker News）\n- iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片（IT之家）\n- FreeDNS（Hacker News）\n- 刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”（IT之家）\n- 戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元（IT之家）\n- JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-24\n\n## 一、今日信号\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Block&#8217;s new voice model sounds eerily human\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [新工具上线] 首个汽车行业AI基座发布 面向全行业开放共享\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n- [新工具上线] 开门红强势爆发！抖音商城双11热卖品牌榜发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [资本动向] 宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [资本动向] 融资10亿+元，亿铸科技加速通用存算一体产业化\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (8) · OpenAI (5) · Agent (4) · 融资 (4) · 机器人 (4) · Claude (3) · NVIDIA (3) · 产品 (3) · GPT (2) · DeepSeek (2) · Anthropic (2) · 英伟达 (2)\n\n## 四、头条速览\n- No Signs of AI Payoff Outside the Tech Sector（Hacker News）\n- Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz（Hacker News）\n- The Goose Programming Language（Hacker News）\n- John Carmack on the Goose Language: multiple data stacks and relative references（Hacker News）\n- PHP Foundation 'under-funded' with one full-time staff member, director says（Hacker News）\n- The AI graveyard: a running list of projects and startups that didn&#8217;t make it（TechCrunch AI）\n- Danish Government silently drops plan to dump MS Office（Hacker News）\n- Dream-1（Hacker News）\n- Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice（Hacker News）\n- Why is AI generated language so hard to understand?（Hacker News）"
 }
