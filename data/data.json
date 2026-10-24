@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T20:04:05.775Z",
-  "previousAt": "2026-10-24T17:45:05.809Z",
+  "generatedAt": "2026-10-24T22:49:04.177Z",
+  "previousAt": "2026-10-24T20:04:05.775Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 156,
+    "recent48h": 153,
     "githubCount": 12,
     "hfCount": 12,
     "aiCount": 93
@@ -98,14 +98,44 @@
   ],
   "news": [
     {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:47:31.000Z",
+      "ai": false,
+      "titleZh": "我们应该更加雄心勃勃地使用我们构建的软件"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:44:23.000Z",
+      "ai": false,
+      "titleZh": "小程序和语言"
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:30:31.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：窃取我的比特币"
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
       "publishedAt": "2026-10-24T19:47:19.000Z",
       "ai": true,
-      "titleZh": "技术领域之外没有人工智能回报的迹象"
+      "titleZh": "科技行业之外没有人工智能回报的迹象"
     },
     {
       "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
@@ -118,34 +148,23 @@
       "titleZh": "收听和阅读美国核力量紧急行动信息，收听频率为11175 kHz"
     },
     {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:19:43.000Z",
+      "ai": false
+    },
+    {
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-24T19:27:41.000Z",
-      "ai": false,
-      "titleZh": "Goose编程语言"
-    },
-    {
-      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
       "publishedAt": "2026-10-24T19:06:55.000Z",
       "ai": false,
-      "titleZh": "John Carmack关于Goose语言：多个数据栈和相对引用"
-    },
-    {
-      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T19:03:59.000Z",
-      "ai": false,
-      "titleZh": "主任说， PHP基金会“资金不足” ，只有一名全职工作人员"
+      "titleZh": "Goose编程语言"
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
@@ -158,16 +177,6 @@
       "titleZh": "人工智能墓地：未成功完成的项目和初创公司的运行列表"
     },
     {
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T18:31:48.000Z",
-      "ai": false,
-      "titleZh": "丹麦政府默默放弃倾销MS Office的计划"
-    },
-    {
       "title": "Dream-1",
       "url": "https://dreamlabs.ai/research/dream-1/",
       "source": "Hacker News",
@@ -177,14 +186,14 @@
       "ai": false
     },
     {
-      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-24T18:19:05.000Z",
+      "publishedAt": "2026-10-24T18:22:14.000Z",
       "ai": false,
-      "titleZh": "用于缓解小鼠脑水肿和阿尔茨海默病病理的淋巴清除"
+      "titleZh": "Bbtree ：最快订购地图"
     },
     {
       "title": "Why is AI generated language so hard to understand?",
@@ -1080,16 +1089,6 @@
       "ai": false
     },
     {
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T04:49:58.000Z",
-      "ai": false,
-      "titleZh": "OBS Studio"
-    },
-    {
       "title": "How close can pure functional programming get to C?",
       "url": "https://rtfeldman.com/fp-vs-c",
       "source": "Hacker News",
@@ -1546,16 +1545,6 @@
       "titleZh": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "ai": true,
-      "titleZh": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "source": "TechCrunch AI",
@@ -1564,6 +1553,16 @@
       "publishedAt": "2026-10-22T19:00:00.000Z",
       "ai": true,
       "titleZh": "Canva发布首个图像生成模型"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "ai": true,
+      "titleZh": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用"
     },
     {
       "title": "Build more responsive apps with the Decisions API",
@@ -2006,7 +2005,7 @@
       {
         "name": "Sociaro-Research/open-media-gateway",
         "url": "https://github.com/Sociaro-Research/open-media-gateway",
-        "stars": 16,
+        "stars": 17,
         "desc": "OMG - Open Media Gateway",
         "lang": "Go",
         "createdAt": "2026-10-20T11:43:37Z"
@@ -2056,70 +2055,70 @@
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2746,
+        "likes": 2764,
         "downloads": 73215,
         "task": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
         "url": "https://huggingface.co/RecursiveSI/flint",
-        "likes": 754,
+        "likes": 769,
         "downloads": 4795,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1481,
+        "likes": 1494,
         "downloads": 590742,
         "task": "image-to-image"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 9153,
+        "likes": 9165,
         "downloads": 2087721,
         "task": "image-to-video"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 683,
+        "likes": 686,
         "downloads": 9717,
         "task": "text-to-image"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-        "likes": 440,
+        "likes": 443,
         "downloads": 2537,
         "task": "text-generation"
       },
       {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 977,
+        "likes": 979,
         "downloads": 19831,
         "task": "text-to-speech"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 18332,
+        "likes": 18338,
         "downloads": 7851161,
         "task": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 4956,
+        "likes": 4963,
         "downloads": 2303585,
         "task": "text-to-image"
       },
       {
         "id": "MiniMaxAI/MiniMax-M3.1-Flash",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-        "likes": 302,
+        "likes": 307,
         "downloads": 5789,
         "task": "image-text-to-text"
       },
@@ -2133,7 +2132,7 @@
       {
         "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
         "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-        "likes": 329,
+        "likes": 331,
         "downloads": 5583,
         "task": "image-text-to-text"
       }
@@ -2149,11 +2148,6 @@
       },
       {
         "word": "OpenAI",
-        "count": 5,
-        "delta": 0
-      },
-      {
-        "word": "Agent",
         "count": 4,
         "delta": -1
       },
@@ -2176,6 +2170,11 @@
         "word": "NVIDIA",
         "count": 3,
         "delta": 0
+      },
+      {
+        "word": "Agent",
+        "count": 3,
+        "delta": -1
       },
       {
         "word": "产品",
@@ -2245,7 +2244,7 @@
       {
         "word": "API",
         "count": 1,
-        "delta": -1
+        "delta": 0
       }
     ],
     "signals": [
@@ -2358,10 +2357,6 @@
       "title": "OpenAI最新动向，对大学生意味着什么？"
     },
     {
-      "kw": "Agent",
-      "title": "用 AI 10 分钟搞定Agent，大学生亲测"
-    },
-    {
       "kw": "融资",
       "title": "融资这波热度，普通人能怎么蹭？"
     },
@@ -2371,11 +2366,15 @@
     },
     {
       "kw": "Claude",
-      "title": "Claude值不值得用？我替你先试了"
+      "title": "用 AI 10 分钟搞定Claude，大学生亲测"
     },
     {
       "kw": "NVIDIA",
       "title": "NVIDIA火了，现在入场还来得及吗？"
+    },
+    {
+      "kw": "Agent",
+      "title": "Agent值不值得用？我替你先试了"
     },
     {
       "kw": "GPT",
@@ -2386,5 +2385,5 @@
       "title": "DeepSeek怎么免费用？这份攻略请收好"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-24\n\n## 一、今日信号\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Block&#8217;s new voice model sounds eerily human\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [新工具上线] 首个汽车行业AI基座发布 面向全行业开放共享\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n- [新工具上线] 开门红强势爆发！抖音商城双11热卖品牌榜发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [资本动向] 宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [资本动向] 融资10亿+元，亿铸科技加速通用存算一体产业化\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (8) · OpenAI (5) · Agent (4) · 融资 (4) · 机器人 (4) · Claude (3) · NVIDIA (3) · 产品 (3) · GPT (2) · DeepSeek (2) · Anthropic (2) · 英伟达 (2)\n\n## 四、头条速览\n- No Signs of AI Payoff Outside the Tech Sector（Hacker News）\n- Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz（Hacker News）\n- The Goose Programming Language（Hacker News）\n- John Carmack on the Goose Language: multiple data stacks and relative references（Hacker News）\n- PHP Foundation 'under-funded' with one full-time staff member, director says（Hacker News）\n- The AI graveyard: a running list of projects and startups that didn&#8217;t make it（TechCrunch AI）\n- Danish Government silently drops plan to dump MS Office（Hacker News）\n- Dream-1（Hacker News）\n- Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice（Hacker News）\n- Why is AI generated language so hard to understand?（Hacker News）"
+  "digest": "# AI 变现雷达简报 · 2026-10-24\n\n## 一、今日信号\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] Block&#8217;s new voice model sounds eerily human\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：TechCrunch AI\n- [新模型] Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [新工具上线] 首个汽车行业AI基座发布 面向全行业开放共享\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n- [新工具上线] 开门红强势爆发！抖音商城双11热卖品牌榜发布\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n- [资本动向] 宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n- [资本动向] 融资10亿+元，亿铸科技加速通用存算一体产业化\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (8) · OpenAI (4) · 融资 (4) · 机器人 (4) · Claude (3) · NVIDIA (3) · Agent (3) · 产品 (3) · GPT (2) · DeepSeek (2) · Anthropic (2) · 英伟达 (2)\n\n## 四、头条速览\n- We should be more ambitious with the software we build（Hacker News）\n- Small Programs and Languages（Hacker News）\n- Show HN: Steal My Bitcoin（Hacker News）\n- No signs of AI payoff outside the tech sector（Hacker News）\n- Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz（Hacker News）\n- SpeedCrunch 1.1（Hacker News）\n- The Goose Programming Language（Hacker News）\n- The AI graveyard: a running list of projects and startups that didn&#8217;t make it（TechCrunch AI）\n- Dream-1（Hacker News）\n- Bbtree: Fastest Ordered Map（Hacker News）"
 }
