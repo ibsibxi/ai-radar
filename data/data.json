@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-25T18:01:16.847Z",
-  "previousAt": "2026-10-25T13:30:16.913Z",
+  "generatedAt": "2026-10-25T22:58:42.435Z",
+  "previousAt": "2026-10-25T18:01:16.847Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 125,
+    "recent48h": 124,
     "githubCount": 12,
     "hfCount": 12,
-    "aiCount": 92
+    "aiCount": 88
   },
   "sources": [
     {
@@ -98,6 +98,164 @@
   ],
   "news": [
     {
+      "title": "比亚迪在韩销量激增，现代起亚本土市场承压",
+      "url": "https://www.ithome.com/1/017/721.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-25T22:52:59.000Z",
+      "ai": false
+    },
+    {
+      "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+      "url": "https://www.ithome.com/1/017/720.htm",
+      "source": "IT之家",
+      "sourceId": "ithome",
+      "lang": "zh",
+      "publishedAt": "2026-10-25T22:51:35.000Z",
+      "ai": true
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "ai": true,
+      "titleZh": "Grok发布其人工智能生成的“奥德赛”的前七分钟"
+    },
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T21:08:28.000Z",
+      "ai": false,
+      "titleZh": "塞尔维亚的武契奇承认选举在学生运动的历史性胜利中失败"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T20:32:31.000Z",
+      "ai": false,
+      "titleZh": "情境工程的现状"
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T20:27:09.000Z",
+      "ai": false,
+      "titleZh": "制作动画电影需要什么？"
+    },
+    {
+      "title": "Focused Company Operating Principles",
+      "url": "https://focused.io/operating-principles",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T20:16:51.000Z",
+      "ai": false,
+      "titleZh": "专注的公司运营原则"
+    },
+    {
+      "title": "Crosscut – Drawing Dynamic Models",
+      "url": "https://www.inkandswitch.com/crosscut/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T20:01:53.000Z",
+      "ai": false,
+      "titleZh": "横切–绘制动态模型"
+    },
+    {
+      "title": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T19:40:27.000Z",
+      "ai": false,
+      "titleZh": "尤妮丝快到了"
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T19:29:16.000Z",
+      "ai": false,
+      "titleZh": "Moderna和默克表示，他们的mRNA癌症疫苗将死亡率和复发率降低了42%"
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T19:11:31.000Z",
+      "ai": false,
+      "titleZh": "我为什么是程序员"
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T19:10:36.000Z",
+      "ai": false,
+      "titleZh": "Gheist活动使用被盗的GitHub令牌植入秘密转储工作流程"
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T18:58:14.000Z",
+      "ai": false,
+      "titleZh": "罗马人战斗的地方（互动地图）"
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T18:23:54.000Z",
+      "ai": false,
+      "titleZh": "多莉·帕顿的想象力图书馆"
+    },
+    {
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T18:11:38.000Z",
+      "ai": false,
+      "titleZh": "您所需要的只是广义事件，而不是“指标、日志和跟踪”"
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T18:04:11.000Z",
+      "ai": false,
+      "titleZh": "俄勒冈州警方向当地一家新闻媒体收取250万$的费用，以获取关于一名警察的记录"
+    },
+    {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "url": "https://talkweb.eu/openweb/4558/",
       "source": "Hacker News",
@@ -118,15 +276,6 @@
       "titleZh": "10岁的CNN在皮肤癌诊断方面优于FRONTIER LLM"
     },
     {
-      "title": "Sabre Wulf Remastered",
-      "url": "https://gp-64.com/swr/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T17:15:16.000Z",
-      "ai": false
-    },
-    {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "TechCrunch AI",
@@ -137,24 +286,14 @@
       "titleZh": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”"
     },
     {
-      "title": "A Mathematician Reads the AI Future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "url": "https://unicode.org/reports/tr39/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-25T16:31:21.000Z",
-      "ai": true,
-      "titleZh": "数学家解读人工智能的未来"
-    },
-    {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://github.com/socrates6969/jukebox-os",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T16:29:46.000Z",
-      "ai": true,
-      "titleZh": "Jukebox-OS ：人工智能代理的确定性时间旅行重播和ACID工具沙盒"
+      "publishedAt": "2026-10-25T16:40:37.000Z",
+      "ai": false,
+      "titleZh": "UTS # 39 ： Unicode安全机制"
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
@@ -167,6 +306,15 @@
       "titleZh": "人工智能的使用导致加州大学伯克利分校数学教授在家庭作业评分中看到“没有意义”"
     },
     {
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-25T16:27:12.000Z",
+      "ai": false
+    },
+    {
       "title": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
       "url": "https://www.ithome.com/1/017/719.htm",
       "source": "IT之家",
@@ -174,26 +322,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-25T15:36:55.000Z",
       "ai": true
-    },
-    {
-      "title": "What Adobe v ArtCraft teaches us",
-      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T15:34:44.000Z",
-      "ai": false,
-      "titleZh": "Adobe v ArtCraft教给我们的东西"
-    },
-    {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T15:05:39.000Z",
-      "ai": false,
-      "titleZh": "显示HN ：我将员工置于标准普尔500指数市值泡沫内"
     },
     {
       "title": "古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air",
@@ -257,16 +385,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-25T14:37:55.000Z",
       "ai": false
-    },
-    {
-      "title": "A few thoughts on intensity (2024)",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T14:37:49.000Z",
-      "ai": false,
-      "titleZh": "关于强度的几点思考（ 2024年）"
     },
     {
       "title": "Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周",
@@ -487,16 +605,6 @@
       "ai": false
     },
     {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "url": "https://loeffelholz-codex.org/en/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T12:37:54.000Z",
-      "ai": false,
-      "titleZh": "1505年纽伦堡骑士工具书"
-    },
-    {
       "title": "Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆",
       "url": "https://www.ithome.com/1/017/686.htm",
       "source": "IT之家",
@@ -632,16 +740,6 @@
       "ai": false
     },
     {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T11:09:12.000Z",
-      "ai": false,
-      "titleZh": "《fheroes2: A recreation of Heroes of Might and Magic II》游戏引擎"
-    },
-    {
       "title": "发售日临近，任天堂将 Switch 版《塞尔达传说：时之笛重制版》游戏体积缩减至 24.54GB",
       "url": "https://www.ithome.com/1/017/671.htm",
       "source": "IT之家",
@@ -694,16 +792,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-25T10:01:40.000Z",
       "ai": false
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-25T09:51:17.000Z",
-      "ai": true,
-      "titleZh": "尼康摄影大赛获胜者在科学家发现人工智能的迹象后失去冠军头衔"
     },
     {
       "title": "航嘉高能 S67 mini 充电头发售：2C+1A，支持 AVS 及 67W MiPPS 协议，109 元",
@@ -766,24 +854,6 @@
       "sourceId": "ithome",
       "lang": "zh",
       "publishedAt": "2026-10-25T09:19:20.000Z",
-      "ai": false
-    },
-    {
-      "title": "软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心",
-      "url": "https://www.ithome.com/1/017/637.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-25T09:17:05.000Z",
-      "ai": true
-    },
-    {
-      "title": "因日活量不佳，VRMMO 游戏《Zenith》将于 12 月正式关闭服务器",
-      "url": "https://www.ithome.com/1/017/636.htm",
-      "source": "IT之家",
-      "sourceId": "ithome",
-      "lang": "zh",
-      "publishedAt": "2026-10-25T09:08:34.000Z",
       "ai": false
     },
     {
@@ -1002,65 +1072,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-25T00:52:41.000Z",
       "ai": true
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T23:11:54.000Z",
-      "ai": true,
-      "titleZh": "美国在媒体、电影和艺术领域失去了20万个工作岗位。人工智能有多少钱？"
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T21:47:31.000Z",
-      "ai": false,
-      "titleZh": "我们应该更加雄心勃勃地使用我们构建的软件"
-    },
-    {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T21:44:23.000Z",
-      "ai": false,
-      "titleZh": "小程序和语言"
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T21:42:47.000Z",
-      "ai": false,
-      "titleZh": "限制对创造力和学习的重要性（ 2023年）"
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T19:19:43.000Z",
-      "ai": false
-    },
-    {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-24T19:06:55.000Z",
-      "ai": false,
-      "titleZh": "Goose编程语言"
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
@@ -1593,16 +1604,6 @@
       "titleZh": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "ai": true,
-      "titleZh": "Canva发布首个图像生成模型"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch AI",
@@ -1611,6 +1612,16 @@
       "publishedAt": "2026-10-22T19:00:00.000Z",
       "ai": true,
       "titleZh": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "sourceId": "techcrunch",
+      "lang": "en",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "ai": true,
+      "titleZh": "Canva发布首个图像生成模型"
     },
     {
       "title": "Build more responsive apps with the Decisions API",
@@ -1661,16 +1672,6 @@
       "publishedAt": "2026-10-22T15:03:58.000Z",
       "ai": true,
       "titleZh": "Spotify目前的人工智能赌注是成为代理商选择的音乐服务"
-    },
-    {
-      "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch AI",
-      "sourceId": "techcrunch",
-      "lang": "en",
-      "publishedAt": "2026-10-22T13:53:26.000Z",
-      "ai": true,
-      "titleZh": "Claude Duet应用程序是Anthropic对代理商的押注"
     },
     {
       "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
@@ -1956,7 +1957,7 @@
       {
         "name": "Generated-Computers/Locals",
         "url": "https://github.com/Generated-Computers/Locals",
-        "stars": 346,
+        "stars": 348,
         "desc": "Run many AI agents at once on your Mac, up to 3x faster.",
         "lang": "Python",
         "createdAt": "2026-10-12T17:40:28Z"
@@ -1972,7 +1973,7 @@
       {
         "name": "cocacola-lab/Recursia",
         "url": "https://github.com/cocacola-lab/Recursia",
-        "stars": 87,
+        "stars": 88,
         "desc": "Recursive self-improvement for robot manipulation, with real-robot experiments and shared executable skills.",
         "lang": "Python",
         "createdAt": "2026-10-12T13:03:38Z"
@@ -2042,98 +2043,98 @@
         "createdAt": "2026-10-12T18:11:45Z"
       },
       {
-        "name": "refraction-ray/free-energy-to-llms",
-        "url": "https://github.com/refraction-ray/free-energy-to-llms",
-        "stars": 6,
-        "desc": "Generative models from variational free energy to LLM",
-        "lang": "TeX",
-        "createdAt": "2026-10-21T11:43:11Z"
+        "name": "CristobalSantana/ai-ml-questions",
+        "url": "https://github.com/CristobalSantana/ai-ml-questions",
+        "stars": 7,
+        "desc": "Free multiple-choice quiz on AI and machine learning, from the basics to research topics. Every option explains why it's right or wrong. English and Spanish.",
+        "lang": "Python",
+        "createdAt": "2026-10-16T00:54:17Z"
       }
     ],
     "huggingface": [
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 2938,
+        "likes": 2973,
         "downloads": 85275,
         "task": "image-text-to-text"
       },
       {
         "id": "RecursiveSI/flint",
         "url": "https://huggingface.co/RecursiveSI/flint",
-        "likes": 834,
+        "likes": 854,
         "downloads": 6444,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 1579,
+        "likes": 1600,
         "downloads": 660874,
         "task": "image-to-image"
       },
       {
         "id": "XHToken/Spark-X2.6-4B",
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-        "likes": 488,
+        "likes": 493,
         "downloads": 3488,
         "task": "text-generation"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 9293,
+        "likes": 9329,
         "downloads": 2107108,
         "task": "image-to-video"
       },
       {
         "id": "OpenMOSS-Team/MOSS-Image-SFT",
         "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-        "likes": 721,
+        "likes": 726,
         "downloads": 10757,
         "task": "text-to-image"
       },
       {
+        "id": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "likes": 345,
+        "downloads": 0,
+        "task": "text-generation"
+      },
+      {
         "id": "MiniMaxAI/MiniMax-M3.1-Flash",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-        "likes": 338,
+        "likes": 349,
         "downloads": 7355,
         "task": "image-text-to-text"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 5021,
+        "likes": 5037,
         "downloads": 2235846,
         "task": "text-to-image"
       },
       {
         "id": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "likes": 18383,
+        "likes": 18391,
         "downloads": 7762014,
         "task": "image-text-to-text"
       },
       {
         "id": "fishaudio/drama-3",
         "url": "https://huggingface.co/fishaudio/drama-3",
-        "likes": 1006,
+        "likes": 1010,
         "downloads": 21375,
         "task": "text-to-speech"
       },
       {
         "id": "InternScience/Sage-A1.5",
         "url": "https://huggingface.co/InternScience/Sage-A1.5",
-        "likes": 286,
+        "likes": 290,
         "downloads": 3875,
         "task": "text-generation"
-      },
-      {
-        "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-        "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-        "likes": 363,
-        "downloads": 6792,
-        "task": "image-text-to-text"
       }
     ]
   },
@@ -2143,15 +2144,15 @@
       {
         "word": "发布",
         "count": 9,
-        "delta": 2
-      },
-      {
-        "word": "投资",
-        "count": 3,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "Claude",
+        "count": 2,
+        "delta": 0
+      },
+      {
+        "word": "Grok",
         "count": 2,
         "delta": 1
       },
@@ -2161,9 +2162,9 @@
         "delta": 0
       },
       {
-        "word": "Agent",
+        "word": "投资",
         "count": 2,
-        "delta": 1
+        "delta": -1
       },
       {
         "word": "机器人",
@@ -2173,36 +2174,41 @@
       {
         "word": "产品",
         "count": 2,
-        "delta": 2
-      },
-      {
-        "word": "Grok",
-        "count": 1,
         "delta": 0
       },
       {
-        "word": "NVIDIA",
+        "word": "Agent",
         "count": 1,
         "delta": -1
       },
       {
         "word": "智能体",
         "count": 1,
-        "delta": -1
+        "delta": 0
+      },
+      {
+        "word": "融资",
+        "count": 1,
+        "delta": 1
+      },
+      {
+        "word": "GPU",
+        "count": 1,
+        "delta": 1
       }
     ],
     "signals": [
       {
         "type": "up",
-        "text": "「发布」热度上升 +2（当前 9 次提及）"
+        "text": "「Grok」热度上升 +1（当前 2 次提及）"
       },
       {
         "type": "up",
-        "text": "「产品」热度上升 +2（当前 2 次提及）"
+        "text": "「融资」热度上升 +1（当前 1 次提及）"
       },
       {
         "type": "up",
-        "text": "「Claude」热度上升 +1（当前 2 次提及）"
+        "text": "「GPU」热度上升 +1（当前 1 次提及）"
       },
       {
         "type": "money",
@@ -2216,6 +2222,24 @@
     "fundingCount": 8
   },
   "opportunities": [
+    {
+      "type": "资本动向",
+      "icon": "💰",
+      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
+      "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+      "url": "https://www.ithome.com/1/017/720.htm",
+      "source": "IT之家",
+      "publishedAt": "2026-10-25T22:51:35.000Z"
+    },
+    {
+      "type": "新工具上线",
+      "icon": "🛠",
+      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T21:31:16.000Z"
+    },
     {
       "type": "新工具上线",
       "icon": "🛠",
@@ -2253,15 +2277,6 @@
       "publishedAt": "2026-10-25T10:38:49.000Z"
     },
     {
-      "type": "资本动向",
-      "icon": "💰",
-      "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
-      "title": "软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心",
-      "url": "https://www.ithome.com/1/017/637.htm",
-      "source": "IT之家",
-      "publishedAt": "2026-10-25T09:17:05.000Z"
-    },
-    {
       "type": "新模型",
       "icon": "🧠",
       "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
@@ -2278,15 +2293,6 @@
       "url": "http://www.geekpark.net/news/372860",
       "source": "极客公园",
       "publishedAt": "2026-10-25T00:52:41.000Z"
-    },
-    {
-      "type": "新工具上线",
-      "icon": "🛠",
-      "action": "第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）",
-      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
-      "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
-      "source": "雷锋网",
-      "publishedAt": "2026-10-24T08:37:00.000Z"
     },
     {
       "type": "资本动向",
@@ -2313,29 +2319,33 @@
       "title": "用 AI 10 分钟搞定Claude，大学生亲测"
     },
     {
-      "kw": "OpenAI",
-      "title": "OpenAI最新动向，对大学生意味着什么？"
+      "kw": "Grok",
+      "title": "Grok值不值得用？我替你先试了"
     },
     {
-      "kw": "Agent",
-      "title": "Agent值不值得用？我替你先试了"
+      "kw": "OpenAI",
+      "title": "OpenAI最新动向，对大学生意味着什么？"
     },
     {
       "kw": "机器人",
       "title": "机器人这波热度，普通人能怎么蹭？"
     },
     {
-      "kw": "Grok",
-      "title": "手把手教你用Grok，零基础也能上手"
-    },
-    {
-      "kw": "NVIDIA",
-      "title": "我研究了NVIDIA，总结了 3 个能用上的点"
+      "kw": "Agent",
+      "title": "手把手教你用Agent，零基础也能上手"
     },
     {
       "kw": "智能体",
       "title": "智能体怎么免费用？这份攻略请收好"
+    },
+    {
+      "kw": "融资",
+      "title": "我研究了融资，总结了 3 个能用上的点"
+    },
+    {
+      "kw": "GPU",
+      "title": "GPU火了，现在入场还来得及吗？"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-25\n\n## 一、今日信号\n- 「发布」热度上升 +2（当前 9 次提及）\n- 「产品」热度上升 +2（当前 2 次提及）\n- 「Claude」热度上升 +1（当前 2 次提及）\n- 检测到 8 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新工具上线] Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 技嘉上线工作站主板 WRX90 AI TOP：7 条 PCIe + 2 个 MCIO，集成 BMC\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 阿里千问蒋冠军谈个人 AI 智能体技术框架：需要模型、记忆与生态协同推进\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [资本动向] 软银孙正义计划在马来西亚投资 500 亿美元，押注 AI、数据中心\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新模型] Cerebras Deploys Trillion-Parameter AI Models\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [资本动向] 苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：极客公园\n- [新工具上线] 行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：雷锋网\n\n## 三、热度关键词\n发布 (9) · 投资 (3) · Claude (2) · OpenAI (2) · Agent (2) · 机器人 (2) · 产品 (2) · Grok (1) · NVIDIA (1) · 智能体 (1)\n\n## 四、头条速览\n- I refuse to accept a censored Internet. Join Me at FOSDEM 27（Hacker News）\n- A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis（Hacker News）\n- Sabre Wulf Remastered（Hacker News）\n- AI delivers ‘zero financial payoff’ to most companies, Apollo economist says（TechCrunch AI）\n- A Mathematician Reads the AI Future（Hacker News）\n- Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents（Hacker News）\n- AI use leads UC Berkeley math professor to see 'no point' in grading homework（Hacker News）\n- 国内首部 AI 院线长片《三星堆：未来往事》，票房过百万（IT之家）\n- What Adobe v ArtCraft teaches us（Hacker News）\n- Show HN: I put employees inside S&P 500 market-cap bubbles（Hacker News）"
+  "digest": "# AI 变现雷达简报 · 2026-10-25\n\n## 一、今日信号\n- 「Grok」热度上升 +1（当前 2 次提及）\n- 「融资」热度上升 +1（当前 1 次提及）\n- 「GPU」热度上升 +1（当前 1 次提及）\n- 检测到 8 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [资本动向] 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新工具上线] Grok releases the first seven minutes of its AI-generated ‘Odyssey’\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：TechCrunch AI\n- [新工具上线] Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新工具上线] 技嘉上线工作站主板 WRX90 AI TOP：7 条 PCIe + 2 个 MCIO，集成 BMC\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [新模型] 阿里千问蒋冠军谈个人 AI 智能体技术框架：需要模型、记忆与生态协同推进\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] Cerebras Deploys Trillion-Parameter AI Models\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [资本动向] 苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：极客公园\n\n## 三、热度关键词\n发布 (9) · Claude (2) · Grok (2) · OpenAI (2) · 投资 (2) · 机器人 (2) · 产品 (2) · Agent (1) · 智能体 (1) · 融资 (1) · GPU (1)\n\n## 四、头条速览\n- 比亚迪在韩销量激增，现代起亚本土市场承压（IT之家）\n- 马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU（IT之家）\n- Grok releases the first seven minutes of its AI-generated ‘Odyssey’（TechCrunch AI）\n- Serbia's Vucic concedes election defeat in historic win for student movement（Hacker News）\n- The State of Context Engineering（Hacker News）\n- What goes into making an animated film?（Hacker News）\n- Focused Company Operating Principles（Hacker News）\n- Crosscut – Drawing Dynamic Models（Hacker News）\n- Eunice is almost here（Hacker News）\n- Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%（Hacker News）"
 }
