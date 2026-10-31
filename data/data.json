@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T16:40:14.708Z",
-  "previousAt": "2026-10-31T11:33:06.577Z",
+  "generatedAt": "2026-10-31T20:52:28.279Z",
+  "previousAt": "2026-10-31T16:40:14.708Z",
   "stats": {
     "sourcesTotal": 12,
     "sourcesOk": 12,
     "articleCount": 200,
-    "recent48h": 177,
+    "recent48h": 172,
     "githubCount": 12,
     "hfCount": 12,
     "aiCount": 93
@@ -98,14 +98,104 @@
   ],
   "news": [
     {
-      "title": "Enlightenment 0.28 Released with Many Improvements",
-      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
-      "publishedAt": "2026-10-31T16:22:26.000Z",
+      "publishedAt": "2026-10-31T19:56:53.000Z",
       "ai": false,
-      "titleZh": "启蒙0.28发布，有很多改进"
+      "titleZh": "HackerTube ：根据HN推荐的视频构建的YouTube"
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:18:48.000Z",
+      "ai": false,
+      "titleZh": "显示HN ： NES Contra （ 1987 ）端口（ ASM – > C ，然后C – > WebAssembly ）"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:16:30.000Z",
+      "ai": false,
+      "titleZh": "TCP Use-After-Free ： CVE-2026-98432/CVSS 9.8"
+    },
+    {
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:07:36.000Z",
+      "ai": false,
+      "titleZh": "学者的职责"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:50:34.000Z",
+      "ai": true,
+      "titleZh": "GPT-5.6 SOL可以在和平模式下击败Factorio"
+    },
+    {
+      "title": "It's the Memory Latency, Stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:38:16.000Z",
+      "ai": false,
+      "titleZh": "这是内存延迟，愚蠢的"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:02:29.000Z",
+      "ai": true,
+      "titleZh": "生成式人工智能对批判性思维的影响：自我报告（ 2025年）"
+    },
+    {
+      "title": "William Nordhaus has died",
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:59:41.000Z",
+      "ai": false,
+      "titleZh": "威廉·诺德豪斯去世"
+    },
+    {
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:36:05.000Z",
+      "ai": false,
+      "titleZh": "黑客劫持埃及高速公路广告牌和马来西亚屏幕放映色情内容"
+    },
+    {
+      "title": "Copyright Office is restoring copyright to something you have to work to get",
+      "url": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:16:04.000Z",
+      "ai": false,
+      "titleZh": "版权局正在将版权恢复到您必须努力才能获得的东西上"
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -138,6 +228,16 @@
       "titleZh": "20世纪80年代的卡西欧手表"
     },
     {
+      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+      "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:56:41.000Z",
+      "ai": false,
+      "titleZh": "Show HN ： USB-C LTE调制解调器，为我的电脑提供电话线"
+    },
+    {
       "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
       "url": "https://www.ithome.com/1/020/632.htm",
       "source": "IT之家",
@@ -163,16 +263,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-31T15:08:30.000Z",
       "ai": false
-    },
-    {
-      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-      "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-31T14:57:33.000Z",
-      "ai": false,
-      "titleZh": "前Meta研究员下载了盗版书籍，删除了“由于诉讼”"
     },
     {
       "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
@@ -311,6 +401,16 @@
       "ai": false
     },
     {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T13:39:52.000Z",
+      "ai": false,
+      "titleZh": "Jepsen ： ParticleDB 1.1.4"
+    },
+    {
       "title": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统",
       "url": "https://www.ithome.com/1/020/615.htm",
       "source": "IT之家",
@@ -363,6 +463,16 @@
       "lang": "zh",
       "publishedAt": "2026-10-31T13:02:50.000Z",
       "ai": false
+    },
+    {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "lang": "en",
+      "publishedAt": "2026-10-31T12:58:29.000Z",
+      "ai": false,
+      "titleZh": "Show HN ：一种存在于引导扇区的语言模型"
     },
     {
       "title": "159 → 88 元：只有半个女生手掌大小，酷态科 10 号超级电能棒 Mini 京东新低",
@@ -444,16 +554,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-31T11:57:32.000Z",
       "ai": true
-    },
-    {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "url": "https://nullprogram.com/blog/2026/10/31/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-31T11:54:59.000Z",
-      "ai": false,
-      "titleZh": "Prospero ：更文明时代的全新编码线束"
     },
     {
       "title": "总投资约 295 亿，全球首条印刷 OLED G8.6 代产线 TCL 华星 t8 项目设备正式搬入",
@@ -546,14 +646,14 @@
       "ai": false
     },
     {
-      "title": "We Took over ChatGPT Accounts",
+      "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "source": "Hacker News",
       "sourceId": "hn",
       "lang": "en",
       "publishedAt": "2026-10-31T10:30:11.000Z",
       "ai": true,
-      "titleZh": "我们接管了ChatGPT帐户"
+      "titleZh": "算一下：我们如何接管ChatGPT账号"
     },
     {
       "title": "【20:00~20:15】蹲点速抢京东无门槛红包，80 元超补券先到先得，vivo X Fold6 限量 1 元抢",
@@ -883,16 +983,6 @@
       "ai": false
     },
     {
-      "title": "Digital minimalism",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-31T06:16:36.000Z",
-      "ai": false,
-      "titleZh": "数字极简主义"
-    },
-    {
       "title": "本月玩什么｜影之刃零、战争机器：事变日等",
       "url": "https://sspai.com/post/117960",
       "source": "少数派",
@@ -999,16 +1089,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-31T03:21:19.000Z",
       "ai": false
-    },
-    {
-      "title": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-31T02:46:36.000Z",
-      "ai": false,
-      "titleZh": "告诉HN ： Scribd违规"
     },
     {
       "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
@@ -1125,16 +1205,6 @@
       "titleZh": "人工智能支出热潮中正在出现裂缝"
     },
     {
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T19:51:33.000Z",
-      "ai": false,
-      "titleZh": "最古老的冰消失了，石器时代从中浮现出来"
-    },
-    {
       "title": "nemotron-halloween",
       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "source": "HuggingFace",
@@ -1154,16 +1224,6 @@
       "titleZh": "Zest的新人工智能代理通过短信查找餐厅和预订"
     },
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:25:15.000Z",
-      "ai": false,
-      "titleZh": "我最喜欢的PowerMac是任天堂Wii"
-    },
-    {
       "title": "Google&#8217;s first data center satellite is online and writing poetry",
       "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "source": "TechCrunch AI",
@@ -1172,16 +1232,6 @@
       "publishedAt": "2026-10-30T17:00:00.000Z",
       "ai": true,
       "titleZh": "谷歌的第一颗数据中心卫星在线并撰写诗歌"
-    },
-    {
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T16:40:22.000Z",
-      "ai": true,
-      "titleZh": "显示HN ： Qwen权重约1GB的工作任天堂"
     },
     {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
@@ -1194,36 +1244,6 @@
       "titleZh": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会”"
     },
     {
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T15:48:12.000Z",
-      "ai": false,
-      "titleZh": "Florilegium ： LaTeX的程序花"
-    },
-    {
-      "title": "The federated code forge",
-      "url": "https://tangled.org/blog/forge/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T15:44:29.000Z",
-      "ai": false,
-      "titleZh": "联邦代码锻造"
-    },
-    {
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T15:10:31.000Z",
-      "ai": false,
-      "titleZh": "北侧突破"
-    },
-    {
       "title": "游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”",
       "url": "https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html",
       "source": "雷锋网",
@@ -1231,16 +1251,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-30T14:20:00.000Z",
       "ai": true
-    },
-    {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T14:08:20.000Z",
-      "ai": true,
-      "titleZh": "思科为工程师提供无限的AI令牌来重写遗留代码"
     },
     {
       "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
@@ -1299,16 +1309,6 @@
       "lang": "zh",
       "publishedAt": "2026-10-30T12:58:31.000Z",
       "ai": true
-    },
-    {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "lang": "en",
-      "publishedAt": "2026-10-30T12:50:01.000Z",
-      "ai": false,
-      "titleZh": "63亿美元的币安黑客攻击在短短20分钟内就完成了"
     },
     {
       "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
@@ -1956,26 +1956,34 @@
       {
         "name": "Fazmin/cve-intel",
         "url": "https://github.com/Fazmin/cve-intel",
-        "stars": 125,
+        "stars": 126,
         "desc": "Local security intelligence for CVE triage - 40 data sources and 41 tools, risk scores and an MCP server for AI agents, all in native Rust. Private by default.",
         "lang": "Rust",
         "createdAt": "2026-10-18T04:20:37Z"
       },
       {
+        "name": "OFat34764e/InterviewCopilot-rpocket-team",
+        "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
+        "stars": 95,
+        "desc": "EdTech application designed to bridge the gap between learning and landing your dream job",
+        "lang": "",
+        "createdAt": "2026-10-26T07:19:34Z"
+      },
+      {
         "name": "drawthingsai/local-code-community",
         "url": "https://github.com/drawthingsai/local-code-community",
-        "stars": 72,
+        "stars": 73,
         "desc": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
         "lang": "C",
         "createdAt": "2026-10-21T18:58:08Z"
       },
       {
-        "name": "OFat34764e/InterviewCopilot-rpocket-team",
-        "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
-        "stars": 67,
-        "desc": "EdTech application designed to bridge the gap between learning and landing your dream job",
-        "lang": "",
-        "createdAt": "2026-10-26T07:19:34Z"
+        "name": "Omianheart/Deadline-resp-Tracker-AI",
+        "url": "https://github.com/Omianheart/Deadline-resp-Tracker-AI",
+        "stars": 68,
+        "desc": "📅 AI-powered academic deadline assistant that uses Gemini Vision to extract assignments, exams, projects & submission dates from academic documents, with smart",
+        "lang": "HTML",
+        "createdAt": "2026-10-28T16:16:05Z"
       },
       {
         "name": "agentshield-dev/agentshield",
@@ -1992,14 +2000,6 @@
         "desc": "Visual builder and execution engine for AI powered organizations",
         "lang": "Python",
         "createdAt": "2026-10-23T06:21:09Z"
-      },
-      {
-        "name": "Omianheart/Deadline-resp-Tracker-AI",
-        "url": "https://github.com/Omianheart/Deadline-resp-Tracker-AI",
-        "stars": 42,
-        "desc": "📅 AI-powered academic deadline assistant that uses Gemini Vision to extract assignments, exams, projects & submission dates from academic documents, with smart",
-        "lang": "HTML",
-        "createdAt": "2026-10-28T16:16:05Z"
       },
       {
         "name": "zidniryi/cutvii",
@@ -2054,84 +2054,84 @@
       {
         "id": "Nanbeige/Nanbeige4.3-33B",
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-        "likes": 842,
+        "likes": 856,
         "downloads": 13832,
         "task": "text-generation"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "likes": 4073,
+        "likes": 4096,
         "downloads": 156373,
         "task": "image-text-to-text"
       },
       {
         "id": "LiquidAI/LFM3-1.7B",
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-        "likes": 610,
+        "likes": 624,
         "downloads": 32933,
         "task": "text-generation"
       },
       {
         "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-        "likes": 528,
+        "likes": 538,
         "downloads": 24357,
         "task": "automatic-speech-recognition"
       },
       {
         "id": "mistralai/Mistral-Large-4-1T-A52B",
         "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
-        "likes": 1389,
+        "likes": 1399,
         "downloads": 2945,
         "task": "image-text-to-text"
       },
       {
         "id": "baidu/Unlimited-OCR-2",
         "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
-        "likes": 469,
+        "likes": 472,
         "downloads": 69231,
         "task": "image-text-to-text"
       },
       {
         "id": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "likes": 10039,
+        "likes": 10073,
         "downloads": 2441077,
         "task": "image-to-video"
       },
       {
         "id": "ccore/Qwen3.5-4B-3D-Coder",
         "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-        "likes": 373,
+        "likes": 384,
         "downloads": 29615,
         "task": ""
       },
       {
-        "id": "RecursiveSI/flint",
-        "url": "https://huggingface.co/RecursiveSI/flint",
-        "likes": 1272,
-        "downloads": 23079,
+        "id": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "likes": 937,
+        "downloads": 14515,
         "task": "text-generation"
       },
       {
-        "id": "XHToken/Spark-X2.6-4B",
-        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-        "likes": 935,
-        "downloads": 14515,
+        "id": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "likes": 1274,
+        "downloads": 23079,
         "task": "text-generation"
       },
       {
         "id": "black-forest-labs/flux-3-image-klein-comfy",
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "likes": 2171,
+        "likes": 2187,
         "downloads": 925236,
         "task": "image-to-image"
       },
       {
         "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "likes": 5398,
+        "likes": 5406,
         "downloads": 2558497,
         "task": "text-to-image"
       }
@@ -2143,22 +2143,22 @@
       {
         "word": "Agent",
         "count": 7,
-        "delta": 3
-      },
-      {
-        "word": "DeepSeek",
-        "count": 5,
-        "delta": 1
-      },
-      {
-        "word": "OpenAI",
-        "count": 5,
         "delta": 0
       },
       {
         "word": "GPT",
-        "count": 4,
+        "count": 5,
         "delta": 1
+      },
+      {
+        "word": "DeepSeek",
+        "count": 5,
+        "delta": 0
+      },
+      {
+        "word": "OpenAI",
+        "count": 4,
+        "delta": -1
       },
       {
         "word": "Anthropic",
@@ -2173,12 +2173,12 @@
       {
         "word": "机器人",
         "count": 3,
-        "delta": 2
+        "delta": 0
       },
       {
         "word": "产品",
         "count": 3,
-        "delta": 2
+        "delta": 0
       },
       {
         "word": "发布",
@@ -2188,12 +2188,12 @@
       {
         "word": "Claude",
         "count": 2,
-        "delta": -2
+        "delta": 0
       },
       {
         "word": "融资",
         "count": 2,
-        "delta": -1
+        "delta": 0
       },
       {
         "word": "投资",
@@ -2203,16 +2203,11 @@
       {
         "word": "芯片",
         "count": 2,
-        "delta": 1
+        "delta": 0
       },
       {
         "word": "算力",
         "count": 2,
-        "delta": -2
-      },
-      {
-        "word": "Qwen",
-        "count": 1,
         "delta": 0
       },
       {
@@ -2239,15 +2234,7 @@
     "signals": [
       {
         "type": "up",
-        "text": "「Agent」热度上升 +3（当前 7 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「机器人」热度上升 +2（当前 3 次提及）"
-      },
-      {
-        "type": "up",
-        "text": "「产品」热度上升 +2（当前 3 次提及）"
+        "text": "「GPT」热度上升 +1（当前 5 次提及）"
       },
       {
         "type": "money",
@@ -2261,6 +2248,15 @@
     "fundingCount": 9
   },
   "opportunities": [
+    {
+      "type": "新模型",
+      "icon": "🧠",
+      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-31T18:50:34.000Z"
+    },
     {
       "type": "资本动向",
       "icon": "💰",
@@ -2334,15 +2330,6 @@
       "publishedAt": "2026-10-31T07:52:19.000Z"
     },
     {
-      "type": "新模型",
-      "icon": "🧠",
-      "action": "做横向对比测评、使用技巧、避坑指南，最适合学生视角",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-31T05:11:19.000Z"
-    },
-    {
       "type": "资本动向",
       "icon": "💰",
       "action": "判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感",
@@ -2403,16 +2390,16 @@
       "title": "用 AI 10 分钟搞定Agent，大学生亲测"
     },
     {
+      "kw": "GPT",
+      "title": "GPT值不值得用？我替你先试了"
+    },
+    {
       "kw": "DeepSeek",
-      "title": "DeepSeek值不值得用？我替你先试了"
+      "title": "手把手教你用DeepSeek，零基础也能上手"
     },
     {
       "kw": "OpenAI",
       "title": "OpenAI最新动向，对大学生意味着什么？"
-    },
-    {
-      "kw": "GPT",
-      "title": "手把手教你用GPT，零基础也能上手"
     },
     {
       "kw": "Anthropic",
@@ -2431,5 +2418,5 @@
       "title": "大学生必看：Claude的 5 个隐藏用法"
     }
   ],
-  "digest": "# AI 变现雷达简报 · 2026-10-31\n\n## 一、今日信号\n- 「Agent」热度上升 +3（当前 7 次提及）\n- 「机器人」热度上升 +2（当前 3 次提及）\n- 「产品」热度上升 +2（当前 3 次提及）\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [资本动向] OpenAI reportedly lowers funding target for new round\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：TechCrunch AI\n- [新工具上线] DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：爱范儿\n- [新模型] DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 西湖大学成立世界模型研究中心，致力于突破核心瓶颈\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [资本动向] 史上最大 IPO 前夕，黑石突然改口称 Anthropic 或无法获得投资级信用评级\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新工具上线] 号称全球首创：香港公司 Arrowmax 推出 AI 电动螺丝刀 S1，能用摄像头识别螺丝类型\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] 从“懂回答”到“能执行”：Zoho如何让AI走进企业业务\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n- [新工具上线] ChatGPT网页端及移动端上线多账户切换功能，最多可同时登录两个账号\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：36氪\n\n## 三、热度关键词\nAgent (7) · DeepSeek (5) · OpenAI (5) · GPT (4) · Anthropic (3) · 开源 (3) · 机器人 (3) · 产品 (3) · 发布 (3) · Claude (2) · 融资 (2) · 投资 (2)\n\n## 四、头条速览\n- Enlightenment 0.28 Released with Many Improvements（Hacker News）\n- OpenAI reportedly lowers funding target for new round（TechCrunch AI）\n- What is a light-day? The milestone Voyager 1 is closing in on（Hacker News）\n- Casio Watches of the 1980s（Hacker News）\n- AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元（IT之家）\n- 马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准（IT之家）\n- 小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店（IT之家）\n- Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'（Hacker News）\n- OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”（IT之家）\n- 鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山（IT之家）"
+  "digest": "# AI 变现雷达简报 · 2026-10-31\n\n## 一、今日信号\n- 「GPT」热度上升 +1（当前 5 次提及）\n- 检测到 9 条融资 / 资本相关资讯，注意风口与钱的方向\n- GitHub 近 14 天新增 12 个高星 AI 项目，可从中找工具与选题\n\n## 二、变现机会（可直接行动）\n- [新模型] GPT-5.6 Sol can beat Factorio on peaceful mode\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：Hacker News\n- [资本动向] OpenAI reportedly lowers funding target for new round\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：TechCrunch AI\n- [新工具上线] DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：爱范儿\n- [新模型] DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [新模型] 西湖大学成立世界模型研究中心，致力于突破核心瓶颈\n  👉 做横向对比测评、使用技巧、避坑指南，最适合学生视角\n  出处：IT之家\n- [资本动向] 史上最大 IPO 前夕，黑石突然改口称 Anthropic 或无法获得投资级信用评级\n  👉 判断风口方向，写「这笔钱为什么投这里」的解读，建立专业感\n  出处：IT之家\n- [新工具上线] 号称全球首创：香港公司 Arrowmax 推出 AI 电动螺丝刀 S1，能用摄像头识别螺丝类型\n  👉 第一时间做图文教程 / 录屏测评，抢首发流量（这类人少、涨粉快）\n  出处：IT之家\n- [商业落地] 从“懂回答”到“能执行”：Zoho如何让AI走进企业业务\n  👉 写行业应用拆解，对口 B 端人群，适合接高价代做\n  出处：雷锋网\n\n## 三、热度关键词\nAgent (7) · GPT (5) · DeepSeek (5) · OpenAI (4) · Anthropic (3) · 开源 (3) · 机器人 (3) · 产品 (3) · 发布 (3) · Claude (2) · 融资 (2) · 投资 (2)\n\n## 四、头条速览\n- HackerTube: YouTube built from videos recommended by HN（Hacker News）\n- Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)（Hacker News）\n- TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8（Hacker News）\n- The Duty of a Scholar（Hacker News）\n- GPT-5.6 Sol can beat Factorio on peaceful mode（Hacker News）\n- It's the Memory Latency, Stupid（Hacker News）\n- The Impact of Generative AI on Critical Thinking: Self-Reported (2025)（Hacker News）\n- William Nordhaus has died（Hacker News）\n- Hackers hijack Egypt highway billboard and Malaysian screens to show porn（Hacker News）\n- Copyright Office is restoring copyright to something you have to work to get（Hacker News）"
 }
